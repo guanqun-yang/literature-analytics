@@ -1,11 +1,7 @@
 1. **[[2504.02883] SemEval-2025 Task 4: Unlearning sensitive content from Large Language
   Models](https://arxiv.org/pdf/2504.02883.pdf)**
-
 Updated on 2025-04-07
-
 *Anil Ramakrishna, Yixin Wan, Xiaomeng Jin, Kai-Wei Chang, Zhiqi Bu, Bhanukiran Vinzamuri, Volkan Cevher, Mingyi Hong, Rahul Gupta*
-
-
   We introduce SemEval-2025 Task 4: unlearning sensitive content from Large
 Language Models (LLMs). The task features 3 subtasks for LLM unlearning
 spanning different use cases: (1) unlearn long form synthetic creative
@@ -16,18 +12,12 @@ documents sampled from the target model's training dataset. We received over
 100 submissions from over 30 institutions and we summarize the key techniques
 and lessons in this paper.
 
-
-
 ---
 
 2. **[[2404.18239] SOUL: Unlocking the Power of Second-Order Optimization for LLM
   Unlearning](https://arxiv.org/pdf/2404.18239.pdf)**
-
 Updated on 2024-06-26
-
 *Jinghan Jia, Yihua Zhang, Yimeng Zhang, Jiancheng Liu, Bharat Runwal, James Diffenderfer, Bhavya Kailkhura, Sijia Liu*
-
-
   Large Language Models (LLMs) have highlighted the necessity of effective
 unlearning mechanisms to comply with data regulations and ethical AI practices.
 LLM unlearning aims at removing undesired data influences and associated model
@@ -46,17 +36,11 @@ methods across various unlearning tasks, models, and metrics, indicating that
 second-order optimization offers an effective and broadly applicable solution
 for LLM unlearning. Codes are available at https://github.com/OPTML-Group/SOUL.
 
-
-
 ---
 
 3. **[[2502.00406] ALU: Agentic LLM Unlearning](https://arxiv.org/pdf/2502.00406.pdf)**
-
 Updated on 2025-02-04
-
 *Debdeep Sanyal, Murari Mandal*
-
-
   Information removal or suppression in large language models (LLMs) is a
 desired functionality, useful in AI regulation, legal compliance, safety, and
 privacy. LLM unlearning methods aim to remove information on demand from LLMs.
@@ -80,17 +64,11 @@ compared to existing methods when evaluated at scale. Specifically, ALU is
 assessed on up to 1000 unlearning targets, exceeding the evaluation scope of
 all previously proposed LLM unlearning methods.
 
-
-
 ---
 
 4. **[[2504.13774] DP2Unlearning: An Efficient and Guaranteed Unlearning Framework for LLMs](https://arxiv.org/pdf/2504.13774.pdf)**
-
 Updated on 2025-04-21
-
 *Tamim Al Mahmud, Najeeb Jebreel, Josep Domingo-Ferrer, David Sanchez*
-
-
   Large language models (LLMs) have recently revolutionized language processing
 tasks but have also brought ethical and legal issues. LLMs have a tendency to
 memorize potentially private or copyrighted information present in the training
@@ -114,17 +92,11 @@ reasonable computational cost, it outperforms approximate unlearning methods at
 both preserving the utility of the model post-unlearning and effectively
 forgetting the targeted information.
 
-
-
 ---
 
 5. **[[2502.15097] LUME: LLM Unlearning with Multitask Evaluations](https://arxiv.org/pdf/2502.15097.pdf)**
-
 Updated on 2025-02-28
-
 *Anil Ramakrishna, Yixin Wan, Xiaomeng Jin, Kai-Wei Chang, Zhiqi Bu, Bhanukiran Vinzamuri, Volkan Cevher, Mingyi Hong, Rahul Gupta*
-
-
   Unlearning aims to remove copyrighted, sensitive, or private content from
 large language models (LLMs) without a full retraining. In this work, we
 develop a multi-task unlearning benchmark (LUME) which features three tasks:
@@ -135,18 +107,12 @@ parameter sizes as the target models. We conduct detailed evaluations of
 several recently proposed unlearning algorithms and present results on
 carefully crafted metrics to understand their behavior and limitations.
 
-
-
 ---
 
 6. **[[2503.04693] UIPE: Enhancing LLM Unlearning by Removing Knowledge Related to
   Forgetting Targets](https://arxiv.org/pdf/2503.04693.pdf)**
-
 Updated on 2025-03-07
-
 *Wenyu Wang, Mengqi Zhang, Xiaotian Ye, Zhaochun Ren, Zhumin Chen, Pengjie Ren*
-
-
   Large Language Models (LLMs) inevitably acquire harmful information during
 training on massive datasets. LLM unlearning aims to eliminate the influence of
 such harmful information while maintaining the model's overall performance.
@@ -162,17 +128,11 @@ correlated with the forgetting targets. Experimental results show that UIPE
 significantly enhances the performance of various mainstream LLM unlearning
 methods on the TOFU benchmark.
 
-
-
 ---
 
 7. **[[2404.11045] Offset Unlearning for Large Language Models](https://arxiv.org/pdf/2404.11045.pdf)**
-
 Updated on 2024-04-18
-
 *James Y. Huang, Wenxuan Zhou, Fei Wang, Fred Morstatter, Sheng Zhang, Hoifung Poon, Muhao Chen*
-
-
   Despite the strong capabilities of Large Language Models (LLMs) to acquire
 knowledge from their training corpora, the memorization of sensitive
 information in the corpora such as copyrighted, harmful, and private content
@@ -191,17 +151,11 @@ $\delta$-unlearning also effectively incorporates different unlearning
 algorithms, making our approach a versatile solution to adapting various
 existing unlearning algorithms to black-box LLMs.
 
-
-
 ---
 
 8. **[[2412.00383] Unified Parameter-Efficient Unlearning for LLMs](https://arxiv.org/pdf/2412.00383.pdf)**
-
 Updated on 2025-04-21
-
 *Chenlu Ding, Jiancan Wu, Yancheng Yuan, Jinda Lu, Kai Zhang, Alex Su, Xiang Wang, Xiangnan He*
-
-
   The advent of Large Language Models (LLMs) has revolutionized natural
 language processing, enabling advanced understanding and reasoning capabilities
 across a variety of tasks. Fine-tuning these models for specific domains,
@@ -218,17 +172,11 @@ model performance. Extensive experiments on benchmark datasets demonstrate that
 LLMEraser excels in efficiently managing various unlearning scenarios while
 maintaining the overall integrity and efficacy of the models.
 
-
-
 ---
 
 9. **[[2406.10952] Avoiding Copyright Infringement via Large Language Model Unlearning](https://arxiv.org/pdf/2406.10952.pdf)**
-
 Updated on 2025-02-12
-
 *Guangyao Dou, Zheyuan Liu, Qing Lyu, Kaize Ding, Eric Wong*
-
-
   Pre-trained Large Language Models (LLMs) have demonstrated remarkable
 capabilities but also pose risks by learning and generating copyrighted
 material, leading to significant legal and ethical concerns. In real-world
@@ -247,17 +195,11 @@ adjusting targeted parameters. Experimental results show that SSU achieves an
 effective trade-off between unlearning efficacy and general-purpose language
 abilities, outperforming existing baselines.
 
-
-
 ---
 
 10. **[[2502.07218] LUNAR: LLM Unlearning via Neural Activation Redirection](https://arxiv.org/pdf/2502.07218.pdf)**
-
 Updated on 2025-02-12
-
 *William F. Shen, Xinchi Qiu, Meghdad Kurmanji, Alex Iacob, Lorenzo Sani, Yihong Chen, Nicola Cancedda, Nicholas D. Lane*
-
-
   Large Language Models (LLMs) benefit from training on ever larger amounts of
 textual data, but as a result, they increasingly incur the risk of leaking
 private information. The ability to selectively remove knowledge from LLMs is,
@@ -277,18 +219,12 @@ that LUNAR is robust against white-box adversarial attacks and versatile in
 handling real-world scenarios, such as processing sequential unlearning
 requests.
 
-
-
 ---
 
 11. **[[2408.12416] Unlearning Trojans in Large Language Models: A Comparison Between
   Natural Language and Source Code](https://arxiv.org/pdf/2408.12416.pdf)**
-
 Updated on 2024-08-23
-
 *Mahdi Kazemi, Aftab Hussain, Md Rafiqul Islam Rabin, Mohammad Amin Alipour, Sen Lin*
-
-
   This work investigates the application of Machine Unlearning (MU) for
 mitigating the impact of trojans embedded in conventional large language models
 of natural language (Text-LLMs) and large language models of code (Code-LLMs)
@@ -305,17 +241,11 @@ while preserving its original functionality. To the best of our knowledge, this
 is the first work that compares and contrasts MU of trojans in LLMs, in the NL
 and Coding domain.
 
-
-
 ---
 
 12. **[[2502.17823] A General Framework to Enhance Fine-tuning-based LLM Unlearning](https://arxiv.org/pdf/2502.17823.pdf)**
-
 Updated on 2025-03-25
-
 *Jie Ren, Zhenwei Dai, Xianfeng Tang, Hui Liu, Jingying Zeng, Zhen Li, Rahul Goutam, Suhang Wang, Yue Xing, Qi He, Hui Liu*
-
-
   Unlearning has been proposed to remove copyrighted and privacy-sensitive data
 from Large Language Models (LLMs). Existing approaches primarily rely on
 fine-tuning-based methods, which can be categorized into gradient ascent-based
@@ -334,17 +264,11 @@ model parameters. Experiments show that GRUN significantly improves the
 unlearning and utility. Meanwhile, it is general for fine-tuning-based methods,
 efficient and promising for sequential unlearning.
 
-
-
 ---
 
 13. **[[2402.08787] Rethinking Machine Unlearning for Large Language Models](https://arxiv.org/pdf/2402.08787.pdf)**
-
 Updated on 2024-12-10
-
 *Sijia Liu, Yuanshun Yao, Jinghan Jia, Stephen Casper, Nathalie Baracaldo, Peter Hase, Yuguang Yao, Chris Yuhao Liu, Xiaojun Xu, Hang Li, Kush R. Varshney, Mohit Bansal, Sanmi Koyejo, Yang Liu*
-
-
   We explore machine unlearning (MU) in the domain of large language models
 (LLMs), referred to as LLM unlearning. This initiative aims to eliminate
 undesirable data influence (e.g., sensitive or illegal information) and the
@@ -364,17 +288,11 @@ Furthermore, we outline an effective assessment framework for LLM unlearning
 and explore its applications in copyright and privacy safeguards and
 sociotechnical harm reduction.
 
-
-
 ---
 
 14. **[[2502.14425] A Survey on Data Contamination for Large Language Models](https://arxiv.org/pdf/2502.14425.pdf)**
-
 Updated on 2025-02-21
-
 *Yuxing Cheng, Yi Chang, Yuan Wu*
-
-
   Recent advancements in Large Language Models (LLMs) have demonstrated
 significant progress in various areas, such as text generation and code
 synthesis. However, the reliability of performance evaluation has come under
@@ -394,17 +312,11 @@ detection approaches. Our survey highlights the requirements for more rigorous
 evaluation protocols and proposes future directions for addressing data
 contamination challenges.
 
-
-
 ---
 
 15. **[[2307.10476] What can we learn from Data Leakage and Unlearning for Law?](https://arxiv.org/pdf/2307.10476.pdf)**
-
 Updated on 2023-07-21
-
 *Jaydeep Borkar*
-
-
   Large Language Models (LLMs) have a privacy concern because they memorize
 training data (including personally identifiable information (PII) like emails
 and phone numbers) and leak it during inference. A company can train an LLM on
@@ -422,17 +334,11 @@ privacy and legal concerns for companies that use LLMs to offer services. We
 hope this work will start an interdisciplinary discussion within AI and law
 communities regarding the need for policies to tackle these issues.
 
-
-
 ---
 
 16. **[[2412.20412] Multi-Objective Large Language Model Unlearning](https://arxiv.org/pdf/2412.20412.pdf)**
-
 Updated on 2025-01-07
-
 *Zibin Pan, Shuwen Zhang, Yuesheng Zheng, Chi Li, Yuheng Cheng, Junhua Zhao*
-
-
   Machine unlearning in the domain of large language models (LLMs) has
 attracted great attention recently, which aims to effectively eliminate
 undesirable behaviors from LLMs without full retraining from scratch. In this
@@ -450,18 +356,12 @@ results verify that MoLLM outperforms the SOTA GA-based LLM unlearning methods
 in terms of unlearning effect and model utility preservation. The source code
 is available at https://github.com/zibinpan/MOLLM.
 
-
-
 ---
 
 17. **[[2407.20999] MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM
   Fine-Tuning](https://arxiv.org/pdf/2407.20999.pdf)**
-
 Updated on 2025-04-21
-
 *Yupeng Chen, Senmiao Wang, Yushun Zhang, Zhihang Lin, Haozhe Zhang, Weijian Sun, Tian Ding, Ruoyu Sun*
-
-
   Large language models (LLMs) have demonstrated remarkable capabilities across
 a wide range of tasks. Typically, LLMs are first pre-trained on large corpora
 and subsequently fine-tuned on task-specific datasets. However, during
@@ -479,18 +379,12 @@ validate MoFO through rigorous convergence analysis and extensive experiments,
 demonstrating its effectiveness in mitigating forgetting without pre-training
 data.
 
-
-
 ---
 
 18. **[[2311.11123] (Why) Is My Prompt Getting Worse? Rethinking Regression Testing for
   Evolving LLM APIs](https://arxiv.org/pdf/2311.11123.pdf)**
-
 Updated on 2024-02-08
-
 *Wanqin Ma, Chenyang Yang, Christian Kästner*
-
-
   Large Language Models (LLMs) are increasingly integrated into software
 applications. Downstream application developers often access LLMs through APIs
 provided as a service. However, LLM APIs are often updated silently and
@@ -502,18 +396,12 @@ evolving LLM APIs. We argue that regression testing LLMs requires fundamental
 changes to traditional testing approaches, due to different correctness
 notions, prompting brittleness, and non-determinism in LLM APIs.
 
-
-
 ---
 
 19. **[[2407.16951] Towards Transfer Unlearning: Empirical Evidence of Cross-Domain Bias
   Mitigation](https://arxiv.org/pdf/2407.16951.pdf)**
-
 Updated on 2024-07-25
-
 *Huimin Lu, Masaru Isonuma, Junichiro Mori, Ichiro Sakata*
-
-
   Large language models (LLMs) often inherit biases from vast amounts of
 training corpora. Traditional debiasing methods, while effective to some
 extent, do not completely eliminate memorized biases and toxicity in LLMs. In
@@ -529,18 +417,12 @@ unexpected potential for cross-domain transfer unlearning: debiasing in one
 bias form (e.g. gender) may contribute to mitigating others (e.g. race and
 religion).
 
-
-
 ---
 
 20. **[[2411.12103] Does Unlearning Truly Unlearn? A Black Box Evaluation of LLM Unlearning
   Methods](https://arxiv.org/pdf/2411.12103.pdf)**
-
 Updated on 2025-02-25
-
 *Jai Doshi, Asa Cooper Stickland*
-
-
   Large language model unlearning aims to remove harmful information that LLMs
 have learnt to prevent their use for malicious purposes. LLMU and RMU have been
 proposed as two methods for LLM unlearning, achieving impressive results on
@@ -557,18 +439,12 @@ unlearning. Our methodology serves as an evaluation framework for LLM
 unlearning methods. The code is available at:
 https://github.com/JaiDoshi/Knowledge-Erasure.
 
-
-
 ---
 
 21. **[[2411.18948] RevPRAG: Revealing Poisoning Attacks in Retrieval-Augmented Generation
   through LLM Activation Analysis](https://arxiv.org/pdf/2411.18948.pdf)**
-
 Updated on 2025-02-20
-
 *Xue Tan, Hao Luan, Mingyu Luo, Xiaoyan Sun, Ping Chen, Jun Dai*
-
-
   Retrieval-Augmented Generation (RAG) enriches the input to LLMs by retrieving
 information from the relevant knowledge database, enabling them to produce
 responses that are more accurate and contextually appropriate. It is worth
@@ -586,18 +462,12 @@ multiple benchmark datasets and RAG architectures show our approach could
 achieve 98% true positive rate, while maintaining false positive rates close to
 1%.
 
-
-
 ---
 
 22. **[[2503.07697] PoisonedParrot: Subtle Data Poisoning Attacks to Elicit
   Copyright-Infringing Content from Large Language Models](https://arxiv.org/pdf/2503.07697.pdf)**
-
 Updated on 2025-03-12
-
 *Michael-Andrei Panaitescu-Liess, Pankayaraj Pathmanathan, Yigitcan Kaya, Zora Che, Bang An, Sicheng Zhu, Aakriti Agrawal, Furong Huang*
-
-
   As the capabilities of large language models (LLMs) continue to expand, their
 usage has become increasingly prevalent. However, as reflected in numerous
 ongoing lawsuits regarding LLM-generated content, addressing copyright
@@ -614,18 +484,12 @@ at mitigating copyright-infringement poisoning attacks by proposing a defense:
 ParrotTrap. We encourage the community to explore this emerging threat model
 further.
 
-
-
 ---
 
 23. **[[2404.17196] Human-Imperceptible Retrieval Poisoning Attacks in LLM-Powered
   Applications](https://arxiv.org/pdf/2404.17196.pdf)**
-
 Updated on 2024-04-29
-
 *Quan Zhang, Binqi Zeng, Chijin Zhou, Gwihwan Go, Heyuan Shi, Yu Jiang*
-
-
   Presently, with the assistance of advanced LLM application development
 frameworks, more and more LLM-powered applications can effortlessly augment the
 LLMs' knowledge with external content using the retrieval augmented generation
@@ -643,17 +507,11 @@ mislead LLMs with an 88.33\% success rate, and achieve a 66.67\% success rate
 in the real-world application, demonstrating the potential impact of retrieval
 poisoning.
 
-
-
 ---
 
 24. **[[2402.10058] Towards Safer Large Language Models through Machine Unlearning](https://arxiv.org/pdf/2402.10058.pdf)**
-
 Updated on 2024-06-06
-
 *Zheyuan Liu, Guangyao Dou, Zhaoxuan Tan, Yijun Tian, Meng Jiang*
-
-
   The rapid advancement of Large Language Models (LLMs) has demonstrated their
 vast potential across various domains, attributed to their extensive
 pretraining knowledge and exceptional generalizability. However, LLMs often
@@ -673,18 +531,12 @@ robust on normal prompts. Our experiments conducted across various LLM
 architectures demonstrate that SKU identifies a good balance point between
 removing harmful information and preserving utility.
 
-
-
 ---
 
 25. **[[2406.10890] RWKU: Benchmarking Real-World Knowledge Unlearning for Large Language
   Models](https://arxiv.org/pdf/2406.10890.pdf)**
-
 Updated on 2024-06-18
-
 *Zhuoran Jin, Pengfei Cao, Chenhao Wang, Zhitao He, Hongbang Yuan, Jiachun Li, Yubo Chen, Kang Liu, Jun Zhao*
-
-
   Large language models (LLMs) inevitably memorize sensitive, copyrighted, and
 harmful knowledge from the training corpus; therefore, it is crucial to erase
 this knowledge from the models. Machine unlearning is a promising solution for
@@ -706,18 +558,12 @@ experiments across two unlearning scenarios, two models and six baseline
 methods and obtain some meaningful findings. We release our benchmark and code
 publicly at http://rwku-bench.github.io for future work.
 
-
-
 ---
 
 26. **[[2503.09117] GRU: Mitigating the Trade-off between Unlearning and Retention for Large
   Language Models](https://arxiv.org/pdf/2503.09117.pdf)**
-
 Updated on 2025-03-13
-
 *Yue Wang, Qizhou Wang, Feng Liu, Wei Huang, Yali Du, Xiaojiang Du, Bo Han*
-
-
   Large language model (LLM) unlearning has demonstrated its essential role in
 removing privacy and copyright-related responses, crucial for their legal and
 safe applications. However, the pursuit of complete unlearning often comes with
@@ -741,17 +587,11 @@ range of baseline methods through its adaptable and compatible characteristics.
 Additionally, experimental results show its broad effectiveness across a
 diverse set of benchmarks for LLM unlearning.
 
-
-
 ---
 
 27. **[[2406.16201] Blind Baselines Beat Membership Inference Attacks for Foundation Models](https://arxiv.org/pdf/2406.16201.pdf)**
-
 Updated on 2025-04-01
-
 *Debeshee Das, Jie Zhang, Florian Tramèr*
-
-
   Membership inference (MI) attacks try to determine if a data sample was used
 to train a machine learning model. For foundation models trained on unknown Web
 data, MI attacks are often used to detect copyrighted training materials,
@@ -764,36 +604,24 @@ trained model -- outperform state-of-the-art MI attacks. Existing evaluations
 thus tell us nothing about membership leakage of a foundation model's training
 data.
 
-
-
 ---
 
 28. **[[2311.10733] Proceedings of the 3rd International Workshop on Mining and Learning in
   the Legal Domain (MLLD-23)](https://arxiv.org/pdf/2311.10733.pdf)**
-
 Updated on 2023-11-21
-
 *Masoud Makrehchi, Dell Zhang, Alina Petrova, John Armour*
-
-
   This is the Proceedings of the 3rd International Workshop on Mining and
 Learning in the Legal Domain (MLLD-23) which took place in conjunction with the
 32nd ACM International Conference on Information and Knowledge Management
 (CIKM-2023) at the University of Birmingham, Birmingham, UK on Sunday 22nd
 October 2023.
 
-
-
 ---
 
 29. **[[2504.12681] GRAIL: Gradient-Based Adaptive Unlearning for Privacy and Copyright in
   LLMs](https://arxiv.org/pdf/2504.12681.pdf)**
-
 Updated on 2025-04-18
-
 *Kun-Woo Kim, Ji-Hoon Park, Ju-Min Han, Seong-Whan Lee*
-
-
   Large Language Models (LLMs) trained on extensive datasets often learn
 sensitive information, which raises significant social and legal concerns under
 principles such as the "Right to be forgotten." Retraining entire models from
@@ -814,17 +642,11 @@ previous state-of-art method. Our findings establish a new paradigm for
 effectively managing and regulating sensitive information in large-scale
 pre-trained language models.
 
-
-
 ---
 
 30. **[[2308.12247] How to Protect Copyright Data in Optimization of Large Language Models?](https://arxiv.org/pdf/2308.12247.pdf)**
-
 Updated on 2023-08-24
-
 *Timothy Chu, Zhao Song, Chiwun Yang*
-
-
   Large language models (LLMs) and generative AI have played a transformative
 role in computer research and applications. Controversy has arisen as to
 whether these models output copyrighted data, which can occur if the data the
@@ -838,18 +660,12 @@ regression function from generating copyright data. This establishes a
 theoretical method of training large language models in a way that avoids
 generating copyright data.
 
-
-
 ---
 
 31. **[[2409.13474] Alternate Preference Optimization for Unlearning Factual Knowledge in
   Large Language Models](https://arxiv.org/pdf/2409.13474.pdf)**
-
 Updated on 2025-01-23
-
 *Anmol Mekala, Vineeth Dorna, Shreya Dubey, Abhishek Lalwani, David Koleczek, Mukund Rungta, Sadid Hasan, Elita Lobo*
-
-
   Machine unlearning aims to efficiently eliminate the influence of specific
 training data, known as the forget set, from the model. However, existing
 unlearning methods for Large Language Models (LLMs) face a critical challenge:
@@ -865,18 +681,12 @@ also avoids undesirable model behaviors while maintaining overall model
 performance. Our implementation can be found at
 https://github.com/molereddy/Alternate-Preference-Optimization.
 
-
-
 ---
 
 32. **[[2412.04947] C$^2$LEVA: Toward Comprehensive and Contamination-Free Language Model
   Evaluation](https://arxiv.org/pdf/2412.04947.pdf)**
-
 Updated on 2024-12-17
-
 *Yanyang Li, Tin Long Wong, Cheung To Hung, Jianqiao Zhao, Duo Zheng, Ka Wai Liu, Michael R. Lyu, Liwei Wang*
-
-
   Recent advances in large language models (LLMs) have shown significant
 promise, yet their evaluation raises concerns, particularly regarding data
 contamination due to the lack of access to proprietary training data. To
@@ -889,17 +699,11 @@ strategy that fully automates test data renewal and enforces data protection
 during benchmark data release. Our large-scale evaluation of 15 open-source and
 proprietary models demonstrates the effectiveness of C$^2$LEVA.
 
-
-
 ---
 
 33. **[[2402.14845] Purifying Large Language Models by Ensembling a Small Language Model](https://arxiv.org/pdf/2402.14845.pdf)**
-
 Updated on 2024-02-26
-
 *Tianlin Li, Qian Liu, Tianyu Pang, Chao Du, Qing Guo, Yang Liu, Min Lin*
-
-
   The emerging success of large language models (LLMs) heavily relies on
 collecting abundant training data from external (untrusted) sources. Despite
 substantial efforts devoted to data cleaning and curation, well-constructed
@@ -913,17 +717,11 @@ confirm the efficacy of ensembling LLMs with SLMs, which can effectively
 preserve the performance of LLMs while mitigating issues such as copyright
 infringement, data poisoning, and privacy violations.
 
-
-
 ---
 
 34. **[[2504.05058] Not All Data Are Unlearned Equally](https://arxiv.org/pdf/2504.05058.pdf)**
-
 Updated on 2025-04-14
-
 *Aravind Krishnan, Siva Reddy, Marius Mosbach*
-
-
   Machine unlearning is concerned with the task of removing knowledge learned
 from particular data points from a trained model. In the context of large
 language models (LLMs), unlearning has recently received increased attention,
@@ -942,17 +740,11 @@ problem worsens as models become larger. Overall, our experiments highlight the
 need for better evaluation practices and novel methods for LLM unlearning that
 take the training data of models into account.
 
-
-
 ---
 
 35. **[[2406.04244] Benchmark Data Contamination of Large Language Models: A Survey](https://arxiv.org/pdf/2406.04244.pdf)**
-
 Updated on 2024-06-07
-
 *Cheng Xu, Shuhao Guan, Derek Greene, M-Tahar Kechadi*
-
-
   The rapid development of Large Language Models (LLMs) like GPT-4, Claude-3,
 and Gemini has transformed the field of natural language processing. However,
 it has also resulted in a significant issue known as Benchmark Data
@@ -966,17 +758,11 @@ directions in mitigating BDC risks, highlighting the complexity of the issue
 and the need for innovative solutions to ensure the reliability of LLM
 evaluation in real-world applications.
 
-
-
 ---
 
 36. **[[2406.06443] LLM Dataset Inference: Did you train on my dataset?](https://arxiv.org/pdf/2406.06443.pdf)**
-
 Updated on 2024-06-11
-
 *Pratyush Maini, Hengrui Jia, Nicolas Papernot, Adam Dziedzic*
-
-
   The proliferation of large language models (LLMs) in the real world has come
 with a rise in copyright cases against companies for training their models on
 unlicensed data from the internet. Recent works have presented methods to
@@ -1002,18 +788,12 @@ dataset. Our approach successfully distinguishes the train and test sets of
 different subsets of the Pile with statistically significant p-values < 0.1,
 without any false positives.
 
-
-
 ---
 
 37. **[[2502.13141] UniGuardian: A Unified Defense for Detecting Prompt Injection, Backdoor
   Attacks and Adversarial Attacks in Large Language Models](https://arxiv.org/pdf/2502.13141.pdf)**
-
 Updated on 2025-02-19
-
 *Huawei Lin, Yingjie Lao, Tong Geng, Tan Yu, Weijie Zhao*
-
-
   Large Language Models (LLMs) are vulnerable to attacks like prompt injection,
 backdoor attacks, and adversarial attacks, which manipulate prompts or models
 to generate harmful outputs. In this paper, departing from traditional deep
@@ -1027,17 +807,11 @@ pipeline, enabling simultaneous attack detection and text generation within a
 single forward pass. Our experiments confirm that UniGuardian accurately and
 efficiently identifies malicious prompts in LLMs.
 
-
-
 ---
 
 38. **[[2403.18920] CPR: Retrieval Augmented Generation for Copyright Protection](https://arxiv.org/pdf/2403.18920.pdf)**
-
 Updated on 2024-03-29
-
 *Aditya Golatkar, Alessandro Achille, Luca Zancato, Yu-Xiang Wang, Ashwin Swaminathan, Stefano Soatto*
-
-
   Retrieval Augmented Generation (RAG) is emerging as a flexible and robust
 technique to adapt models to private users data without training, to handle
 credit attribution, and to allow efficient machine unlearning at scale.
@@ -1063,17 +837,11 @@ the generated results (81.4 to 83.17 on TIFA benchmark), while enabling credit
 attribution, copy-right protection, and deterministic, constant time,
 unlearning.
 
-
-
 ---
 
 39. **[[2410.17050] UnStar: Unlearning with Self-Taught Anti-Sample Reasoning for LLMs](https://arxiv.org/pdf/2410.17050.pdf)**
-
 Updated on 2024-10-23
-
 *Yash Sinha, Murari Mandal, Mohan Kankanhalli*
-
-
   The key components of machine learning are data samples for training, model
 for learning patterns, and loss function for optimizing accuracy. Analogously,
 unlearning can potentially be achieved through anti-data samples (or
@@ -1091,18 +859,12 @@ Results demonstrate that anti-samples offer an efficient, targeted unlearning
 strategy for LLMs, opening new avenues for privacy-preserving machine learning
 and model modification.
 
-
-
 ---
 
 40. **[[2403.15779] The Frontier of Data Erasure: Machine Unlearning for Large Language
   Models](https://arxiv.org/pdf/2403.15779.pdf)**
-
 Updated on 2024-03-26
-
 *Youyang Qu, Ming Ding, Nan Sun, Kanchana Thilakarathna, Tianqing Zhu, Dusit Niyato*
-
-
   Large Language Models (LLMs) are foundational to AI advancements,
 facilitating applications like predictive text generation. Nonetheless, they
 pose risks by potentially memorizing and disseminating sensitive, biased, or
@@ -1120,18 +882,12 @@ integrity, avoiding excessive or insufficient data removal, and ensuring
 consistent outputs, underlining the role of machine unlearning in advancing
 responsible, ethical AI.
 
-
-
 ---
 
 41. **[[2408.06223] On Effects of Steering Latent Representation for Large Language Model
   Unlearning](https://arxiv.org/pdf/2408.06223.pdf)**
-
 Updated on 2025-02-07
-
 *Dang Huu-Tien, Trung-Tin Pham, Hoang Thanh-Tung, Naoya Inoue*
-
-
   Representation Misdirection for Unlearning (RMU), which steers model
 representation in the intermediate layer to a target random representation, is
 an effective method for large language model (LLM) unlearning. Despite its high
@@ -1149,18 +905,12 @@ that makes unlearning effective with most layers. Extensive experiments
 demonstrate that Adaptive RMU significantly improves the unlearning performance
 compared to prior art while incurring no additional computational cost.
 
-
-
 ---
 
 42. **[[2502.19301] Rethinking LLM Unlearning Objectives: A Gradient Perspective and Go
   Beyond](https://arxiv.org/pdf/2502.19301.pdf)**
-
 Updated on 2025-02-27
-
 *Qizhou Wang, Jin Peng Zhou, Zhanke Zhou, Saebyeol Shin, Bo Han, Kilian Q. Weinberger*
-
-
   Large language models (LLMs) should undergo rigorous audits to identify
 potential risks, such as copyright and privacy infringements. Once these risks
 emerge, timely updates are crucial to remove undesirable responses, ensuring
@@ -1180,17 +930,11 @@ series of new solutions for their mitigation and improvements. Finally, we
 outline promising directions that merit further studies, aiming at contributing
 to the community to advance this important field.
 
-
-
 ---
 
 43. **[[2410.08109] A Closer Look at Machine Unlearning for Large Language Models](https://arxiv.org/pdf/2410.08109.pdf)**
-
 Updated on 2025-03-04
-
 *Xiaojian Yuan, Tianyu Pang, Chao Du, Kejiang Chen, Weiming Zhang, Min Lin*
-
-
   Large language models (LLMs) may memorize sensitive or copyrighted content,
 raising privacy and legal concerns. Due to the high cost of retraining from
 scratch, researchers attempt to employ machine unlearning to remove specific
@@ -1210,18 +954,12 @@ scenarios, i.e., fictitious unlearning, continual unlearning, and real-world
 unlearning, demonstrate the effectiveness of our approaches. The code is
 available at https://github.com/sail-sg/closer-look-LLM-unlearning.
 
-
-
 ---
 
 44. **[[2310.10049] FATE-LLM: A Industrial Grade Federated Learning Framework for Large
   Language Models](https://arxiv.org/pdf/2310.10049.pdf)**
-
 Updated on 2023-10-17
-
 *Tao Fan, Yan Kang, Guoqiang Ma, Weijing Chen, Wenbin Wei, Lixin Fan, Qiang Yang*
-
-
   Large Language Models (LLMs), such as ChatGPT, LLaMA, GLM, and PaLM, have
 exhibited remarkable performances across various tasks in recent years.
 However, LLMs face two main challenges in real-world applications. One
@@ -1238,17 +976,11 @@ and inference through privacy-preserving mechanisms. We release the code of
 FATE-LLM at https://github.com/FederatedAI/FATE-LLM to facilitate the research
 of FedLLM and enable a broad range of industrial applications.
 
-
-
 ---
 
 45. **[[2405.01560] Copyright related risks in the creation and use of ML/AI systems](https://arxiv.org/pdf/2405.01560.pdf)**
-
 Updated on 2024-05-06
-
 *Daniel M. German*
-
-
   This paper summarizes the current copyright related risks that Machine
 Learning (ML) and Artificial Intelligence (AI) systems (including Large
 Language Models --LLMs) incur. These risks affect different stakeholders:
@@ -1257,17 +989,11 @@ creators of trained models, and the operators of AI systems. This paper also
 provides an overview of ongoing legal cases in the United States related to
 these risks.
 
-
-
 ---
 
 46. **[[2503.18674] Human Motion Unlearning](https://arxiv.org/pdf/2503.18674.pdf)**
-
 Updated on 2025-03-25
-
 *Edoardo De Matteis, Matteo Migliarini, Alessio Sampieri, Indro Spinelli, Fabio Galasso*
-
-
   We introduce the task of human motion unlearning to prevent the synthesis of
 toxic animations while preserving the general text-to-motion generative
 performance. Unlearning toxic motions is challenging as those can be generated
@@ -1283,17 +1009,11 @@ diffusion models. LCR is simple and consistently outperforms baselines
 qualitatively and quantitatively. Project page:
 \href{https://www.pinlab.org/hmu}{https://www.pinlab.org/hmu}.
 
-
-
 ---
 
 47. **[[2408.06621] Towards Robust and Parameter-Efficient Knowledge Unlearning for LLMs](https://arxiv.org/pdf/2408.06621.pdf)**
-
 Updated on 2025-04-02
-
 *Sungmin Cha, Sungjun Cho, Dasol Hwang, Moontae Lee*
-
-
   Large Language Models (LLMs) have demonstrated strong reasoning and
 memorization capabilities via pretraining on massive textual corpora. However,
 this poses risk of privacy and copyright violations, highlighting the need for
@@ -1316,18 +1036,12 @@ approach effectively removes sensitive information while maintaining reasoning
 and generative capabilities with minimal impact. Our implementation can be
 found in https://github.com/csm9493/efficient-llm-unlearning.
 
-
-
 ---
 
 48. **[[2410.10866] CodeUnlearn: Amortized Zero-Shot Machine Unlearning in Language Models
   Using Discrete Concept](https://arxiv.org/pdf/2410.10866.pdf)**
-
 Updated on 2024-10-16
-
 *YuXuan Wu, Bonaventure F. P. Dossou, Dianbo Liu*
-
-
   Large Language Models (LLMs) offer extensive knowledge across various
 domains, but they may inadvertently memorize sensitive, unauthorized, or
 malicious data, such as personal information in the medical and financial
@@ -1344,17 +1058,11 @@ work that successfully enables unlearning specific topics with contextual
 relevance in an LLM, marking a significant step towards real-world applications
 of machine unlearning.
 
-
-
 ---
 
 49. **[[2502.01534] Preference Leakage: A Contamination Problem in LLM-as-a-judge](https://arxiv.org/pdf/2502.01534.pdf)**
-
 Updated on 2025-02-04
-
 *Dawei Li, Renliang Sun, Yue Huang, Ming Zhong, Bohan Jiang, Jiawei Han, Xiangliang Zhang, Wei Wang, Huan Liu*
-
-
   Large Language Models (LLMs) as judges and LLM-based data synthesis have
 emerged as two fundamental LLM-driven data annotation methods in model
 development. While their combination significantly enhances the efficiency of
@@ -1374,17 +1082,11 @@ is a widespread and challenging problem in the area of LLM-as-a-judge. We
 release all codes and data at:
 https://github.com/David-Li0406/Preference-Leakage.
 
-
-
 ---
 
 50. **[[2405.15152] Machine Unlearning in Large Language Models](https://arxiv.org/pdf/2405.15152.pdf)**
-
 Updated on 2024-05-27
-
 *Saaketh Koundinya Gundavarapu, Shreya Agarwal, Arushi Arora, Chandana Thimmalapura Jagadeeshaiah*
-
-
   Machine unlearning, a novel area within artificial intelligence, focuses on
 addressing the challenge of selectively forgetting or reducing undesirable
 knowledge or behaviors in machine learning models, particularly in the context
@@ -1410,18 +1112,12 @@ diverse knowledge base, we utilized the Book Corpus dataset. Additionally, we
 propose a new evaluation technique for assessing the effectiveness of harmful
 unlearning.
 
-
-
 ---
 
 51. **[[2502.13996] Beyond Single-Value Metrics: Evaluating and Enhancing LLM Unlearning
   with Cognitive Diagnosis](https://arxiv.org/pdf/2502.13996.pdf)**
-
 Updated on 2025-02-21
-
 *Yicheng Lang, Kehan Guo, Yue Huang, Yujun Zhou, Haomin Zhuang, Tianyu Yang, Yao Su, Xiangliang Zhang*
-
-
   Due to the widespread use of LLMs and the rising critical ethical and safety
 concerns, LLM unlearning methods have been developed to remove harmful
 knowledge and undesirable capabilities. In this context, evaluations are mostly
@@ -1438,17 +1134,11 @@ unlearning methods and two base models demonstrate that UNCD not only enhances
 evaluation but also effectively facilitates the removal of harmful LLM
 abilities.
 
-
-
 ---
 
 52. **[[2410.11143] LLM Unlearning via Loss Adjustment with Only Forget Data](https://arxiv.org/pdf/2410.11143.pdf)**
-
 Updated on 2024-10-16
-
 *Yaxuan Wang, Jiaheng Wei, Chris Yuhao Liu, Jinlong Pang, Quan Liu, Ankit Parag Shah, Yujia Bao, Yang Liu, Wei Wei*
-
-
   Unlearning in Large Language Models (LLMs) is essential for ensuring ethical
 and responsible AI use, especially in addressing privacy leak, bias, safety,
 and evolving regulations. Existing approaches to LLM unlearning often rely on
@@ -1474,18 +1164,12 @@ minimizes the impact on the model's retained capabilities, ensuring high
 utility across diverse tasks, including copyrighted content unlearning on Harry
 Potter dataset and MUSE Benchmark, and entity unlearning on the TOFU dataset.
 
-
-
 ---
 
 53. **[[2406.13990] Inference-Time Decontamination: Reusing Leaked Benchmarks for Large
   Language Model Evaluation](https://arxiv.org/pdf/2406.13990.pdf)**
-
 Updated on 2024-06-25
-
 *Qin Zhu, Qingyuan Cheng, Runyu Peng, Xiaonan Li, Tengxiao Liu, Ru Peng, Xipeng Qiu, Xuanjing Huang*
-
-
   The training process of large language models (LLMs) often involves varying
 degrees of test data contamination. Although current LLMs are achieving
 increasingly better performance on various benchmarks, their performance in
@@ -1503,17 +1187,11 @@ decrease in the results of Phi3 and Mistral by 6.7% and 3.6% respectively. We
 hope that ITD can provide more truthful evaluation results for large language
 models.
 
-
-
 ---
 
 54. **[[2406.07933] Large Language Model Unlearning via Embedding-Corrupted Prompts](https://arxiv.org/pdf/2406.07933.pdf)**
-
 Updated on 2024-11-01
-
 *Chris Yuhao Liu, Yaxuan Wang, Jeffrey Flanigan, Yang Liu*
-
-
   Large language models (LLMs) have advanced to encompass extensive knowledge
 across diverse domains. Yet controlling what a large language model should not
 know is important for ensuring alignment and thus safe use. However, accurately
@@ -1539,17 +1217,11 @@ our method to 100 LLMs, ranging from 0.5B to 236B parameters, incurring no
 additional cost as the number of parameters increases. We have made our code
 publicly available at \url{https://github.com/chrisliu298/llm-unlearn-eco}.
 
-
-
 ---
 
 55. **[[2502.01083] Tool Unlearning for Tool-Augmented LLMs](https://arxiv.org/pdf/2502.01083.pdf)**
-
 Updated on 2025-02-04
-
 *Jiali Cheng, Hadi Amiri*
-
-
   Tool-augmented large language models (LLMs) are often trained on datasets of
 query-response pairs, which embed the ability to use tools or APIs directly
 into the parametric knowledge of LLMs. Tool-augmented LLMs need the ability to
@@ -1567,18 +1239,12 @@ learning datasets and tool-augmented LLMs show that ToolDelete effectively
 unlearns randomly selected tools, while preserving the LLM's knowledge on
 non-deleted tools and maintaining performance on general tasks.
 
-
-
 ---
 
 56. **[[2303.09384] LLMSecEval: A Dataset of Natural Language Prompts for Security
   Evaluations](https://arxiv.org/pdf/2303.09384.pdf)**
-
 Updated on 2023-03-17
-
 *Catherine Tony, Markus Mutas, Nicolás E. Díaz Ferreyra, Riccardo Scandariato*
-
-
   Large Language Models (LLMs) like Codex are powerful tools for performing
 code completion and code generation tasks as they are trained on billions of
 lines of code from publicly available sources. Moreover, these models are
@@ -1596,18 +1262,12 @@ code produced by LLMs. As a practical application, we show how LLMSecEval can
 be used for evaluating the security of snippets automatically generated from NL
 descriptions.
 
-
-
 ---
 
 57. **[[2406.11780] Split, Unlearn, Merge: Leveraging Data Attributes for More Effective
   Unlearning in LLMs](https://arxiv.org/pdf/2406.11780.pdf)**
-
 Updated on 2024-06-18
-
 *Swanand Ravindra Kadhe, Farhan Ahmed, Dennis Wei, Nathalie Baracaldo, Inkit Padhi*
-
-
   Large language models (LLMs) have shown to pose social and ethical risks such
 as generating toxic language or facilitating malicious use of hazardous
 knowledge. Machine unlearning is a promising approach to improve LLM safety by
@@ -1620,18 +1280,12 @@ unlearned models. We empirically demonstrate that SPUNGE significantly improves
 the performance of two recent unlearning methods on state-of-the-art LLMs while
 maintaining their general capabilities on standard academic benchmarks.
 
-
-
 ---
 
 58. **[[2402.08100] Investigating the Impact of Data Contamination of Large Language Models
   in Text-to-SQL Translation](https://arxiv.org/pdf/2402.08100.pdf)**
-
 Updated on 2024-12-10
-
 *Federico Ranaldi, Elena Sofia Ruzzetti, Dario Onorati, Leonardo Ranaldi, Cristina Giannone, Andrea Favalli, Raniero Romagnoli, Fabio Massimo Zanzotto*
-
-
   Understanding textual description to generate code seems to be an achieved
 capability of instruction-following Large Language Models (LLMs) in zero-shot
 scenario. However, there is a severe possibility that this translation ability
@@ -1649,18 +1303,12 @@ drop in GPT-3.5 on the unfamiliar Termite dataset, even with ATD modifications,
 highlighting the effect of Data Contamination on LLMs in Text-to-SQL
 translation tasks.
 
-
-
 ---
 
 59. **[[2404.05880] Eraser: Jailbreaking Defense in Large Language Models via Unlearning
   Harmful Knowledge](https://arxiv.org/pdf/2404.05880.pdf)**
-
 Updated on 2024-07-04
-
 *Weikai Lu, Ziqian Zeng, Jianwei Wang, Zhengdong Lu, Zelin Chen, Huiping Zhuang, Cen Chen*
-
-
   Jailbreaking attacks can enable Large Language Models (LLMs) to bypass the
 safeguard and generate harmful content. Existing jailbreaking defense methods
 have failed to address the fundamental issue that harmful knowledge resides
@@ -1677,18 +1325,12 @@ can significantly reduce the jailbreaking success rate for various attacks
 without compromising the general capabilities of the model. Our codes are
 available at https://github.com/ZeroNLP/Eraser.
 
-
-
 ---
 
 60. **[[2411.04388] Unlearning in- vs. out-of-distribution data in LLMs under gradient-based
   method](https://arxiv.org/pdf/2411.04388.pdf)**
-
 Updated on 2024-11-08
-
 *Teodora Baluta, Pascal Lamblin, Daniel Tarlow, Fabian Pedregosa, Gintare Karolina Dziugaite*
-
-
   Machine unlearning aims to solve the problem of removing the influence of
 selected training examples from a learned model. Despite the increasing
 attention to this problem, it remains an open research question how to evaluate
@@ -1703,17 +1345,11 @@ performance as unlearning progresses. We further evaluate how example's
 memorization and difficulty affect unlearning under a classical gradient
 ascent-based approach.
 
-
-
 ---
 
 61. **[[2404.13968] Protecting Your LLMs with Information Bottleneck](https://arxiv.org/pdf/2404.13968.pdf)**
-
 Updated on 2024-10-11
-
 *Zichuan Liu, Zefan Wang, Linjie Xu, Jinyu Wang, Lei Song, Tianchun Wang, Chunlin Chen, Wei Cheng, Jiang Bian*
-
-
   The advent of large language models (LLMs) has revolutionized the field of
 natural language processing, yet they might be attacked to produce harmful
 content. Despite efforts to ethically align LLMs, these are often fragile and
@@ -1732,17 +1368,11 @@ various attack methods and target LLMs underscore the potential of IBProtector
 as a novel, transferable defense that bolsters the security of LLMs without
 requiring modifications to the underlying models.
 
-
-
 ---
 
 62. **[[2411.18797] UOE: Unlearning One Expert Is Enough For Mixture-of-experts LLMS](https://arxiv.org/pdf/2411.18797.pdf)**
-
 Updated on 2024-12-02
-
 *Haomin Zhuang, Yihua Zhang, Kehan Guo, Jinghan Jia, Gaowen Liu, Sijia Liu, Xiangliang Zhang*
-
-
   Recent advancements in large language model (LLM) unlearning have shown
 remarkable success in removing unwanted data-model influences while preserving
 the model's utility for legitimate knowledge. However, despite these strides,
@@ -1769,18 +1399,12 @@ forget quality up to 5% and model utility by 35% on MoE LLMs across various
 benchmarks, LLM architectures, while only unlearning 0.06% of the model
 parameters.
 
-
-
 ---
 
 63. **[[2412.13670] AntiLeak-Bench: Preventing Data Contamination by Automatically
   Constructing Benchmarks with Updated Real-World Knowledge](https://arxiv.org/pdf/2412.13670.pdf)**
-
 Updated on 2024-12-19
-
 *Xiaobao Wu, Liangming Pan, Yuxi Xie, Ruiwen Zhou, Shuai Zhao, Yubo Ma, Mingzhe Du, Rui Mao, Anh Tuan Luu, William Yang Wang*
-
-
   Data contamination hinders fair LLM evaluation by introducing test data into
 newer models' training sets. Existing studies solve this challenge by updating
 benchmarks with newly collected data. However, they fail to guarantee
@@ -1796,17 +1420,11 @@ maintenance to accommodate emerging LLMs. Through extensive experiments, we
 highlight that data contamination likely exists before LLMs' cutoff time and
 demonstrate AntiLeak-Bench effectively overcomes this challenge.
 
-
-
 ---
 
 64. **[[2406.18382] Adversarial Search Engine Optimization for Large Language Models](https://arxiv.org/pdf/2406.18382.pdf)**
-
 Updated on 2024-07-03
-
 *Fredrik Nestaas, Edoardo Debenedetti, Florian Tramèr*
-
-
   Large Language Models (LLMs) are increasingly used in applications where the
 model selects from competing third-party content, such as in LLM-powered search
 engines or chatbot plugins. In this paper, we introduce Preference Manipulation
@@ -1821,18 +1439,12 @@ and plugin APIs (for GPT-4 and Claude). As LLMs are increasingly used to rank
 third-party content, we expect Preference Manipulation Attacks to emerge as a
 significant threat.
 
-
-
 ---
 
 65. **[[2502.19982] Erasing Without Remembering: Safeguarding Knowledge Forgetting in Large
   Language Models](https://arxiv.org/pdf/2502.19982.pdf)**
-
 Updated on 2025-02-28
-
 *Huazheng Wang, Yongcheng Jing, Haifeng Sun, Yingjie Wang, Jingyu Wang, Jianxin Liao, Dacheng Tao*
-
-
   In this paper, we explore machine unlearning from a novel dimension, by
 studying how to safeguard model unlearning in large language models (LLMs). Our
 goal is to prevent unlearned models from recalling any related memory of the
@@ -1849,17 +1461,11 @@ demonstrate that PERMU delivers up to a 50.13% improvement in unlearning while
 maintaining a 43.53% boost in robust generalisation. Our code can be found in
 https://github.com/MaybeLizzy/UGBench.
 
-
-
 ---
 
 66. **[[2501.13683] Unlearning Clients, Features and Samples in Vertical Federated Learning](https://arxiv.org/pdf/2501.13683.pdf)**
-
 Updated on 2025-01-24
-
 *Ayush K. Varshney, Konstantinos Vandikas, Vicenç Torra*
-
-
   Federated Learning (FL) has emerged as a prominent distributed learning
 paradigm. Within the scope of privacy preservation, information privacy
 regulations such as GDPR entitle users to request the removal (or unlearning)
@@ -1886,18 +1492,12 @@ methods, VFU-KD and VFU-GA require no communication between active and passive
 parties during unlearning. However, they do require the active party to store
 the previously communicated embeddings.
 
-
-
 ---
 
 67. **[[2412.18621] Investigating the Feasibility of Mitigating Potential Copyright
   Infringement via Large Language Model Unlearning](https://arxiv.org/pdf/2412.18621.pdf)**
-
 Updated on 2025-02-12
-
 *Guangyao Dou*
-
-
   Pre-trained Large Language Models (LLMs) have demonstrated remarkable
 capabilities but also pose risks by learning and generating copyrighted
 material, leading to significant legal and ethical concerns. In a potential
@@ -1918,18 +1518,12 @@ show that SSU sometimes achieves an effective trade-off between unlearning
 efficacy and general-purpose language abilities, outperforming existing
 baselines, but it's not a cure-all for unlearning copyrighted material.
 
-
-
 ---
 
 68. **[[2410.04454] Inner-Probe: Discovering Copyright-related Data Generation in LLM
   Architecture](https://arxiv.org/pdf/2410.04454.pdf)**
-
 Updated on 2025-01-24
-
 *Qichao Ma, Rui-Jie Zhu, Peiye Liu, Renye Yan, Fahong Zhang, Ling Liang, Meng Li, Zhaofei Yu, Zongwei Wang, Yimao Cai, Tiejun Huang*
-
-
   Large Language Models (LLMs) utilize extensive knowledge databases and show
 powerful text generation ability. However, their reliance on high-quality
 copyrighted datasets raises concerns about copyright infringements in generated
@@ -1952,18 +1546,12 @@ model training in sub-dataset contribution analysis on Books3, achieves
 15.04%-58.7% higher accuracy over baselines on the Pile, and delivers a 0.104
 increase in AUC for non-copyrighted data filtering.
 
-
-
 ---
 
 69. **[[2503.04795] Cyber for AI at SemEval-2025 Task 4: Forgotten but Not Lost: The
   Balancing Act of Selective Unlearning in Large Language Models](https://arxiv.org/pdf/2503.04795.pdf)**
-
 Updated on 2025-03-10
-
 *Dinesh Srivasthav P, Bala Mallikarjunarao Garlapati*
-
-
   Large Language Models (LLMs) face significant challenges in maintaining
 privacy, ethics, and compliance, when sensitive or obsolete data must be
 selectively removed. Retraining these models from scratch is computationally
@@ -1977,18 +1565,12 @@ results, and challenges. Our algorithms have achieved an aggregate score of
 0.409 and 0.389 on the test set for 7B and 1B target models, respectively,
 demonstrating promising results in verifiable LLM unlearning.
 
-
-
 ---
 
 70. **[[2408.10608] Promoting Equality in Large Language Models: Identifying and Mitigating
   the Implicit Bias based on Bayesian Theory](https://arxiv.org/pdf/2408.10608.pdf)**
-
 Updated on 2024-08-21
-
 *Yongxin Deng, Xihe Qiu, Xiaoyu Tan, Jing Pan, Chen Jue, Zhijun Fang, Yinghui Xu, Wei Chu, Yuan Qi*
-
-
   Large language models (LLMs) are trained on extensive text corpora, which
 inevitably include biased information. Although techniques such as Affective
 Alignment can mitigate some negative impacts of these biases, existing
@@ -2006,17 +1588,11 @@ editing techniques. Through extensive experimentation, we have confirmed the
 presence of the implicit bias problem in LLMs and demonstrated the
 effectiveness of our BTBR approach.
 
-
-
 ---
 
 71. **[[2402.05624] Efficient Models for the Detection of Hate, Abuse and Profanity](https://arxiv.org/pdf/2402.05624.pdf)**
-
 Updated on 2024-02-09
-
 *Christoph Tillmann, Aashka Trivedi, Bishwaranjan Bhattacharjee*
-
-
   Large Language Models (LLMs) are the cornerstone for many Natural Language
 Processing (NLP) tasks like sentiment analysis, document classification, named
 entity recognition, question answering, summarization, etc. LLMs are often
@@ -2034,18 +1610,12 @@ English, but for all languages. In this article, we briefly describe the
 creation of HAP detectors and various ways of using them to make models civil
 and acceptable in the output they generate.
 
-
-
 ---
 
 72. **[[2503.13733] CoDet-M4: Detecting Machine-Generated Code in Multi-Lingual,
   Multi-Generator and Multi-Domain Settings](https://arxiv.org/pdf/2503.13733.pdf)**
-
 Updated on 2025-03-19
-
 *Daniil Orel, Dilshod Azizov, Preslav Nakov*
-
-
   Large language models (LLMs) have revolutionized code generation, automating
 programming with remarkable efficiency. However, these advancements challenge
 programming skills, ethics, and assessment integrity, making the detection of
@@ -2064,18 +1634,12 @@ generalizing to unseen models, domains, and programming languages. Moreover,
 our extensive experiments show that our framework effectively distinguishes
 human- from LLM-written code and sets a new benchmark for this task.
 
-
-
 ---
 
 73. **[[2502.12520] SafeEraser: Enhancing Safety in Multimodal Large Language Models through
   Multimodal Machine Unlearning](https://arxiv.org/pdf/2502.12520.pdf)**
-
 Updated on 2025-02-26
-
 *Junkai Chen, Zhijie Deng, Kening Zheng, Yibo Yan, Shuliang Liu, PeiJun Wu, Peijie Jiang, Jia Liu, Xuming Hu*
-
-
   As Multimodal Large Language Models (MLLMs) develop, their potential security
 issues have become increasingly prominent. Machine Unlearning (MU), as an
 effective strategy for forgetting specific knowledge in training data, has been
@@ -2095,17 +1659,11 @@ and LLaVA-13B, while maintaining forget quality and model utility. Our code and
 dataset will be released upon acceptance. Warning: This paper contains examples
 of harmful language and images, and reader discretion is recommended.
 
-
-
 ---
 
 74. **[[2011.12355] Lethean Attack: An Online Data Poisoning Technique](https://arxiv.org/pdf/2011.12355.pdf)**
-
 Updated on 2020-11-26
-
 *Eyal Perry*
-
-
   Data poisoning is an adversarial scenario where an attacker feeds a specially
 crafted sequence of samples to an online model in order to subvert learning. We
 introduce Lethean Attack, a novel data poisoning technique that induces
@@ -2117,18 +1675,12 @@ forgetting. Our results demonstrate that using lethean attacks, an adversary
 could revert a test-time training model back to coin-flip accuracy performance
 using a short sample sequence.
 
-
-
 ---
 
 75. **[[2410.18966] Does Data Contamination Detection Work (Well) for LLMs? A Survey and
   Evaluation on Detection Assumptions](https://arxiv.org/pdf/2410.18966.pdf)**
-
 Updated on 2025-03-11
-
 *Yujuan Fu, Ozlem Uzuner, Meliha Yetisgen, Fei Xia*
-
-
   Large language models (LLMs) have demonstrated great performance across
 various benchmarks, showing potential as general-purpose task solvers. However,
 as LLMs are typically trained on vast amounts of data, a significant concern in
@@ -2148,18 +1700,12 @@ might learn data distributions rather than memorizing individual instances.
 Meanwhile, MIA can easily fail when there are data distribution shifts between
 the seen and unseen instances.
 
-
-
 ---
 
 76. **[[2503.22948] SUV: Scalable Large Language Model Copyright Compliance with Regularized
   Selective Unlearning](https://arxiv.org/pdf/2503.22948.pdf)**
-
 Updated on 2025-04-01
-
 *Tianyang Xu, Xiaoze Liu, Feijie Wu, Xiaoqian Wang, Jing Gao*
-
-
   Large Language Models (LLMs) have transformed natural language processing by
 learning from massive datasets, yet this rapid progress has also drawn legal
 scrutiny, as the ability to unintentionally generate copyrighted content has
@@ -2180,17 +1726,11 @@ Extensive experiments on both our dataset and public benchmarks confirm the
 scalability and efficacy of our approach, offering a promising solution for
 mitigating copyright risks in real-world LLM applications.
 
-
-
 ---
 
 77. **[[2409.11844] MEOW: MEMOry Supervised LLM Unlearning Via Inverted Facts](https://arxiv.org/pdf/2409.11844.pdf)**
-
 Updated on 2024-09-19
-
 *Tianle Gu, Kexin Huang, Ruilin Luo, Yuanqi Yao, Yujiu Yang, Yan Teng, Yingchun Wang*
-
-
   Large Language Models (LLMs) can memorize sensitive information, raising
 concerns about potential misuse. LLM Unlearning, a post-hoc approach to remove
 this information from trained LLMs, offers a promising solution to mitigate
@@ -2211,17 +1751,11 @@ substantial loss in model utility. Meanwhile, MEOW does not exhibit significant
 degradation in NLU or NLG capabilities, and there is even a slight improvement
 in NLU performance.
 
-
-
 ---
 
 78. **[[2411.09689] LLM Hallucination Reasoning with Zero-shot Knowledge Test](https://arxiv.org/pdf/2411.09689.pdf)**
-
 Updated on 2024-11-15
-
 *Seongmin Lee, Hsiang Hsu, Chun-Fu Chen*
-
-
   LLM hallucination, where LLMs occasionally generate unfaithful text, poses
 significant challenges for their practical applications. Most existing
 detection methods rely on external knowledge, LLM fine-tuning, or
@@ -2234,17 +1768,11 @@ knowledge about a given prompt and text. Our experiments conducted on new
 datasets demonstrate the effectiveness of our method in hallucination reasoning
 and underscore its importance for enhancing detection performance.
 
-
-
 ---
 
 79. **[[2502.13347] Craw4LLM: Efficient Web Crawling for LLM Pretraining](https://arxiv.org/pdf/2502.13347.pdf)**
-
 Updated on 2025-02-26
-
 *Shi Yu, Zhiyuan Liu, Chenyan Xiong*
-
-
   Web crawl is a main source of large language models' (LLMs) pretraining data,
 but the majority of crawled web pages are discarded in pretraining due to low
 data quality. This paper presents Craw4LLM, an efficient web crawling method
@@ -2259,18 +1787,12 @@ performances of previous crawls, significantly reducing the crawling waste and
 alleviating the burdens on websites. Our code is publicly available at
 https://github.com/cxcscmu/Craw4LLM.
 
-
-
 ---
 
 80. **[[2409.09288] Generating API Parameter Security Rules with LLM for API Misuse
   Detection](https://arxiv.org/pdf/2409.09288.pdf)**
-
 Updated on 2024-09-20
-
 *Jinghua Liu, Yi Yang, Kai Chen, Miaoqian Lin*
-
-
   In this paper, we present a new framework, named GPTAid, for automatic APSRs
 generation by analyzing API source code with LLM and detecting API misuse
 caused by incorrect parameter use. To validate the correctness of the
@@ -2296,18 +1818,12 @@ security bugs were found potentially resulting in severe security issues (e.g.,
 system crashes), 150 of which have been confirmed by developers after our
 reports.
 
-
-
 ---
 
 81. **[[2503.02443] AILS-NTUA at SemEval-2025 Task 4: Parameter-Efficient Unlearning for
   Large Language Models using Data Chunking](https://arxiv.org/pdf/2503.02443.pdf)**
-
 Updated on 2025-03-05
-
 *Iraklis Premptis, Maria Lymperaiou, Giorgos Filandrianos, Orfeas Menis Mastromichalakis, Athanasios Voulodimos, Giorgos Stamou*
-
-
   The Unlearning Sensitive Content from Large Language Models task aims to
 remove targeted datapoints from trained models while minimally affecting their
 general knowledge. In our work, we leverage parameter-efficient, gradient-based
@@ -2318,18 +1834,12 @@ retain samples at a pre-defined ratio. Our task-agnostic method achieves an
 outstanding forget-retain balance, ranking first on leaderboards and
 significantly outperforming baselines and competing systems.
 
-
-
 ---
 
 82. **[[2407.01920] To Forget or Not? Towards Practical Knowledge Unlearning for Large
   Language Models](https://arxiv.org/pdf/2407.01920.pdf)**
-
 Updated on 2024-10-08
-
 *Bozhong Tian, Xiaozhuan Liang, Siyuan Cheng, Qingbin Liu, Mengru Wang, Dianbo Sui, Xi Chen, Huajun Chen, Ningyu Zhang*
-
-
   Large Language Models (LLMs) trained on extensive corpora inevitably retain
 sensitive data, such as personal privacy information and copyrighted material.
 Recent advancements in knowledge unlearning involve updating LLM parameters to
@@ -2345,17 +1855,11 @@ is superior to existing methods in both precise knowledge unlearning and
 general knowledge retaining of LLMs. Code and dataset are released at
 https://github.com/zjunlp/KnowUnDo.
 
-
-
 ---
 
 83. **[[2405.04032] Locally Differentially Private In-Context Learning](https://arxiv.org/pdf/2405.04032.pdf)**
-
 Updated on 2024-05-09
-
 *Chunyan Zheng, Keke Sun, Wenhao Zhao, Haibo Zhou, Lixin Jiang, Shaoyang Song, Chunlai Zhou*
-
-
   Large pretrained language models (LLMs) have shown surprising In-Context
 Learning (ICL) ability. An important application in deploying large language
 models is to augment LLMs with a private database for some specific task. The
@@ -2370,17 +1874,11 @@ trade-off between privacy and utility in such LDP-ICL for classification.
 Moreover, we apply LDP-ICL to the discrete distribution estimation problem. In
 the end, we perform several experiments to demonstrate our analysis results.
 
-
-
 ---
 
 84. **[[2502.14182] Multi-Faceted Studies on Data Poisoning can Advance LLM Development](https://arxiv.org/pdf/2502.14182.pdf)**
-
 Updated on 2025-02-21
-
 *Pengfei He, Yue Xing, Han Xu, Zhen Xiang, Jiliang Tang*
-
-
   The lifecycle of large language models (LLMs) is far more complex than that
 of traditional machine learning models, involving multiple training stages,
 diverse data sources, and varied inference methods. While prior research on
@@ -2399,18 +1897,12 @@ poisoning can provide valuable insights into LLMs, particularly the interplay
 between data and model behavior, driving a deeper understanding of their
 underlying mechanisms.
 
-
-
 ---
 
 85. **[[2312.07200] Code Membership Inference for Detecting Unauthorized Data Use in Code
   Pre-trained Language Models](https://arxiv.org/pdf/2312.07200.pdf)**
-
 Updated on 2025-02-19
-
 *Sheng Zhang, Hui Li*
-
-
   Code pre-trained language models (CPLMs) have received great attention since
 they can benefit various tasks that facilitate software development and
 maintenance. However, CPLMs are trained on massive open-source code, raising
@@ -2423,18 +1915,12 @@ identify code membership status accurately. Extensive experiments show that CMI
 can be achieved with high accuracy using Buzzer. Hence, Buzzer can serve as a
 CMI tool and help protect intellectual property rights.
 
-
-
 ---
 
 86. **[[2406.08754] StructuralSleight: Automated Jailbreak Attacks on Large Language Models
   Utilizing Uncommon Text-Organization Structures](https://arxiv.org/pdf/2406.08754.pdf)**
-
 Updated on 2025-02-19
-
 *Bangxin Li, Hengrui Xing, Cong Tian, Chao Huang, Jin Qian, Huangqing Xiao, Linfeng Feng*
-
-
   Large Language Models (LLMs) are widely used in natural language processing
 but face the risk of jailbreak attacks that maliciously induce them to generate
 harmful content. Existing jailbreak attacks, including character-level and
@@ -2452,18 +1938,12 @@ significantly outperforms the baseline methods. In particular, the attack
 success rate reaches 94.62\% on GPT-4o, which has not been addressed by
 state-of-the-art techniques.
 
-
-
 ---
 
 87. **[[2410.15267] When Machine Unlearning Meets Retrieval-Augmented Generation (RAG): Keep
   Secret or Forget Knowledge?](https://arxiv.org/pdf/2410.15267.pdf)**
-
 Updated on 2024-10-22
-
 *Shang Wang, Tianqing Zhu, Dayong Ye, Wanlei Zhou*
-
-
   The deployment of large language models (LLMs) like ChatGPT and Gemini has
 shown their powerful natural language generation capabilities. However, these
 models can inadvertently learn and retain sensitive information and harmful
@@ -2486,18 +1966,12 @@ approach meets five key unlearning criteria: effectiveness, universality,
 harmlessness, simplicity, and robustness. Meanwhile, this approach can extend
 to multimodal large language models and LLM-based agents.
 
-
-
 ---
 
 88. **[[2408.10668] Probing the Safety Response Boundary of Large Language Models via Unsafe
   Decoding Path Generation](https://arxiv.org/pdf/2408.10668.pdf)**
-
 Updated on 2024-08-27
-
 *Haoyu Wang, Bingzhe Wu, Yatao Bian, Yongzhe Chang, Xueqian Wang, Peilin Zhao*
-
-
   Large Language Models (LLMs) are implicit troublemakers. While they provide
 valuable insights and assist in problem-solving, they can also potentially
 serve as a resource for malicious activities. Implementing safety alignment
@@ -2515,18 +1989,12 @@ strategy: Jailbreak Value Decoding (JVD), emphasizing that seemingly secure
 LLMs may not be as safe as we initially believe. They could be used to gather
 harmful data or launch covert attacks.
 
-
-
 ---
 
 89. **[[2410.17509] WAGLE: Strategic Weight Attribution for Effective and Modular Unlearning
   in Large Language Models](https://arxiv.org/pdf/2410.17509.pdf)**
-
 Updated on 2025-04-15
-
 *Jinghan Jia, Jiancheng Liu, Yihua Zhang, Parikshit Ram, Nathalie Baracaldo, Sijia Liu*
-
-
   The need for effective unlearning mechanisms in large language models (LLMs)
 is increasingly urgent, driven by the necessity to adhere to data regulations
 and foster ethical generative AI practices. Despite growing interest of LLM
@@ -2552,18 +2020,12 @@ pinpointing the influential weights in enhancing LLM unlearning. It stands in
 contrast to previous methods that lack weight attribution and simpler weight
 attribution techniques.
 
-
-
 ---
 
 90. **[[2503.00062] CRFU: Compressive Representation Forgetting Against Privacy Leakage on
   Machine Unlearning](https://arxiv.org/pdf/2503.00062.pdf)**
-
 Updated on 2025-03-04
-
 *Weiqi Wang, Chenhan Zhang, Zhiyi Tian, Shushu Liu, Shui Yu*
-
-
   Machine unlearning allows data owners to erase the impact of their specified
 data from trained models. Unfortunately, recent studies have shown that
 adversaries can recover the erased data, posing serious threats to user
@@ -2588,18 +2050,12 @@ reconstruction mean square error (MSE), achieving a defense effect improvement
 of approximately $200\%$ against privacy reconstruction attacks with only
 $1.5\%$ accuracy degradation on MNIST.
 
-
-
 ---
 
 91. **[[2406.08607] Reversing the Forget-Retain Objectives: An Efficient LLM Unlearning
   Framework from Logit Difference](https://arxiv.org/pdf/2406.08607.pdf)**
-
 Updated on 2024-06-14
-
 *Jiabao Ji, Yujian Liu, Yang Zhang, Gaowen Liu, Ramana Rao Kompella, Sijia Liu, Shiyu Chang*
-
-
   As Large Language Models (LLMs) demonstrate extensive capability in learning
 from documents, LLM unlearning becomes an increasingly important research area
 to address concerns of LLMs in terms of privacy, copyright, etc. A conventional
@@ -2625,18 +2081,12 @@ whereas baseline methods may sacrifice 17% of utility on average to achieve
 comparable forget quality. Our code will be publicly available at
 https://github.com/UCSB-NLP-Chang/ULD.
 
-
-
 ---
 
 92. **[[2410.12777] Meta-Unlearning on Diffusion Models: Preventing Relearning Unlearned
   Concepts](https://arxiv.org/pdf/2410.12777.pdf)**
-
 Updated on 2024-10-17
-
 *Hongcheng Gao, Tianyu Pang, Chao Du, Taihang Hu, Zhijie Deng, Min Lin*
-
-
   With the rapid progress of diffusion-based content generation, significant
 efforts are being made to unlearn harmful or copyrighted concepts from
 pretrained diffusion models (DMs) to prevent potential model misuse. However,
@@ -2656,17 +2106,11 @@ experiments on meta-unlearning concepts from Stable Diffusion models (SD-v1-4
 and SDXL), supported by extensive ablation studies. Our code is available at
 https://github.com/sail-sg/Meta-Unlearning.
 
-
-
 ---
 
 93. **[[2407.10223] On Large Language Model Continual Unlearning](https://arxiv.org/pdf/2407.10223.pdf)**
-
 Updated on 2025-03-04
-
 *Chongyang Gao, Lixu Wang, Kaize Ding, Chenkai Weng, Xiao Wang, Qi Zhu*
-
-
   While large language models have demonstrated impressive performance across
 various domains and tasks, their security issues have become increasingly
 severe. Machine unlearning has emerged as a representative approach for model
@@ -2693,17 +2137,11 @@ the best unlearning effectiveness and utility preservation, especially when
 facing continuous unlearning requests. The source codes can be found at
 https://github.com/GCYZSL/O3-LLM-UNLEARNING.
 
-
-
 ---
 
 94. **[[2502.10673] Dataset Protection via Watermarked Canaries in Retrieval-Augmented LLMs](https://arxiv.org/pdf/2502.10673.pdf)**
-
 Updated on 2025-02-18
-
 *Yepeng Liu, Xuandong Zhao, Dawn Song, Yuheng Bu*
-
-
   Retrieval-Augmented Generation (RAG) has become an effective method for
 enhancing large language models (LLMs) with up-to-date knowledge. However, it
 poses a significant risk of IP infringement, as IP datasets may be incorporated
@@ -2722,17 +2160,11 @@ watermark. Our experimental results demonstrate high query efficiency,
 detectability, and stealthiness, along with minimal perturbation to the
 original dataset, all without compromising the performance of the RAG system.
 
-
-
 ---
 
 95. **[[2401.10360] Excuse me, sir? Your language model is leaking (information)](https://arxiv.org/pdf/2401.10360.pdf)**
-
 Updated on 2024-11-19
-
 *Or Zamir*
-
-
   We introduce a cryptographic method to hide an arbitrary secret payload in
 the response of a Large Language Model (LLM). A secret key is required to
 extract the payload from the model's response, and without the key it is
@@ -2742,18 +2174,12 @@ is not affected by the payload. Our approach extends a recent result of Christ,
 Gunn and Zamir (2023) who introduced an undetectable watermarking scheme for
 LLMs.
 
-
-
 ---
 
 96. **[[2402.15109] Remaining-data-free Machine Unlearning by Suppressing Sample
   Contribution](https://arxiv.org/pdf/2402.15109.pdf)**
-
 Updated on 2024-12-09
-
 *Xinwen Cheng, Zhehao Huang, Wenxin Zhou, Zhengbao He, Ruikai Yang, Yingwen Wu, Xiaolin Huang*
-
-
   Machine unlearning (MU) is to forget data from a well-trained model, which is
 practically important due to the ``right to be forgotten''. The unlearned model
 should approach the retrained model, where the forgetting data are not involved
@@ -2771,18 +2197,12 @@ effectively and efficiently without utilizing the remaining data. It is the
 first time that a remaining-data-free method can outperform state-of-the-art
 (SoTA) unlearning methods that utilize the remaining data.
 
-
-
 ---
 
 97. **[[2402.11846] UnlearnCanvas: Stylized Image Dataset for Enhanced Machine Unlearning
   Evaluation in Diffusion Models](https://arxiv.org/pdf/2402.11846.pdf)**
-
 Updated on 2024-10-31
-
 *Yihua Zhang, Chongyu Fan, Yimeng Zhang, Yuguang Yao, Jinghan Jia, Jiancheng Liu, Gaoyuan Zhang, Gaowen Liu, Ramana Rao Kompella, Xiaoming Liu, Sijia Liu*
-
-
   The technological advancements in diffusion models (DMs) have demonstrated
 unprecedented capabilities in text-to-image generation and are widely used in
 diverse applications. However, they have also raised significant societal
@@ -2805,18 +2225,12 @@ more effective, accurate, and robust DM unlearning methods, ensuring safer and
 more ethical applications of DMs in the future. The dataset, benchmark, and
 codes are publicly available at https://unlearn-canvas.netlify.app/.
 
-
-
 ---
 
 98. **[[2407.06411] If You Don't Understand It, Don't Use It: Eliminating Trojans with
   Filters Between Layers](https://arxiv.org/pdf/2407.06411.pdf)**
-
 Updated on 2024-07-10
-
 *Adriano Hernandez*
-
-
   Large language models (LLMs) sometimes exhibit dangerous unintended
 behaviors. Finding and fixing these is challenging because the attack surface
 is massive -- it is not tractable to exhaustively search for all possible
@@ -2831,18 +2245,12 @@ the door to the fundamental question of how LLMs store and process information.
 Not unexpectedly, we find that our filters work best on the residual stream and
 the latest layers.
 
-
-
 ---
 
 99. **[[2503.01539] Pragmatic Inference Chain (PIC) Improving LLMs' Reasoning of Authentic
   Implicit Toxic Language](https://arxiv.org/pdf/2503.01539.pdf)**
-
 Updated on 2025-03-04
-
 *Xi Chen, Shuo Wang*
-
-
   The rapid development of large language models (LLMs) gives rise to ethical
 concerns about their performance, while opening new avenues for developing
 toxic language detection techniques. However, LLMs' unethical output and their
@@ -2862,18 +2270,12 @@ it also facilitates the models to produce more explicit and coherent reasoning
 processes, hence can potentially be generalized to other inference-intensive
 tasks, e.g., understanding humour and metaphors.
 
-
-
 ---
 
 100. **[[2408.10718] CodeJudge-Eval: Can Large Language Models be Good Judges in Code
   Understanding?](https://arxiv.org/pdf/2408.10718.pdf)**
-
 Updated on 2024-09-16
-
 *Yuwei Zhao, Ziyang Luo, Yuchen Tian, Hongzhan Lin, Weixiang Yan, Annan Li, Jing Ma*
-
-
   Recent advancements in large language models (LLMs) have showcased impressive
 code generation capabilities, primarily evaluated through language-to-code
 benchmarks. However, these benchmarks may not fully capture a model's code
@@ -2889,18 +2291,12 @@ models struggle, highlighting the benchmark's ability to probe deeper into
 models' code understanding abilities. Our codes and benchmark are available at
 \url{https://github.com/CodeLLM-Research/CodeJudge-Eval}.
 
-
-
 ---
 
 101. **[[2504.10185] LLM Unlearning Reveals a Stronger-Than-Expected Coreset Effect in
   Current Benchmarks](https://arxiv.org/pdf/2504.10185.pdf)**
-
 Updated on 2025-04-17
-
 *Soumyadeep Pal, Changsheng Wang, James Diffenderfer, Bhavya Kailkhura, Sijia Liu*
-
-
   Large language model unlearning has become a critical challenge in ensuring
 safety and controlled model behavior by removing undesired data-model
 influences from the pretrained model while preserving general utility.
@@ -2928,18 +2324,12 @@ models along additional dimensions, such as mode connectivity and robustness to
 jailbreaking attacks. Codes are available at
 https://github.com/OPTML-Group/MU-Coreset.
 
-
-
 ---
 
 102. **[[2310.18574] Breaking the Trilemma of Privacy, Utility, Efficiency via Controllable
   Machine Unlearning](https://arxiv.org/pdf/2310.18574.pdf)**
-
 Updated on 2024-02-23
-
 *Zheyuan Liu, Guangyao Dou, Yijun Tian, Chunhui Zhang, Eli Chien, Ziwei Zhu*
-
-
   Machine Unlearning (MU) algorithms have become increasingly critical due to
 the imperative adherence to data privacy regulations. The primary objective of
 MU is to erase the influence of specific data samples on a given model without
@@ -2963,18 +2353,12 @@ spectrum of the Privacy-Utility-Efficiency trade-off and allows practitioners
 to account for different real-world regulations. Source code available at:
 https://github.com/guangyaodou/ConMU.
 
-
-
 ---
 
 103. **[[2410.00382] Answer When Needed, Forget When Not: Language Models Pretend to Forget
   via In-Context Knowledge Unlearning](https://arxiv.org/pdf/2410.00382.pdf)**
-
 Updated on 2024-10-02
-
 *Shota Takashiro, Takeshi Kojima, Andrew Gambardella, Qi Cao, Yusuke Iwasawa, Yutaka Matsuo*
-
-
   As large language models (LLMs) are applied across diverse domains, the
 ability to selectively unlearn specific information has become increasingly
 essential. For instance, LLMs are expected to provide confidential information
@@ -2995,18 +2379,12 @@ decision to forget at the last layer, i.e., ``LLMs pretend to forget''. Our
 findings offer valuable insights into enhancing the robustness of unlearning
 mechanisms in LLMs, setting a foundation for future research in the field.
 
-
-
 ---
 
 104. **[[2502.19726] Tokens for Learning, Tokens for Unlearning: Mitigating Membership
   Inference Attacks in Large Language Models via Dual-Purpose Training](https://arxiv.org/pdf/2502.19726.pdf)**
-
 Updated on 2025-02-28
-
 *Toan Tran, Ruixuan Liu, Li Xiong*
-
-
   Large language models (LLMs) have become the backbone of modern natural
 language processing but pose privacy concerns about leaking sensitive training
 data. Membership inference attacks (MIAs), which aim to infer whether a sample
@@ -3026,18 +2404,12 @@ only provides strong protection against MIAs but also improves language
 modeling performance by around 10\% across various LLM architectures and
 datasets compared to the baselines.
 
-
-
 ---
 
 105. **[[2502.16691] Toward Responsible Federated Large Language Models: Leveraging a Safety
   Filter and Constitutional AI](https://arxiv.org/pdf/2502.16691.pdf)**
-
 Updated on 2025-02-25
-
 *Eunchung Noh, Jeonghun Baek*
-
-
   Recent research has increasingly focused on training large language models
 (LLMs) using federated learning, known as FedLLM. However, responsible AI
 (RAI), which aims to ensure safe responses, remains underexplored in the
@@ -3050,17 +2422,11 @@ constitutional AI. Our experiments demonstrate that these methods significantly
 enhance the safety of the LLM, achieving over a 20% improvement on AdvBench, a
 benchmark for evaluating safety performance.
 
-
-
 ---
 
 106. **[[2310.20150] Unlearn What You Want to Forget: Efficient Unlearning for LLMs](https://arxiv.org/pdf/2310.20150.pdf)**
-
 Updated on 2023-11-01
-
 *Jiaao Chen, Diyi Yang*
-
-
   Large language models (LLMs) have achieved significant progress from
 pre-training on and memorizing a wide range of textual data, however, this
 process might suffer from privacy issues and violations of data protection
@@ -3077,18 +2443,12 @@ Experiments on classification and generation tasks demonstrate the
 effectiveness of our proposed methods compared to the state-of-the-art
 baselines.
 
-
-
 ---
 
 107. **[[2409.04459] WET: Overcoming Paraphrasing Vulnerabilities in Embeddings-as-a-Service
   with Linear Transformation Watermarks](https://arxiv.org/pdf/2409.04459.pdf)**
-
 Updated on 2024-09-10
-
 *Anudeex Shetty, Qiongkai Xu, Jey Han Lau*
-
-
   Embeddings-as-a-Service (EaaS) is a service offered by large language model
 (LLM) developers to supply embeddings generated by LLMs. Previous research
 suggests that EaaS is prone to imitation attacks -- attacks that clone the
@@ -3100,18 +2460,12 @@ propose a novel watermarking technique that involves linearly transforming the
 embeddings, and show that it is empirically and theoretically robust against
 paraphrasing.
 
-
-
 ---
 
 108. **[[2310.02469] PrivacyMind: Large Language Models Can Be Contextual Privacy Protection
   Learners](https://arxiv.org/pdf/2310.02469.pdf)**
-
 Updated on 2024-10-29
-
 *Yijia Xiao, Yiqiao Jin, Yushi Bai, Yue Wu, Xianjun Yang, Xiao Luo, Wenchao Yu, Xujiang Zhao, Yanchi Liu, Quanquan Gu, Haifeng Chen, Wei Wang, Wei Cheng*
-
-
   The proliferation of Large Language Models (LLMs) has driven considerable
 interest in fine-tuning them with domain-specific data to create specialized
 language models. Nevertheless, such domain-specific fine-tuning data often
@@ -3131,18 +2485,12 @@ the model's knowledge. Our work underscores the potential for Large Language
 Models as robust contextual privacy protection learners. The complete code and
 data for the work can be found at https://github.com/Yijia-Xiao/PrivacyMind.
 
-
-
 ---
 
 109. **[[2408.05968] Nob-MIAs: Non-biased Membership Inference Attacks Assessment on Large
   Language Models with Ex-Post Dataset Construction](https://arxiv.org/pdf/2408.05968.pdf)**
-
 Updated on 2025-01-17
-
 *Cédric Eichler, Nathan Champeil, Nicolas Anciaux, Alexandra Bensamoun, Heber Hwang Arcolezi, José Maria De Fuentes*
-
-
   The rise of Large Language Models (LLMs) has triggered legal and ethical
 concerns, especially regarding the unauthorized use of copyrighted materials in
 their training datasets. This has led to lawsuits against tech companies
@@ -3162,17 +2510,11 @@ approach. Globally, MIAs yield results close to random, with only one being
 effective on both random and our datasets, but its performance decreases when
 bias is removed.
 
-
-
 ---
 
 110. **[[2411.02631] Extracting Unlearned Information from LLMs with Activation Steering](https://arxiv.org/pdf/2411.02631.pdf)**
-
 Updated on 2024-11-06
-
 *Atakan Seyitoğlu, Aleksei Kuvshinov, Leo Schwinn, Stephan Günnemann*
-
-
   An unintended consequence of the vast pretraining of Large Language Models
 (LLMs) is the verbatim memorization of fragments of their training data, which
 may contain sensitive or copyrighted information. In recent years, unlearning
@@ -3193,18 +2535,12 @@ non-public individuals). Overall, our results demonstrate that exact
 information retrieval from unlearned models is possible, highlighting a severe
 vulnerability of current unlearning techniques.
 
-
-
 ---
 
 111. **[[2305.10036] Are You Copying My Model? Protecting the Copyright of Large Language
   Models for EaaS via Backdoor Watermark](https://arxiv.org/pdf/2305.10036.pdf)**
-
 Updated on 2023-06-05
-
 *Wenjun Peng, Jingwei Yi, Fangzhao Wu, Shangxi Wu, Bin Zhu, Lingjuan Lyu, Binxing Jiao, Tong Xu, Guangzhong Sun, Xing Xie*
-
-
   Large language models (LLMs) have demonstrated powerful capabilities in both
 text understanding and generation. Companies have begun to offer Embedding as a
 Service (EaaS) based on these LLMs, which can benefit various natural language
@@ -3223,17 +2559,11 @@ impact on the original embeddings' utility. Our extensive experiments on
 various datasets show that our method can effectively protect the copyright of
 EaaS models without compromising service quality.
 
-
-
 ---
 
 112. **[[2402.13459] Learning to Poison Large Language Models During Instruction Tuning](https://arxiv.org/pdf/2402.13459.pdf)**
-
 Updated on 2024-10-24
-
 *Yao Qiang, Xiangyu Zhou, Saleh Zare Zade, Mohammad Amin Roshani, Prashant Khanduri, Douglas Zytko, Dongxiao Zhu*
-
-
   The advent of Large Language Models (LLMs) has marked significant
 achievements in language processing and reasoning capabilities. Despite their
 advancements, LLMs face vulnerabilities to data poisoning attacks, where
@@ -3253,18 +2583,12 @@ decline in performance. Our work highlights the significant security risks
 present during the instruction tuning of LLMs and emphasizes the necessity of
 safeguarding LLMs against data poisoning attacks.
 
-
-
 ---
 
 113. **[[2406.06571] SUBLLM: A Novel Efficient Architecture with Token Sequence Subsampling
   for LLM](https://arxiv.org/pdf/2406.06571.pdf)**
-
 Updated on 2024-08-26
-
 *Quandong Wang, Yuxuan Yuan, Xiaoyu Yang, Ruike Zhang, Kang Zhao, Wei Liu, Jian Luan, Daniel Povey, Bin Wang*
-
-
   While Large Language Models (LLMs) have achieved remarkable success in
 various fields, the efficiency of training and inference remains a major
 challenge. To address this issue, we propose SUBLLM, short for
@@ -3281,18 +2605,12 @@ memory by 1GB per GPU. The training and inference speeds can be enhanced by 34%
 and 52% respectively when the context window is expanded to 8192. Our code is
 available at https://github.com/XiaoMi/subllm.
 
-
-
 ---
 
 114. **[[2503.21598] Prompt, Divide, and Conquer: Bypassing Large Language Model Safety
   Filters via Segmented and Distributed Prompt Processing](https://arxiv.org/pdf/2503.21598.pdf)**
-
 Updated on 2025-04-01
-
 *Johan Wahréus, Ahmed Hussain, Panos Papadimitratos*
-
-
   Large Language Models (LLMs) have transformed task automation and content
 generation across various domains while incorporating safety filters to prevent
 misuse. We introduce a novel jailbreaking framework that employs distributed
@@ -3310,18 +2628,12 @@ non-distributed approach in an ablation study, highlighting both the
 effectiveness of distributed prompt processing and the importance of robust
 evaluation methodologies in assessing jailbreak attempts.
 
-
-
 ---
 
 115. **[[2412.13879] Crabs: Consuming Resource via Auto-generation for LLM-DoS Attack under
   Black-box Settings](https://arxiv.org/pdf/2412.13879.pdf)**
-
 Updated on 2025-02-19
-
 *Yuanhe Zhang, Zhenhong Zhou, Wei Zhang, Xinyue Wang, Xiaojun Jia, Yang Liu, Sen Su*
-
-
   Large Language Models (LLMs) have demonstrated remarkable performance across
 diverse tasks yet still are vulnerable to external threats, particularly LLM
 Denial-of-Service (LLM-DoS) attacks. Specifically, LLM-DoS attacks aim to
@@ -3340,18 +2652,12 @@ utilization and memory usage. Our work provides a new perspective on LLM-DoS
 attacks and security defenses. Our code is available at
 https://github.com/shuita2333/AutoDoS.
 
-
-
 ---
 
 116. **[[2503.22760] Malicious and Unintentional Disclosure Risks in Large Language Models
   for Code Generation](https://arxiv.org/pdf/2503.22760.pdf)**
-
 Updated on 2025-04-01
-
 *Rafiqul Rabin, Sean McGregor, Nick Judd*
-
-
   This paper explores the risk that a large language model (LLM) trained for
 code generation on data mined from software repositories will generate content
 that discloses sensitive information included in its training data. We
@@ -3373,17 +2679,11 @@ or test datasets but also by the types of sensitive information. These
 contributions rely on data mining to enable greater privacy and security
 testing required for the LLM training data supply chain.
 
-
-
 ---
 
 117. **[[2305.01639] Privacy-Preserving In-Context Learning for Large Language Models](https://arxiv.org/pdf/2305.01639.pdf)**
-
 Updated on 2023-10-03
-
 *Tong Wu, Ashwinee Panda, Jiachen T. Wang, Prateek Mittal*
-
-
   In-context learning (ICL) is an important capability of Large Language Models
 (LLMs), enabling these models to dynamically adapt based on specific,
 in-context exemplars, thereby improving accuracy and relevance. However, LLM's
@@ -3398,18 +2698,12 @@ language generation. We evaluate DP-ICL on four text classification benchmarks
 and two language generation tasks, and our empirical results show that DP-ICL
 achieves a strong utility-privacy tradeoff.
 
-
-
 ---
 
 118. **[[2502.19785] SCU: An Efficient Machine Unlearning Scheme for Deep Learning Enabled
   Semantic Communications](https://arxiv.org/pdf/2502.19785.pdf)**
-
 Updated on 2025-02-28
-
 *Weiqi Wang, Zhiyi Tian, Chenhan Zhang, Shui Yu*
-
-
   Deep learning (DL) enabled semantic communications leverage DL to train
 encoders and decoders (codecs) to extract and recover semantic information.
 However, most semantic training datasets contain personal private information.
@@ -3431,18 +2725,12 @@ the unlearned semantic models contrastively. Theoretical analysis and extensive
 experimental results on three representative datasets demonstrate the
 effectiveness and efficiency of our proposed methods.
 
-
-
 ---
 
 119. **[[2311.09827] Cognitive Overload: Jailbreaking Large Language Models with Overloaded
   Logical Thinking](https://arxiv.org/pdf/2311.09827.pdf)**
-
 Updated on 2024-03-01
-
 *Nan Xu, Fei Wang, Ben Zhou, Bang Zheng Li, Chaowei Xiao, Muhao Chen*
-
-
   While large language models (LLMs) have demonstrated increasing power, they
 have also given rise to a wide range of harmful behaviors. As representatives,
 jailbreak attacks can provoke harmful or unethical responses from LLMs, even
@@ -3461,17 +2749,11 @@ two perspectives. Empirical studies show that our cognitive overload from three
 perspectives can jailbreak all studied LLMs successfully, while existing
 defense strategies can hardly mitigate the caused malicious uses effectively.
 
-
-
 ---
 
 120. **[[2410.21723] Fine-tuning Large Language Models for DGA and DNS Exfiltration Detection](https://arxiv.org/pdf/2410.21723.pdf)**
-
 Updated on 2024-11-08
-
 *Md Abu Sayed, Asif Rahman, Christopher Kiekintveld, Sebastian Garcia*
-
-
   Domain Generation Algorithms (DGAs) are malicious techniques used by malware
 to dynamically generate seemingly random domain names for communication with
 Command & Control (C&C) servers. Due to the fast and simple generation of DGA
@@ -3488,17 +2770,11 @@ datasets, demonstrating its effectiveness in enhancing cybersecurity measures.
 To the best of our knowledge, this is the first work that empirically applies
 LLMs for DGA and DNS exfiltration detection.
 
-
-
 ---
 
 121. **[[2403.05156] On Protecting the Data Privacy of Large Language Models (LLMs): A Survey](https://arxiv.org/pdf/2403.05156.pdf)**
-
 Updated on 2024-03-15
-
 *Biwei Yan, Kun Li, Minghui Xu, Yueyan Dong, Yue Zhang, Zhaochun Ren, Xiuzhen Cheng*
-
-
   Large language models (LLMs) are complex artificial intelligence systems
 capable of understanding, generating and translating human language. They learn
 language patterns by analyzing large amounts of text data, allowing them to
@@ -3515,18 +2791,12 @@ constraints. Finally, the discourse extends to delineate the challenges
 encountered and outline prospective directions for advancement in the realm of
 LLM privacy protection.
 
-
-
 ---
 
 122. **[[2406.16810] How Data Inter-connectivity Shapes LLMs Unlearning: A Structural
   Unlearning Perspective](https://arxiv.org/pdf/2406.16810.pdf)**
-
 Updated on 2025-03-12
-
 *Xinchi Qiu, William F. Shen, Yihong Chen, Meghdad Kurmanji, Nicola Cancedda, Pontus Stenetorp, Nicholas D. Lane*
-
-
   While unlearning knowledge from large language models (LLMs) is receiving
 increasing attention, one important aspect remains unexplored. Existing
 approaches and benchmarks assume data points to-be-forgotten are independent,
@@ -3545,18 +2815,12 @@ between the density of the knowledge graph and unlearning difficulty, and (c)
 when the to-be-forgotten data is skewed towards one domain, balancing retaining
 performance across all domains is challenging.
 
-
-
 ---
 
 123. **[[2406.01983] RKLD: Reverse KL-Divergence-based Knowledge Distillation for Unlearning
   Personal Information in Large Language Models](https://arxiv.org/pdf/2406.01983.pdf)**
-
 Updated on 2024-06-05
-
 *Bichen Wang, Yuzhe Zi, Yixin Sun, Yanyan Zhao, Bing Qin*
-
-
   With the passage of the Right to Be Forgotten (RTBF) regulations and the
 scaling up of language model training datasets, research on model unlearning in
 large language models (LLMs) has become more crucial. Before the era of LLMs,
@@ -3573,18 +2837,12 @@ unlearning algorithm for LLMs targeting the unlearning of personal information.
 Through RKLD, we achieve significant forget quality and effectively maintain
 the model utility in our experiments.
 
-
-
 ---
 
 124. **[[2502.07340] Aligning Large Language Models to Follow Instructions and Hallucinate
   Less via Effective Data Filtering](https://arxiv.org/pdf/2502.07340.pdf)**
-
 Updated on 2025-02-18
-
 *Shuzheng Si, Haozhe Zhao, Gang Chen, Cheng Gao, Yuzhuo Bai, Zhitong Wang, Kaikai An, Kangyang Luo, Chen Qian, Fanchao Qi, Baobao Chang, Maosong Sun*
-
-
   Training LLMs on data containing unfamiliar knowledge during the instruction
 tuning stage can encourage hallucinations. To address this challenge, we
 introduce NOVA, a novel framework designed to identify high-quality data that
@@ -3601,18 +2859,12 @@ characteristics beyond just familiarity. By considering data quality and
 avoiding unfamiliar data, we can utilize the selected data to effectively align
 LLMs to follow instructions and hallucinate less.
 
-
-
 ---
 
 125. **[[2410.13903] CoreGuard: Safeguarding Foundational Capabilities of LLMs Against Model
   Stealing in Edge Deployment](https://arxiv.org/pdf/2410.13903.pdf)**
-
 Updated on 2024-10-21
-
 *Qinfeng Li, Yangfan Xie, Tianyu Du, Zhiqiang Shen, Zhenghan Qin, Hao Peng, Xinkui Zhao, Xianwei Zhu, Jianwei Yin, Xuhong Zhang*
-
-
   Proprietary large language models (LLMs) demonstrate exceptional
 generalization ability across various tasks. Additionally, deploying LLMs on
 edge devices is trending for efficiency and privacy reasons. However, edge
@@ -3632,18 +2884,12 @@ CoreGuard is a lightweight and propagative authorization module residing in
 TEE. Extensive experiments show that CoreGuard achieves the same security
 protection as the black-box security guarantees with negligible overhead.
 
-
-
 ---
 
 126. **[[2405.15234] Defensive Unlearning with Adversarial Training for Robust Concept
   Erasure in Diffusion Models](https://arxiv.org/pdf/2405.15234.pdf)**
-
 Updated on 2024-10-10
-
 *Yimeng Zhang, Xin Chen, Jinghan Jia, Yihua Zhang, Chongyu Fan, Jiancheng Liu, Mingyi Hong, Ke Ding, Sijia Liu*
-
-
   Diffusion models (DMs) have achieved remarkable success in text-to-image
 generation, but they also pose safety risks, such as the potential generation
 of harmful content and copyright violations. The techniques of machine
@@ -3670,18 +2916,12 @@ first work to systematically explore robust DM unlearning through AT, setting
 it apart from existing methods that overlook robustness in concept erasing.
 Codes are available at: https://github.com/OPTML-Group/AdvUnlearn
 
-
-
 ---
 
 127. **[[2501.19202] Improving the Robustness of Representation Misdirection for Large
   Language Model Unlearning](https://arxiv.org/pdf/2501.19202.pdf)**
-
 Updated on 2025-02-04
-
 *Dang Huu-Tien, Hoang Thanh-Tung, Le-Minh Nguyen, Naoya Inoue*
-
-
   Representation Misdirection (RM) and variants are established large language
 model (LLM) unlearning methods with state-of-the-art performance. In this
 paper, we show that RM methods inherently reduce models' robustness, causing
@@ -3695,17 +2935,11 @@ agnostic approach with theoretical guarantees for improving the robustness of
 RM methods. Extensive experiments demonstrate that RNA significantly improves
 the robustness of RM models while enhancing the unlearning performances.
 
-
-
 ---
 
 128. **[[2310.02238] Who's Harry Potter? Approximate Unlearning in LLMs](https://arxiv.org/pdf/2310.02238.pdf)**
-
 Updated on 2023-10-05
-
 *Ronen Eldan, Mark Russinovich*
-
-
   Large language models (LLMs) are trained on massive internet corpora that
 often contain copyrighted content. This poses legal and ethical challenges for
 the developers and users of these models, as well as the original authors and
@@ -3732,17 +2966,11 @@ data. Third, we finetune the model on these alternative labels, which
 effectively erases the original text from the model's memory whenever it is
 prompted with its context.
 
-
-
 ---
 
 129. **[[2410.14273] REEF: Representation Encoding Fingerprints for Large Language Models](https://arxiv.org/pdf/2410.14273.pdf)**
-
 Updated on 2024-10-21
-
 *Jie Zhang, Dongrui Liu, Chen Qian, Linfeng Zhang, Yong Liu, Yu Qiao, Jing Shao*
-
-
   Protecting the intellectual property of open-source Large Language Models
 (LLMs) is very important, because training LLMs costs extensive computational
 resources and data. Therefore, model owners and third parties need to identify
@@ -3758,18 +2986,12 @@ effective way for third parties and models' owners to protect LLMs'
 intellectual property together. The code is available at
 https://github.com/tmylla/REEF.
 
-
-
 ---
 
 130. **[[2503.23566] When LLM Therapists Become Salespeople: Evaluating Large Language Models
   for Ethical Motivational Interviewing](https://arxiv.org/pdf/2503.23566.pdf)**
-
 Updated on 2025-04-01
-
 *Haein Kong, Seonghyeon Moon*
-
-
   Large language models (LLMs) have been actively applied in the mental health
 field. Recent research shows the promise of LLMs in applying psychotherapy,
 especially motivational interviewing (MI). However, there is a lack of studies
@@ -3786,18 +3008,12 @@ strategy effectively improved ethical MI response generation and detection
 performance. These findings highlight the need for safety evaluations and
 guidelines for building ethical LLM-powered psychotherapy.
 
-
-
 ---
 
 131. **[[2403.03536] Towards Efficient and Effective Unlearning of Large Language Models for
   Recommendation](https://arxiv.org/pdf/2403.03536.pdf)**
-
 Updated on 2024-07-02
-
 *Hangyu Wang, Jianghao Lin, Bo Chen, Yang Yang, Ruiming Tang, Weinan Zhang, Yong Yu*
-
-
   The significant advancements in large language models (LLMs) give rise to a
 promising research direction, i.e., leveraging LLMs as recommenders (LLMRec).
 The efficacy of LLMRec arises from the open-world knowledge and reasoning
@@ -3821,18 +3037,12 @@ Specifically, E2URec can efficiently forget specific data without affecting
 recommendation performance. The source code is at
 \url{https://github.com/justarter/E2URec}.
 
-
-
 ---
 
 132. **[[2406.18326] PaCoST: Paired Confidence Significance Testing for Benchmark
   Contamination Detection in Large Language Models](https://arxiv.org/pdf/2406.18326.pdf)**
-
 Updated on 2025-03-19
-
 *Huixuan Zhang, Yun Lin, Xiaojun Wan*
-
-
   Large language models (LLMs) are known to be trained on vast amounts of data,
 which may unintentionally or intentionally include data from commonly used
 benchmarks. This inclusion can lead to cheatingly high scores on model
@@ -3849,18 +3059,12 @@ popular open-source models and benchmarks. We find that almost all models and
 benchmarks we tested are suspected contaminated more or less. We finally call
 for new LLM evaluation methods.
 
-
-
 ---
 
 133. **[[2406.12329] Opt-Out: Investigating Entity-Level Unlearning for Large Language Models
   via Optimal Transport](https://arxiv.org/pdf/2406.12329.pdf)**
-
 Updated on 2024-12-05
-
 *Minseok Choi, Daniel Rim, Dohyun Lee, Jaegul Choo*
-
-
   Instruction-following large language models (LLMs), such as ChatGPT, have
 become widely popular among everyday users. However, these models inadvertently
 disclose private, sensitive information to their users, underscoring the need
@@ -3879,18 +3083,12 @@ that Opt-Out surpasses existing methods, establishing a new standard for secure
 and adaptable LLMs that can accommodate user data removal requests without the
 need for full retraining.
 
-
-
 ---
 
 134. **[[2308.08090] Separate the Wheat from the Chaff: Model Deficiency Unlearning via
   Parameter-Efficient Module Operation](https://arxiv.org/pdf/2308.08090.pdf)**
-
 Updated on 2024-01-19
-
 *Xinshuo Hu, Dongfang Li, Baotian Hu, Zihao Zheng, Zhenyu Liu, Min Zhang*
-
-
   Large language models (LLMs) have been widely used in various applications
 but are known to suffer from issues related to untruthfulness and toxicity.
 While parameter-efficient modules (PEMs) have demonstrated their effectiveness
@@ -3910,18 +3108,12 @@ modeling and mathematical reasoning. Our empirical results demonstrate that our
 approach effectively improves truthfulness and detoxification, while largely
 preserving the fundamental abilities of LLMs.
 
-
-
 ---
 
 135. **[[2310.14444] URegM: a unified prediction model of resource consumption for
   refactoring software smells in open source cloud](https://arxiv.org/pdf/2310.14444.pdf)**
-
 Updated on 2023-10-24
-
 *Asif Imran, Tevfik Kosar*
-
-
   The low cost and rapid provisioning capabilities have made the cloud a
 desirable platform to launch complex scientific applications. However, resource
 utilization optimization is a significant challenge for cloud service
@@ -3941,18 +3133,12 @@ knowledge about the impact of refactoring code smells on resource consumption,
 thus allowing them to plan their resource provisioning and code refactoring
 more effectively.
 
-
-
 ---
 
 136. **[[2412.15194] MMLU-CF: A Contamination-free Multi-task Language Understanding
   Benchmark](https://arxiv.org/pdf/2412.15194.pdf)**
-
 Updated on 2024-12-20
-
 *Qihao Zhao, Yangyu Huang, Tengchao Lv, Lei Cui, Qinzheng Sun, Shaoguang Mao, Xin Zhang, Ying Xin, Qiufeng Yin, Scarlett Li, Furu Wei*
-
-
   Multiple-choice question (MCQ) datasets like Massive Multitask Language
 Understanding (MMLU) are widely used to evaluate the commonsense,
 understanding, and problem-solving abilities of large language models (LLMs).
@@ -3974,18 +3160,12 @@ more rigorous and contamination-free evaluation standard. The GitHub repository
 is available at https://github.com/microsoft/MMLU-CF and the dataset refers to
 https://huggingface.co/datasets/microsoft/MMLU-CF.
 
-
-
 ---
 
 137. **[[2403.10557] Second-Order Information Matters: Revisiting Machine Unlearning for
   Large Language Models](https://arxiv.org/pdf/2403.10557.pdf)**
-
 Updated on 2024-03-19
-
 *Kang Gu, Md Rafi Ur Rashid, Najrin Sultana, Shagufta Mehnaz*
-
-
   With the rapid development of Large Language Models (LLMs), we have witnessed
 intense competition among the major LLM products like ChatGPT, LLaMa, and
 Gemini. However, various issues (e.g. privacy leakage and copyright violation)
@@ -4004,18 +3184,12 @@ comprehensive evaluation with four NLP datasets as well as a case study on
 real-world datasets, our methods consistently show superiority over the
 first-order methods.
 
-
-
 ---
 
 138. **[[2407.10582] Boosting Zero-Shot Crosslingual Performance using LLM-Based
   Augmentations with Effective Data Selection](https://arxiv.org/pdf/2407.10582.pdf)**
-
 Updated on 2024-07-16
-
 *Barah Fazili, Ashish Sunil Agrawal, Preethi Jyothi*
-
-
   Large language models (LLMs) are very proficient text generators. We leverage
 this capability of LLMs to generate task-specific data via zero-shot prompting
 and promote cross-lingual transfer for low-resource target languages. Given
@@ -4032,17 +3206,11 @@ across sentiment analysis and natural language inference tasks (of up to a
 maximum of 7.13 absolute points and 1.5 absolute points on average) across a
 number of target languages (Hindi, Marathi, Urdu, Swahili) and domains.
 
-
-
 ---
 
 139. **[[2407.10058] Learning to Refuse: Towards Mitigating Privacy Risks in LLMs](https://arxiv.org/pdf/2407.10058.pdf)**
-
 Updated on 2024-09-17
-
 *Zhenhua Liu, Tong Zhu, Chuanyuan Tan, Wenliang Chen*
-
-
   Large language models (LLMs) exhibit remarkable capabilities in understanding
 and generating natural language. However, these models can inadvertently
 memorize private information, posing significant privacy risks. This study
@@ -4059,17 +3227,11 @@ a state-of-the-art average unlearning score, surpassing the best baseline
 method by 5.65 points, effectively protecting target individuals' personal data
 while maintaining the model's general capabilities.
 
-
-
 ---
 
 140. **[[2504.00018] SandboxEval: Towards Securing Test Environment for Untrusted Code](https://arxiv.org/pdf/2504.00018.pdf)**
-
 Updated on 2025-04-02
-
 *Rafiqul Rabin, Jesse Hostetler, Sean McGregor, Brett Weir, Nick Judd*
-
-
   While large language models (LLMs) are powerful assistants in programming
 tasks, they may also produce malicious code. Testing LLM-generated code
 therefore poses significant risks to assessment infrastructure tasked with
@@ -4090,18 +3252,12 @@ the test results provide valuable insights for developers seeking to harden
 assessment infrastructure and identify risks associated with LLM execution
 activities.
 
-
-
 ---
 
 141. **[[2410.14425] Unlearning Backdoor Attacks for LLMs with Weak-to-Strong Knowledge
   Distillation](https://arxiv.org/pdf/2410.14425.pdf)**
-
 Updated on 2024-10-21
-
 *Shuai Zhao, Xiaobao Wu, Cong-Duy Nguyen, Meihuizi Jia, Yichao Feng, Luu Anh Tuan*
-
-
   Parameter-efficient fine-tuning (PEFT) can bridge the gap between large
 language models (LLMs) and downstream tasks. However, PEFT has been proven
 vulnerable to malicious attacks. Research indicates that poisoned LLMs, even
@@ -4120,18 +3276,12 @@ algorithms. Our empirical results demonstrate the outstanding performance of
 W2SDefense in defending against backdoor attacks without compromising model
 performance.
 
-
-
 ---
 
 142. **[[2305.04547] Diffusion Theory as a Scalpel: Detecting and Purifying Poisonous
   Dimensions in Pre-trained Language Models Caused by Backdoor or Bias](https://arxiv.org/pdf/2305.04547.pdf)**
-
 Updated on 2023-05-09
-
 *Zhiyuan Zhang, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun*
-
-
   Pre-trained Language Models (PLMs) may be poisonous with backdoors or bias
 injected by the suspicious attacker during the fine-tuning process. A core
 challenge of purifying potentially poisonous PLMs is precisely finding
@@ -4146,18 +3296,12 @@ first to study the dynamics guided by the diffusion theory for safety or
 defense purposes. Experimental results validate the effectiveness of
 Fine-purifying even with a small clean dataset.
 
-
-
 ---
 
 143. **[[2312.16823] Layer Attack Unlearning: Fast and Accurate Machine Unlearning via Layer
   Level Attack and Knowledge Distillation](https://arxiv.org/pdf/2312.16823.pdf)**
-
 Updated on 2023-12-29
-
 *Hyunjune Kim, Sangyong Lee, Simon S. Woo*
-
-
   Recently, serious concerns have been raised about the privacy issues related
 to training datasets in machine learning algorithms when including personal
 data. Various regulations in different countries, including the GDPR grant
@@ -4176,17 +3320,11 @@ accuracy performance. We conducted extensive experiments with SOTA machine
 unlearning models and demonstrated the effectiveness of our approach for
 accuracy and end-to-end unlearning performance.
 
-
-
 ---
 
 144. **[[2311.18815] IMMA: Immunizing text-to-image Models against Malicious Adaptation](https://arxiv.org/pdf/2311.18815.pdf)**
-
 Updated on 2024-10-01
-
 *Amber Yijia Zheng, Raymond A. Yeh*
-
-
   Advancements in open-sourced text-to-image models and fine-tuning methods
 have led to the increasing risk of malicious adaptation, i.e., fine-tuning to
 generate harmful/unauthorized content. Recent works, e.g., Glaze or MIST, have
@@ -4201,18 +3339,12 @@ style and learning of inappropriate/unauthorized content, over three adaptation
 methods: LoRA, Textual-Inversion, and DreamBooth. The code is available at
 \url{https://github.com/amberyzheng/IMMA}.
 
-
-
 ---
 
 145. **[[2311.16822] Large Language Models Suffer From Their Own Output: An Analysis of the
   Self-Consuming Training Loop](https://arxiv.org/pdf/2311.16822.pdf)**
-
 Updated on 2024-06-18
-
 *Martin Briesch, Dominik Sobania, Franz Rothlauf*
-
-
   Large Language Models (LLM) are already widely used to generate content for a
 variety of online platforms. As we are not able to safely distinguish
 LLM-generated content from human-produced content, LLM-generated content is
@@ -4230,18 +3362,12 @@ depending on the proportion of the used generated data. Fresh data can slow
 down this decline, but not stop it. Given these concerning results, we
 encourage researchers to study methods to negate this process.
 
-
-
 ---
 
 146. **[[2501.10915] LegalGuardian: A Privacy-Preserving Framework for Secure Integration of
   Large Language Models in Legal Practice](https://arxiv.org/pdf/2501.10915.pdf)**
-
 Updated on 2025-01-22
-
 *M. Mikail Demir, Hakan T. Otal, M. Abdullah Canbaz*
-
-
   Large Language Models (LLMs) hold promise for advancing legal practice by
 automating complex tasks and improving access to justice. However, their
 adoption is limited by concerns over client confidentiality, especially when
@@ -4260,18 +3386,12 @@ utility of LLM-based tools. Our findings indicate that legal professionals can
 harness advanced AI technologies without compromising client confidentiality or
 the quality of legal documents.
 
-
-
 ---
 
 147. **[[2403.09681] ViT-MUL: A Baseline Study on Recent Machine Unlearning Methods Applied
   to Vision Transformers](https://arxiv.org/pdf/2403.09681.pdf)**
-
 Updated on 2024-03-18
-
 *Ikhyun Cho, Changyeon Park, Julia Hockenmaier*
-
-
   Machine unlearning (MUL) is an arising field in machine learning that seeks
 to erase the learned information of specific training data points from a
 trained model. Despite the recent active research in MUL within computer
@@ -4282,17 +3402,11 @@ we present comprehensive experiments on ViTs using recent MUL algorithms and
 datasets. We anticipate that our experiments, ablation studies, and findings
 could provide valuable insights and inspire further research in this field.
 
-
-
 ---
 
 148. **[[2403.03883] SaulLM-7B: A pioneering Large Language Model for Law](https://arxiv.org/pdf/2403.03883.pdf)**
-
 Updated on 2024-03-08
-
 *Pierre Colombo, Telmo Pessoa Pires, Malik Boudiaf, Dominic Culver, Rui Melo, Caio Corro, Andre F. T. Martins, Fabrizio Esposito, Vera Lúcia Raposo, Sofia Morgado, Michael Desa*
-
-
   In this paper, we introduce SaulLM-7B, a large language model (LLM) tailored
 for the legal domain. With 7 billion parameters, SaulLM-7B is the first LLM
 designed explicitly for legal text comprehension and generation. Leveraging the
@@ -4303,17 +3417,11 @@ present a novel instructional fine-tuning method that leverages legal datasets
 to further enhance SaulLM-7B's performance in legal tasks. SaulLM-7B is
 released under the MIT License.
 
-
-
 ---
 
 149. **[[2311.05553] Removing RLHF Protections in GPT-4 via Fine-Tuning](https://arxiv.org/pdf/2311.05553.pdf)**
-
 Updated on 2024-04-09
-
 *Qiusi Zhan, Richard Fang, Rohan Bindu, Akul Gupta, Tatsunori Hashimoto, Daniel Kang*
-
-
   As large language models (LLMs) have increased in their capabilities, so does
 their potential for dual use. To reduce harmful outputs, produces and vendors
 of LLMs have used reinforcement learning with human feedback (RLHF). In tandem,
@@ -4329,17 +3437,11 @@ evidence that our fine-tuning strategy does not decrease usefulness despite
 using weaker models to generate training data. Our results show the need for
 further research on protections on LLMs.
 
-
-
 ---
 
 150. **[[2306.06815] TrojLLM: A Black-box Trojan Prompt Attack on Large Language Models](https://arxiv.org/pdf/2306.06815.pdf)**
-
 Updated on 2023-11-01
-
 *Jiaqi Xue, Mengxin Zheng, Ting Hua, Yilin Shen, Yepeng Liu, Ladislau Boloni, Qian Lou*
-
-
   Large Language Models (LLMs) are progressively being utilized as machine
 learning services and interface tools for various applications. However, the
 security implications of LLMs, particularly in relation to adversarial and
@@ -4361,18 +3463,12 @@ potential security risks in current models and offers a potential defensive
 approach. The source code of TrojLLM is available at
 https://github.com/UCF-ML-Research/TrojLLM.
 
-
-
 ---
 
 151. **[[2502.05374] Towards LLM Unlearning Resilient to Relearning Attacks: A
   Sharpness-Aware Minimization Perspective and Beyond](https://arxiv.org/pdf/2502.05374.pdf)**
-
 Updated on 2025-03-26
-
 *Chongyu Fan, Jinghan Jia, Yihua Zhang, Anil Ramakrishna, Mingyi Hong, Sijia Liu*
-
-
   The LLM unlearning technique has recently been introduced to comply with data
 regulations and address the safety and ethical concerns of LLMs by removing the
 undesired data-model influence. However, state-of-the-art unlearning methods
@@ -4393,17 +3489,11 @@ attacks. Notably, smoothness-enhanced unlearning also helps defend against
 robustifying LLM unlearning. Codes are available at
 https://github.com/OPTML-Group/Unlearn-Smooth.
 
-
-
 ---
 
 152. **[[2312.07910] PromptBench: A Unified Library for Evaluation of Large Language Models](https://arxiv.org/pdf/2312.07910.pdf)**
-
 Updated on 2024-08-21
-
 *Kaijie Zhu, Qinlin Zhao, Hao Chen, Jindong Wang, Xing Xie*
-
-
   The evaluation of large language models (LLMs) is crucial to assess their
 performance and mitigate potential security risks. In this paper, we introduce
 PromptBench, a unified library to evaluate LLMs. It consists of several key
@@ -4416,18 +3506,12 @@ downstream applications, and designing new evaluation protocols. The code is
 available at: https://github.com/microsoft/promptbench and will be continuously
 supported.
 
-
-
 ---
 
 153. **[[2501.18280] Jailbreaking LLMs' Safeguard with Universal Magic Words for Text
   Embedding Models](https://arxiv.org/pdf/2501.18280.pdf)**
-
 Updated on 2025-02-11
-
 *Haoyu Liang, Youran Sun, Yunfeng Cai, Jun Zhu, Bo Zhang*
-
-
   The security issue of large language models (LLMs) has gained significant
 attention recently, with various defense mechanisms developed to prevent
 harmful outputs, among which safeguards based on text embedding models serve as
@@ -4443,17 +3527,11 @@ this security risk, we also propose defense mechanisms against such attacks,
 which can correct the biased distribution of text embeddings in a train-free
 manner.
 
-
-
 ---
 
 154. **[[2412.06846] Classifier-free guidance in LLMs Safety](https://arxiv.org/pdf/2412.06846.pdf)**
-
 Updated on 2024-12-11
-
 *Roman Smirnov*
-
-
   The paper describes LLM unlearning without a retaining dataset, using the
 ORPO reinforcement learning method with inference enhanced by modified
 classifier-free guidance. Significant improvement in unlearning, without
@@ -4462,17 +3540,11 @@ replacement data in CFG-aware training regime, with classifier-free guidance
 applied during the inference. This article is an extended version of the
 NeurIPS 2024 LLM-PC submission, which was awarded second prize.
 
-
-
 ---
 
 155. **[[2309.01446] Open Sesame! Universal Black Box Jailbreaking of Large Language Models](https://arxiv.org/pdf/2309.01446.pdf)**
-
 Updated on 2024-08-06
-
 *Raz Lapid, Ron Langberg, Moshe Sipper*
-
-
   Large language models (LLMs), designed to provide helpful and safe responses,
 often rely on alignment techniques to align with user intent and social
 guidelines. Unfortunately, this alignment can be exploited by malicious actors
@@ -4489,18 +3561,12 @@ discussion on responsible AI development by providing a diagnostic tool for
 evaluating and enhancing alignment of LLMs with human intent. To our knowledge
 this is the first automated universal black box jailbreak attack.
 
-
-
 ---
 
 156. **[[2412.16039] SafeCFG: Redirecting Harmful Classifier-Free Guidance for Safe
   Generation](https://arxiv.org/pdf/2412.16039.pdf)**
-
 Updated on 2024-12-23
-
 *Jiadong Pan, Hongcheng Gao, Liang Li, Zheng-Jun Zha, Qingming Huang, Jiebo Luo*
-
-
   Diffusion models (DMs) have demonstrated exceptional performance in
 text-to-image (T2I) tasks, leading to their widespread use. With the
 introduction of classifier-free guidance (CFG), the quality of images generated
@@ -4521,30 +3587,18 @@ high quality and strong safety, and safe DMs trained through unsupervised
 methods according to the harmfulness detected by HGR also exhibit good safety
 performance. The codes will be publicly available.
 
-
-
 ---
 
 157. **[[2307.14810] A Differential Datalog Interpreter](https://arxiv.org/pdf/2307.14810.pdf)**
-
 Updated on 2023-08-24
-
 *Matthew Stephenson*
-
-
   Redacted by arXiv admins
-
-
 
 ---
 
 158. **[[2007.03548] Breaking and Fixing Destructive Code Read Defenses](https://arxiv.org/pdf/2007.03548.pdf)**
-
 Updated on 2020-07-08
-
 *Jannik Pewny, Philipp Koppe, Lucas Davi, Thorsten Holz*
-
-
   Just-in-time return-oriented programming (JIT-ROP) is a powerful memory
 corruption attack that bypasses various forms of code randomization.
 Execute-only memory (XOM) can potentially prevent these attacks, but requires
@@ -4562,17 +3616,11 @@ legacy, off-the-shelf binaries. Our evaluation shows that BGDX is not only
 effective, but highly efficient, imposing only a geometric mean performance
 overhead of 3.95% on SPEC.
 
-
-
 ---
 
 159. **[[2410.22108] Protecting Privacy in Multimodal Large Language Models with MLLMU-Bench](https://arxiv.org/pdf/2410.22108.pdf)**
-
 Updated on 2025-02-18
-
 *Zheyuan Liu, Guangyao Dou, Mengzhao Jia, Zhaoxuan Tan, Qingkai Zeng, Yongle Yuan, Meng Jiang*
-
-
   Generative models such as Large Language Models (LLM) and Multimodal Large
 Language models (MLLMs) trained on massive web corpora can memorize and
 disclose individuals' confidential and private data, raising legal and ethical
@@ -4591,17 +3639,11 @@ unlearning algorithms excel in generation and cloze tasks, while multimodal
 unlearning approaches perform better in classification tasks with multimodal
 inputs.
 
-
-
 ---
 
 160. **[[2408.02946] Data Poisoning in LLMs: Jailbreak-Tuning and Scaling Laws](https://arxiv.org/pdf/2408.02946.pdf)**
-
 Updated on 2024-12-31
-
 *Dillon Bowen, Brendan Murphy, Will Cai, David Khachaturov, Adam Gleave, Kellin Pelrine*
-
-
   LLMs produce harmful and undesirable behavior when trained on poisoned
 datasets that contain a small fraction of corrupted or harmful data. We develop
 a new attack paradigm, jailbreak-tuning, that combines data poisoning with
@@ -4621,18 +3663,12 @@ underscore the need for leading AI companies to thoroughly red team fine-tuning
 APIs before public release and to develop more robust safeguards against data
 poisoning, particularly as models continue to scale in size and capability.
 
-
-
 ---
 
 161. **[[2410.16848] ETHIC: Evaluating Large Language Models on Long-Context Tasks with High
   Information Coverage](https://arxiv.org/pdf/2410.16848.pdf)**
-
 Updated on 2025-02-28
-
 *Taewhoo Lee, Chanwoong Yoon, Kyochul Jang, Donghyeon Lee, Minju Song, Hyunjae Kim, Jaewoo Kang*
-
-
   Recent advancements in large language models (LLM) capable of processing
 extremely long texts highlight the need for a dedicated evaluation benchmark to
 assess their long-context capabilities. However, existing methods, like the
@@ -4651,17 +3687,11 @@ significant performance drops in contemporary LLMs, highlighting a critical
 challenge in managing long contexts. Our benchmark is available at
 https://github.com/dmis-lab/ETHIC.
 
-
-
 ---
 
 162. **[[2311.02105] Making Harmful Behaviors Unlearnable for Large Language Models](https://arxiv.org/pdf/2311.02105.pdf)**
-
 Updated on 2023-11-07
-
 *Xin Zhou, Yi Lu, Ruotian Ma, Tao Gui, Qi Zhang, Xuanjing Huang*
-
-
   Large language models (LLMs) have shown great potential as general-purpose AI
 assistants in various domains. To meet the requirements of different
 applications, LLMs are often customized by further fine-tuning. However, the
@@ -4682,18 +3712,12 @@ that the security vectors generated by 100 harmful samples are enough to
 prevent LLM from learning 1000 harmful samples, while preserving the ability to
 learn other useful information.
 
-
-
 ---
 
 163. **[[2405.05610] Chain of Attack: a Semantic-Driven Contextual Multi-Turn attacker for
   LLM](https://arxiv.org/pdf/2405.05610.pdf)**
-
 Updated on 2024-05-10
-
 *Xikang Yang, Xuehai Tang, Songlin Hu, Jizhong Han*
-
-
   Large language models (LLMs) have achieved remarkable performance in various
 natural language processing tasks, especially in dialogue systems. However, LLM
 may also pose security and moral threats, especially in multi round
@@ -4709,18 +3733,12 @@ LLMs, and outperform existing attack methods. Our work provides a new
 perspective and tool for attacking and defending LLMs, and contributes to the
 security and ethical assessment of dialogue systems.
 
-
-
 ---
 
 164. **[[2406.09325] REVS: Unlearning Sensitive Information in Language Models via Rank
   Editing in the Vocabulary Space](https://arxiv.org/pdf/2406.09325.pdf)**
-
 Updated on 2025-02-18
-
 *Tomer Ashuach, Martin Tutek, Yonatan Belinkov*
-
-
   Language models (LMs) risk inadvertently memorizing and divulging sensitive
 or personally identifiable information (PII) seen in training data, causing
 privacy concerns. Current approaches to address this issue involve costly
@@ -4735,17 +3753,11 @@ dataset that we tune the models to memorize. Compared to other methods, REVS
 demonstrates superior performance in unlearning sensitive information and
 robustness to extraction attacks, while retaining underlying model integrity.
 
-
-
 ---
 
 165. **[[2406.01333] Probing Language Models for Pre-training Data Detection](https://arxiv.org/pdf/2406.01333.pdf)**
-
 Updated on 2024-06-04
-
 *Zhenhua Liu, Tong Zhu, Chuanyuan Tan, Haonan Lu, Bing Liu, Wenliang Chen*
-
-
   Large Language Models (LLMs) have shown their impressive capabilities, while
 also raising concerns about the data contamination problems due to privacy
 issues and leakage of benchmark datasets in the pre-training phase. Therefore,
@@ -4762,17 +3774,11 @@ state-of-the-art performance on both WikiMIA and ArxivMIA, with additional
 experiments confirming its efficacy (Our code and dataset are available at
 https://github.com/zhliu0106/probing-lm-data).
 
-
-
 ---
 
 166. **[[2411.10351] Bias Unveiled: Investigating Social Bias in LLM-Generated Code](https://arxiv.org/pdf/2411.10351.pdf)**
-
 Updated on 2025-03-10
-
 *Lin Ling, Fazle Rabbi, Song Wang, Jinqiu Yang*
-
-
   Large language models (LLMs) have significantly advanced the field of
 automated code generation. However, a notable research gap exists in evaluating
 social biases that may be present in the code produced by LLMs. To solve this
@@ -4790,17 +3796,11 @@ Solar. Our experiments show that dialogue with Solar can effectively reduce
 social bias in LLM-generated code by up to 90%. Last, we make the code and data
 publicly available is highly extensible to evaluate new social problems.
 
-
-
 ---
 
 167. **[[2503.16740] Automated Harmfulness Testing for Code Large Language Models](https://arxiv.org/pdf/2503.16740.pdf)**
-
 Updated on 2025-03-24
-
 *Honghao Tan, Haibo Wang, Diany Pressato, Yisen Xu, Shin Hwei Tan*
-
-
   Generative AI systems powered by Large Language Models (LLMs) usually use
 content moderation to prevent harmful content spread. To evaluate the
 robustness of content moderation, several metamorphic testing techniques have
@@ -4821,18 +3821,12 @@ code generation is easily bypassed. To enhance moderation, we propose a
 two-phase approach that first detects harmful content before generating output,
 improving moderation effectiveness by 483.76\%.
 
-
-
 ---
 
 168. **[[2309.10283] FRAMU: Attention-based Machine Unlearning using Federated Reinforcement
   Learning](https://arxiv.org/pdf/2309.10283.pdf)**
-
 Updated on 2024-10-28
-
 *Thanveer Shaik, Xiaohui Tao, Lin Li, Haoran Xie, Taotao Cai, Xiaofeng Zhu, Qing Li*
-
-
   Machine Unlearning is an emerging field that addresses data privacy issues by
 enabling the removal of private or irrelevant data from the Machine Learning
 process. Challenges related to privacy and model efficiency arise from the use
@@ -4854,18 +3848,12 @@ federated learning applications. Overall, FRAMU advances Machine Unlearning by
 offering a robust, privacy-preserving solution that optimizes model performance
 while also addressing key challenges in dynamic data environments.
 
-
-
 ---
 
 169. **[[2412.07261] MemHunter: Automated and Verifiable Memorization Detection at
   Dataset-scale in LLMs](https://arxiv.org/pdf/2412.07261.pdf)**
-
 Updated on 2025-02-18
-
 *Zhenpeng Wu, Jian Lou, Zibin Zheng, Chuan Chen*
-
-
   Large language models (LLMs) have been shown to memorize and reproduce
 content from their training data, raising significant privacy concerns,
 especially with web-scale datasets. Existing methods for detecting memorization
@@ -4885,18 +3873,12 @@ as a plug-in. Crucially, MemHunter is the first method capable of dataset-level
 memorization detection, providing a critical tool for assessing privacy risks
 in LLMs powered by large-scale datasets.
 
-
-
 ---
 
 170. **[[2404.19048] A Framework for Real-time Safeguarding the Text Generation of Large
   Language Model](https://arxiv.org/pdf/2404.19048.pdf)**
-
 Updated on 2024-05-03
-
 *Ximing Dong, Dayi Lin, Shaowei Wang, Ahmed E. Hassan*
-
-
   Large Language Models (LLMs) have significantly advanced natural language
 processing (NLP) tasks but also pose ethical and societal risks due to their
 propensity to generate harmful content. To address this, various approaches
@@ -4922,18 +3904,12 @@ inference time by at least 24% meanwhile maintaining comparable effectiveness
 as validating each time step. LLMSafeGuard also offers tunable parameters to
 balance its effectiveness and efficiency.
 
-
-
 ---
 
 171. **[[2405.11466] Measuring Impacts of Poisoning on Model Parameters and Embeddings for
   Large Language Models of Code](https://arxiv.org/pdf/2405.11466.pdf)**
-
 Updated on 2024-05-21
-
 *Aftab Hussain, Md Rafiqul Islam Rabin, Mohammad Amin Alipour*
-
-
   Large language models (LLMs) have revolutionized software development
 practices, yet concerns about their safety have arisen, particularly regarding
 hidden backdoors, aka trojans. Backdoor attacks involve the insertion of
@@ -4948,17 +3924,11 @@ differences. This work contributes to ongoing efforts in white-box detection of
 backdoor signals in LLMs of code through the analysis of parameters and
 embeddings.
 
-
-
 ---
 
 172. **[[2407.12504] Case2Code: Scalable Synthetic Data for Code Generation](https://arxiv.org/pdf/2407.12504.pdf)**
-
 Updated on 2025-02-11
-
 *Yunfan Shao, Linyang Li, Yichuan Ma, Peiji Li, Demin Song, Qinyuan Cheng, Shimin Li, Xiaonan Li, Pengyu Wang, Qipeng Guo, Hang Yan, Xipeng Qiu, Xuanjing Huang, Dahua Lin*
-
-
   Large Language Models (LLMs) have shown outstanding breakthroughs in code
 generation. Recent work improves code LLMs by training on synthetic data
 generated by some powerful LLMs, which can be challenging to scale due to the
@@ -4976,17 +3946,11 @@ current representative LLMs if they are untrained. Models trained with
 induction but also on various coding-generation tasks, demonstrating the great
 potential of large-scale synthetic data and inductive learning.
 
-
-
 ---
 
 173. **[[2408.04870] ConfusedPilot: Confused Deputy Risks in RAG-based LLMs](https://arxiv.org/pdf/2408.04870.pdf)**
-
 Updated on 2024-10-24
-
 *Ayush RoyChowdhury, Mulong Luo, Prateek Sahu, Sarbartha Banerjee, Mohit Tiwari*
-
-
   Retrieval augmented generation (RAG) is a process where a large language
 model (LLM) retrieves useful information from a database and then generates the
 responses. It is becoming popular in enterprise settings for daily business
@@ -5006,18 +3970,12 @@ root cause of these attacks by investigating the architecture of a RAG-based
 system. This study highlights the security vulnerabilities in today's RAG-based
 systems and proposes design guidelines to secure future RAG-based systems.
 
-
-
 ---
 
 174. **[[2402.16893] The Good and The Bad: Exploring Privacy Issues in Retrieval-Augmented
   Generation (RAG)](https://arxiv.org/pdf/2402.16893.pdf)**
-
 Updated on 2024-03-03
-
 *Shenglai Zeng, Jiankun Zhang, Pengfei He, Yue Xing, Yiding Liu, Han Xu, Jie Ren, Shuaiqiang Wang, Dawei Yin, Yi Chang, Jiliang Tang*
-
-
   Retrieval-augmented generation (RAG) is a powerful technique to facilitate
 language model with proprietary and private data, where data privacy is a
 pivotal concern. Whereas extensive research has demonstrated the privacy risks
@@ -5032,18 +3990,12 @@ privacy protection of retrieval-augmented LLMs, which benefit both LLMs and RAG
 systems builders. Our code is available at
 https://github.com/phycholosogy/RAG-privacy.
 
-
-
 ---
 
 175. **[[2406.07036] Paying More Attention to Source Context: Mitigating Unfaithful
   Translations from Large Language Model](https://arxiv.org/pdf/2406.07036.pdf)**
-
 Updated on 2024-06-12
-
 *Hongbin Zhang, Kehai Chen, Xuefeng Bai, Yang Xiang, Min Zhang*
-
-
   Large language models (LLMs) have showcased impressive multilingual machine
 translation ability. However, unlike encoder-decoder style models, decoder-only
 LLMs lack an explicit alignment between source and target contexts. Analyzing
@@ -5060,17 +4012,11 @@ our methods' effectiveness across multiple language pairs. Further human
 evaluation shows our method's efficacy in reducing hallucinatory translations
 and facilitating faithful translation generation.
 
-
-
 ---
 
 176. **[[2410.16186] Contamination Report for Multilingual Benchmarks](https://arxiv.org/pdf/2410.16186.pdf)**
-
 Updated on 2024-10-22
-
 *Sanchit Ahuja, Varun Gumma, Sunayana Sitaram*
-
-
   Benchmark contamination refers to the presence of test datasets in Large
 Language Model (LLM) pre-training or post-training data. Contamination can lead
 to inflated scores on benchmarks, compromising evaluation results and making it
@@ -5082,17 +4028,11 @@ and find that almost all models show signs of being contaminated with almost
 all the benchmarks we test. Our findings can help the community determine the
 best set of benchmarks to use for multilingual evaluation.
 
-
-
 ---
 
 177. **[[2403.00826] LLMGuard: Guarding Against Unsafe LLM Behavior](https://arxiv.org/pdf/2403.00826.pdf)**
-
 Updated on 2024-03-05
-
 *Shubh Goyal, Medha Hira, Shubham Mishra, Sukriti Goyal, Arnav Goel, Niharika Dadu, Kirushikesh DB, Sameep Mehta, Nishtha Madaan*
-
-
   Although the rise of Large Language Models (LLMs) in enterprise settings
 brings new opportunities and capabilities, it also brings challenges, such as
 the risk of generating inappropriate, biased, or misleading content that
@@ -5101,17 +4041,11 @@ violates regulations and can have legal concerns. To alleviate this, we present
 flags content against specific behaviours or conversation topics. To do this
 robustly, LLMGuard employs an ensemble of detectors.
 
-
-
 ---
 
 178. **[[2306.05670] One-Shot Machine Unlearning with Mnemonic Code](https://arxiv.org/pdf/2306.05670.pdf)**
-
 Updated on 2024-09-26
-
 *Tomoya Yamashita, Masanori Yamada, Takashi Shibata*
-
-
   Ethical and privacy issues inherent in artificial intelligence (AI)
 applications have been a growing concern with the rapid spread of deep
 learning. Machine unlearning (MU) is the research area that addresses these
@@ -5134,17 +4068,11 @@ method is faster and better at forgetting than existing MU methods.
 Furthermore, we show that our method can scale to more practical datasets and
 sophisticated architectures.
 
-
-
 ---
 
 179. **[[2401.11467] Over-Reasoning and Redundant Calculation of Large Language Models](https://arxiv.org/pdf/2401.11467.pdf)**
-
 Updated on 2024-03-21
-
 *Cheng-Han Chiang, Hung-yi Lee*
-
-
   Large language models (LLMs) can solve problems step-by-step. While this
 chain-of-thought (CoT) reasoning boosts LLMs' performance, it is unclear if
 LLMs \textit{know} when to use CoT and whether those CoT are always necessary
@@ -5158,18 +4086,12 @@ and reasonings. GSM8K-Zero is publicly available at
 https://github.com/d223302/Over-Reasoning-of-LLMs and
 https://huggingface.co/datasets/dcml0714/GSM8K-Zero.
 
-
-
 ---
 
 180. **[[2502.13416] Detecting LLM Fact-conflicting Hallucinations Enhanced by
   Temporal-logic-based Reasoning](https://arxiv.org/pdf/2502.13416.pdf)**
-
 Updated on 2025-02-20
-
 *Ningke Li, Yahui Song, Kailong Wang, Yuekang Li, Ling Shi, Yi Liu, Haoyu Wang*
-
-
   Large language models (LLMs) face the challenge of hallucinations -- outputs
 that seem coherent but are actually incorrect. A particularly damaging type is
 fact-conflicting hallucination (FCH), where generated content contradicts
@@ -5195,17 +4117,11 @@ experimental results show that Drowzee effectively identifies rates of
 non-temporal-related hallucinations ranging from 24.7% to 59.8%, and rates of
 temporal-related hallucinations ranging from 16.7% to 39.2%.
 
-
-
 ---
 
 181. **[[2402.02160] Data Poisoning for In-context Learning](https://arxiv.org/pdf/2402.02160.pdf)**
-
 Updated on 2024-03-29
-
 *Pengfei He, Han Xu, Yue Xing, Hui Liu, Makoto Yamada, Jiliang Tang*
-
-
   In the domain of large language models (LLMs), in-context learning (ICL) has
 been recognized for its innovative ability to adapt to new tasks, relying on
 examples rather than retraining or fine-tuning. This paper delves into the
@@ -5223,18 +4139,12 @@ compromised under our framework. These revelations indicate an urgent need for
 enhanced defense mechanisms to safeguard the integrity and reliability of LLMs
 in applications relying on in-context learning.
 
-
-
 ---
 
 182. **[[2409.14038] OAEI-LLM: A Benchmark Dataset for Understanding Large Language Model
   Hallucinations in Ontology Matching](https://arxiv.org/pdf/2409.14038.pdf)**
-
 Updated on 2025-02-04
-
 *Zhangcheng Qiang, Kerry Taylor, Weiqing Wang, Jing Jiang*
-
-
   Hallucinations of large language models (LLMs) commonly occur in
 domain-specific downstream tasks, with no exception in ontology matching (OM).
 The prevalence of using LLMs for OM raises the need for benchmarks to better
@@ -5244,17 +4154,11 @@ LLM-specific hallucinations in OM tasks. We outline the methodology used in
 dataset construction and schema extension, and provide examples of potential
 use cases.
 
-
-
 ---
 
 183. **[[2410.02879] Position: LLM Unlearning Benchmarks are Weak Measures of Progress](https://arxiv.org/pdf/2410.02879.pdf)**
-
 Updated on 2025-04-09
-
 *Pratiksha Thaker, Shengyuan Hu, Neil Kale, Yash Maurya, Zhiwei Steven Wu, Virginia Smith*
-
-
   Unlearning methods have the potential to improve the privacy and safety of
 large language models (LLMs) by removing sensitive or harmful information post
 hoc. The LLM unlearning research community has increasingly turned toward
@@ -5274,17 +4178,11 @@ to be cautious when interpreting benchmark results as reliable measures of
 progress, and we provide several recommendations to guide future LLM unlearning
 research.
 
-
-
 ---
 
 184. **[[2503.01224] CE-U: Cross Entropy Unlearning](https://arxiv.org/pdf/2503.01224.pdf)**
-
 Updated on 2025-03-18
-
 *Bo Yang*
-
-
   Large language models memorize sensitive data from their pretraining corpora.
 In this work, we propose CE-U (Cross Entropy Unlearning), a loss function for
 unlearning. CE-U addresses fundamental limitations of gradient ascent
@@ -5298,17 +4196,11 @@ reinforcement learning algorithms like DPO and GRPO. This suggests that
 applying CE-U approach to reinforcement learning could be promising to improve
 stability and convergence.
 
-
-
 ---
 
 185. **[[2406.13236] Data Contamination Can Cross Language Barriers](https://arxiv.org/pdf/2406.13236.pdf)**
-
 Updated on 2024-10-31
-
 *Feng Yao, Yufan Zhuang, Zihao Sun, Sunan Xu, Animesh Kumar, Jingbo Shang*
-
-
   The opacity in developing large language models (LLMs) is raising growing
 concerns about the potential contamination of public benchmarks in the
 pre-training data. Existing contamination detection methods are typically based
@@ -5329,18 +4221,12 @@ cross-lingual contamination in interpreting LLMs' working mechanisms and in
 post-training LLMs for enhanced multilingual capabilities. The code and dataset
 we use can be obtained from \url{https://github.com/ShangDataLab/Deep-Contam}.
 
-
-
 ---
 
 186. **[[2402.09299] Trained Without My Consent: Detecting Code Inclusion In Language Models
   Trained on Code](https://arxiv.org/pdf/2402.09299.pdf)**
-
 Updated on 2024-11-01
-
 *Vahid Majdinasab, Amin Nikanjam, Foutse Khomh*
-
-
   Code auditing ensures that the developed code adheres to standards,
 regulations, and copyright protection by verifying that it does not contain
 code from protected sources. The recent advent of Large Language Models (LLMs)
@@ -5365,17 +4251,11 @@ resource overhead in contrast to pair-wise clone detection that is conducted
 during the auditing process of tools like CodeWhisperer reference tracker,
 across thousands of code snippets.
 
-
-
 ---
 
 187. **[[2312.02052] DUCK: Distance-based Unlearning via Centroid Kinematics](https://arxiv.org/pdf/2312.02052.pdf)**
-
 Updated on 2024-05-07
-
 *Marco Cotogni, Jacopo Bonato, Luigi Sabetta, Francesco Pelosin, Alessandro Nicolosi*
-
-
   Machine Unlearning is rising as a new field, driven by the pressing necessity
 of ensuring privacy in modern artificial intelligence models. This technique
 primarily aims to eradicate any residual influence of a specific subset of data
@@ -5393,18 +4273,12 @@ we conducted a thorough investigation of the unlearning mechanism in DUCK,
 examining its impact on the organization of the feature space and employing
 explainable AI techniques for deeper insights.
 
-
-
 ---
 
 188. **[[2401.16603] LeftoverLocals: Listening to LLM Responses Through Leaked GPU Local
   Memory](https://arxiv.org/pdf/2401.16603.pdf)**
-
 Updated on 2024-01-31
-
 *Tyler Sorensen, Heidy Khlaaf*
-
-
   This paper describes LeftoverLocals: a vulnerability that allows data
 recovery from GPU memory created by another process on Apple, Qualcomm, and AMD
 GPUs. LeftoverLocals impacts the security posture of GPU applications, with
@@ -5413,18 +4287,12 @@ recovering local memory, an optimized GPU memory region, we built a PoC where
 an attacker can listen into another user's interactive LLM session (e.g.,
 llama.cpp) across process or container boundaries.
 
-
-
 ---
 
 189. **[[2503.13572] VeriContaminated: Assessing LLM-Driven Verilog Coding for Data
   Contamination](https://arxiv.org/pdf/2503.13572.pdf)**
-
 Updated on 2025-04-15
-
 *Zeng Wang, Minghao Shao, Jitendra Bhandari, Likhitha Mankali, Ramesh Karri, Ozgur Sinanoglu, Muhammad Shafique, Johann Knechtel*
-
-
   Large Language Models (LLMs) have revolutionized code generation, achieving
 exceptional results on various established benchmarking frameworks. However,
 concerns about data contamination - where benchmark data inadvertently leaks
@@ -5442,17 +4310,11 @@ critical concern. We explore mitigations and the resulting trade-offs for code
 quality vs fairness (i.e., reducing contamination toward unbiased
 benchmarking).
 
-
-
 ---
 
 190. **[[2406.13748] Learn and Unlearn in Multilingual LLMs](https://arxiv.org/pdf/2406.13748.pdf)**
-
 Updated on 2024-12-16
-
 *Taiming Lu, Philipp Koehn*
-
-
   This paper investigates the propagation of harmful information in
 multilingual large language models (LLMs) and evaluates the efficacy of various
 unlearning methods. We demonstrate that fake information, regardless of the
@@ -5468,18 +4330,12 @@ underscores the critical need for comprehensive unlearning strategies that
 consider the multilingual nature of modern LLMs to enhance their safety and
 reliability across diverse linguistic landscapes.
 
-
-
 ---
 
 191. **[[2502.11441] Which Retain Set Matters for LLM Unlearning? A Case Study on Entity
   Unlearning](https://arxiv.org/pdf/2502.11441.pdf)**
-
 Updated on 2025-02-18
-
 *Hwan Chang, Hwanhee Lee*
-
-
   Large language models (LLMs) risk retaining unauthorized or sensitive
 information from their training data, which raises privacy concerns. LLM
 unlearning seeks to mitigate these risks by selectively removing specified data
@@ -5497,18 +4353,12 @@ across other data subsets. Our results highlight that syntactic similarity is a
 critical factor, potentially more so than domain or entity relationships, in
 achieving effective and practical LLM unlearning.
 
-
-
 ---
 
 192. **[[2504.06658] A Neuro-inspired Interpretation of Unlearning in Large Language Models
   through Sample-level Unlearning Difficulty](https://arxiv.org/pdf/2504.06658.pdf)**
-
 Updated on 2025-04-10
-
 *Xiaohua Feng, Yuyuan Li, Chengye Wang, Junlin Liu, Li Zhang, Chaochao Chen*
-
-
   Driven by privacy protection laws and regulations, unlearning in Large
 Language Models (LLMs) is gaining increasing attention. However, current
 research often neglects the interpretability of the unlearning process,
@@ -5527,7 +4377,5 @@ algorithms, which prioritizes easily forgettable samples, thereby improving
 unlearning efficiency and effectiveness. We validate the proposed metric and
 method using public benchmarks and datasets, with results confirming its
 effectiveness.
-
-
 
 ---
