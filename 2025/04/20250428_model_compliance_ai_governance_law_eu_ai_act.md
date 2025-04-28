@@ -1,5 +1,5 @@
 **[1. [2408.08318] First Analysis of the EU Artifical Intelligence Act: Towards a Global
-  Standard for Trustworthy AI?](https://arxiv.org/pdf/2408.08318.pdf)** (Updated on 2024-08-19 00:00:00)
+  Standard for Trustworthy AI?](https://arxiv.org/pdf/2408.08318.pdf)** (2024-08-19)
 
 *UA, CDEP  Marion Ho-Dac*
 
@@ -15,7 +15,7 @@ its global appeal in support of trustworthy AI is one of its major challenges.
 
 ---
 
-**[2. [2307.10458] Complying with the EU AI Act](https://arxiv.org/pdf/2307.10458.pdf)** (Updated on 2023-07-21 00:00:00)
+**[2. [2307.10458] Complying with the EU AI Act](https://arxiv.org/pdf/2307.10458.pdf)** (2023-07-21)
 
 *Jacintha Walters, Diptish Dey, Debarati Bhaumik, Sophie Horsman*
 
@@ -35,7 +35,7 @@ related project that examines a solution to help these organizations.
 ---
 
 **[3. [2410.14501] Using sensitive data to de-bias AI systems: Article 10(5) of the EU AI
-  Act](https://arxiv.org/pdf/2410.14501.pdf)** (Updated on 2025-02-28 00:00:00)
+  Act](https://arxiv.org/pdf/2410.14501.pdf)** (2025-02-28)
 
 *Marvin van Bekkum*
 
@@ -55,7 +55,7 @@ AI systems.
 ---
 
 **[4. [2407.10369] A Robust Governance for the AI Act: AI Office, AI Board, Scientific
-  Panel, and National Authorities](https://arxiv.org/pdf/2407.10369.pdf)** (Updated on 2024-10-29 00:00:00)
+  Panel, and National Authorities](https://arxiv.org/pdf/2407.10369.pdf)** (2024-10-29)
 
 *Claudio Novelli, Philipp Hacker, Jessica Morley, Jarle Trondal, Luciano Floridi*
 
@@ -79,7 +79,7 @@ needed to enforce the AIA.
 ---
 
 **[5. [2107.14099] The ghost of AI governance past, present and future: AI governance in
-  the European Union](https://arxiv.org/pdf/2107.14099.pdf)** (Updated on 2021-07-30 00:00:00)
+  the European Union](https://arxiv.org/pdf/2107.14099.pdf)** (2021-07-30)
 
 *Charlotte Stix*
 
@@ -100,7 +100,7 @@ several considerations to achieve good AI governance in the EU.
 
 ---
 
-**[6. [2501.10391] Developing an Ontology for AI Act Fundamental Rights Impact Assessments](https://arxiv.org/pdf/2501.10391.pdf)** (Updated on 2025-01-22 00:00:00)
+**[6. [2501.10391] Developing an Ontology for AI Act Fundamental Rights Impact Assessments](https://arxiv.org/pdf/2501.10391.pdf)** (2025-01-22)
 
 *Tytti Rintamaki, Harshvardhan J. Pandit*
 
@@ -124,7 +124,7 @@ management of FRIA, and the use of automated tool in its various steps.
 
 ---
 
-**[7. [2411.08535] The EU AI Act is a good start but falls short](https://arxiv.org/pdf/2411.08535.pdf)** (Updated on 2025-04-18 00:00:00)
+**[7. [2411.08535] The EU AI Act is a good start but falls short](https://arxiv.org/pdf/2411.08535.pdf)** (2025-04-18)
 
 *Chalisa Veesommai Sillberg, Jose Siqueira De Cerqueira, Pekka Sillberg, Kai-Kristian Kemell, Pekka Abrahamsson*
 
@@ -148,7 +148,7 @@ requirements and minimize their distance from the EU market.
 ---
 
 **[8. [2407.08105] Federated Learning and AI Regulation in the European Union: Who is
-  Responsible? -- An Interdisciplinary Analysis](https://arxiv.org/pdf/2407.08105.pdf)** (Updated on 2024-07-15 00:00:00)
+  Responsible? -- An Interdisciplinary Analysis](https://arxiv.org/pdf/2407.08105.pdf)** (2024-07-15)
 
 *Herbert Woisetschläger, Simon Mertel, Christoph Krönke, Ruben Mayer, Hans-Arno Jacobsen*
 
@@ -168,7 +168,7 @@ EU AI Act.
 ---
 
 **[9. [2410.22120] Vision Paper: Designing Graph Neural Networks in Compliance with the
-  European Artificial Intelligence Act](https://arxiv.org/pdf/2410.22120.pdf)** (Updated on 2024-10-30 00:00:00)
+  European Artificial Intelligence Act](https://arxiv.org/pdf/2410.22120.pdf)** (2024-10-30)
 
 *Barbara Hoffmann, Jana Vatter, Ruben Mayer*
 
@@ -191,7 +191,7 @@ identifying open questions and future research directions.
 ---
 
 **[10. [2403.16808] Navigating the EU AI Act: A Methodological Approach to Compliance for
-  Safety-critical Products](https://arxiv.org/pdf/2403.16808.pdf)** (Updated on 2024-07-12 00:00:00)
+  Safety-critical Products](https://arxiv.org/pdf/2403.16808.pdf)** (2024-07-12)
 
 *J. Kelly, S. Zafar, L. Heidemann, J. Zacchi, D. Espinoza, N. Mata*
 
@@ -215,7 +215,7 @@ use case, where several stakeholders interact to achieve EU AI Act compliance.
 ---
 
 **[11. [2504.03300] How to Test for Compliance with Human Oversight Requirements in AI
-  Regulation?](https://arxiv.org/pdf/2504.03300.pdf)** (Updated on 2025-04-07 00:00:00)
+  Regulation?](https://arxiv.org/pdf/2504.03300.pdf)** (2025-04-07)
 
 *Markus Langer, Veronika Lazar, Kevin Baum*
 
@@ -233,7 +233,7 @@ future of sociotechnical AI governance.
 ---
 
 **[12. [2308.02033] AI and the EU Digital Markets Act: Addressing the Risks of Bigness in
-  Generative AI](https://arxiv.org/pdf/2308.02033.pdf)** (Updated on 2023-08-07 00:00:00)
+  Generative AI](https://arxiv.org/pdf/2308.02033.pdf)** (2023-08-07)
 
 *Ayse Gizem Yasar, Andrew Chong, Evan Dong, Thomas Krendl Gilbert, Sarah Hladikova, Roland Maio, Carlos Mougan, Xudong Shen, Shubham Singh, Ana-Andreea Stoica, Savannah Thais, Miri Zilka*
 
@@ -251,7 +251,7 @@ generative AI services.
 
 ---
 
-**[13. [2410.05306] Towards Assuring EU AI Act Compliance and Adversarial Robustness of LLMs](https://arxiv.org/pdf/2410.05306.pdf)** (Updated on 2024-10-10 00:00:00)
+**[13. [2410.05306] Towards Assuring EU AI Act Compliance and Adversarial Robustness of LLMs](https://arxiv.org/pdf/2410.05306.pdf)** (2024-10-10)
 
 *Tomas Bueno Momcilovic, Beat Buesser, Giulio Zizzo, Mark Purcell, Dian Balta*
 
@@ -268,7 +268,7 @@ to regulatory standards and are equipped to counter potential threats.
 
 ---
 
-**[14. [2302.07872] Data-Centric Governance](https://arxiv.org/pdf/2302.07872.pdf)** (Updated on 2023-02-17 00:00:00)
+**[14. [2302.07872] Data-Centric Governance](https://arxiv.org/pdf/2302.07872.pdf)** (2023-02-17)
 
 *Sean McGregor, Jesse Hostetler*
 
@@ -291,7 +291,7 @@ requirements.
 
 ---
 
-**[15. [2502.16184] Robustness and Cybersecurity in the EU Artificial Intelligence Act](https://arxiv.org/pdf/2502.16184.pdf)** (Updated on 2025-02-27 00:00:00)
+**[15. [2502.16184] Robustness and Cybersecurity in the EU Artificial Intelligence Act](https://arxiv.org/pdf/2502.16184.pdf)** (2025-02-27)
 
 *Henrik Nolte, Miriam Rateike, Michèle Finck*
 
@@ -314,7 +314,7 @@ better alignment between research and implementation efforts.
 ---
 
 **[16. [2206.07506] Legal Provocations for HCI in the Design and Development of Trustworthy
-  Autonomous Systems](https://arxiv.org/pdf/2206.07506.pdf)** (Updated on 2022-06-16 00:00:00)
+  Autonomous Systems](https://arxiv.org/pdf/2206.07506.pdf)** (2022-06-16)
 
 *Lachlan D. Urquhart, Glenn McGarry, Andy Crabtree*
 
@@ -336,7 +336,7 @@ enable compliance with regulation and foster societal trust in AI.
 
 ---
 
-**[17. [2501.04014] AICat: An AI Cataloguing Approach to Support the EU AI Act](https://arxiv.org/pdf/2501.04014.pdf)** (Updated on 2025-01-09 00:00:00)
+**[17. [2501.04014] AICat: An AI Cataloguing Approach to Support the EU AI Act](https://arxiv.org/pdf/2501.04014.pdf)** (2025-01-09)
 
 *Delaram Golpayegani, Harshvardhan J. Pandit, Dave Lewis*
 
@@ -359,7 +359,7 @@ CC-BY-4.0 license.
 ---
 
 **[18. [2410.09078] Knowledge-Augmented Reasoning for EUAIA Compliance and Adversarial
-  Robustness of LLMs](https://arxiv.org/pdf/2410.09078.pdf)** (Updated on 2024-10-15 00:00:00)
+  Robustness of LLMs](https://arxiv.org/pdf/2410.09078.pdf)** (2024-10-15)
 
 *Tomas Bueno Momcilovic, Dian Balta, Beat Buesser, Giulio Zizzo, Mark Purcell*
 
@@ -381,7 +381,7 @@ adversarially robust, which underpin trustworthiness.
 ---
 
 **[19. [2407.06234] The US Algorithmic Accountability Act of 2022 vs. The EU Artificial
-  Intelligence Act: What can they learn from each other?](https://arxiv.org/pdf/2407.06234.pdf)** (Updated on 2024-07-10 00:00:00)
+  Intelligence Act: What can they learn from each other?](https://arxiv.org/pdf/2407.06234.pdf)** (2024-07-10)
 
 *Jakob Mokander, Prathm Juneja, David Watson, Luciano Floridi*
 
@@ -394,7 +394,7 @@ Intelligence Act (EU AIA).
 
 ---
 
-**[20. [2409.07473] Ethical AI Governance: Methods for Evaluating Trustworthy AI](https://arxiv.org/pdf/2409.07473.pdf)** (Updated on 2024-09-13 00:00:00)
+**[20. [2409.07473] Ethical AI Governance: Methods for Evaluating Trustworthy AI](https://arxiv.org/pdf/2409.07473.pdf)** (2024-09-13)
 
 *Louise McCormack, Malika Bendechache*
 
@@ -408,7 +408,7 @@ contributing to understanding self-assessment methods in this field.
 
 ---
 
-**[21. [2011.10672] AI Governance for Businesses](https://arxiv.org/pdf/2011.10672.pdf)** (Updated on 2022-06-28 00:00:00)
+**[21. [2011.10672] AI Governance for Businesses](https://arxiv.org/pdf/2011.10672.pdf)** (2022-06-28)
 
 *Johannes Schneider, Rene Abraham, Christian Meske, Jan vom Brocke*
 
@@ -434,7 +434,7 @@ attention.
 ---
 
 **[22. [2402.14728] The European Commitment to Human-Centered Technology: The Integral Role
-  of HCI in the EU AI Act's Success](https://arxiv.org/pdf/2402.14728.pdf)** (Updated on 2024-06-14 00:00:00)
+  of HCI in the EU AI Act's Success](https://arxiv.org/pdf/2402.14728.pdf)** (2024-06-14)
 
 *André Calero Valdez, Moreen Heine, Thomas Franke, Nicole Jochems, Hans-Christian Jetter, Tim Schrills*
 
@@ -461,7 +461,7 @@ integral part of our society.
 ---
 
 **[23. [2502.03468] AI Governance in the Context of the EU AI Act: A Bibliometric and
-  Literature Review Approach](https://arxiv.org/pdf/2502.03468.pdf)** (Updated on 2025-02-07 00:00:00)
+  Literature Review Approach](https://arxiv.org/pdf/2502.03468.pdf)** (2025-02-07)
 
 *Byeong-Je Kim, Seunghoo Jeong, Bong-Kyung Cho, Ji-Bum Chung*
 
@@ -489,7 +489,7 @@ governance frameworks beyond the EU AI Act.
 
 ---
 
-**[24. [2411.08054] GREI Data Repository AI Taxonomy](https://arxiv.org/pdf/2411.08054.pdf)** (Updated on 2024-11-14 00:00:00)
+**[24. [2411.08054] GREI Data Repository AI Taxonomy](https://arxiv.org/pdf/2411.08054.pdf)** (2024-11-14)
 
 *California Digital Library  John Chodacki, figshare  Mark Hanhel, Dataverse  Stefano Iacus, Dryad  Ryan Scherle, Center for Open
   Science  Eric Olson, Center for Open Science  Nici Pfeiffer, Zenodo  Kristi Holmes, Zenodo  Mohammad Hosseini*
@@ -505,7 +505,7 @@ in repository workflows.
 ---
 
 **[25. [2208.12645] The Brussels Effect and Artificial Intelligence: How EU regulation will
-  impact the global AI market](https://arxiv.org/pdf/2208.12645.pdf)** (Updated on 2022-08-29 00:00:00)
+  impact the global AI market](https://arxiv.org/pdf/2208.12645.pdf)** (2022-08-29)
 
 *Charlotte Siegmann, Markus Anderljung*
 
@@ -531,7 +531,7 @@ diffusion, ensuring it is well-designed becomes a matter of global importance.
 ---
 
 **[26. [2408.11249] The Dilemma of Uncertainty Estimation for General Purpose AI in the EU
-  AI Act](https://arxiv.org/pdf/2408.11249.pdf)** (Updated on 2024-08-22 00:00:00)
+  AI Act](https://arxiv.org/pdf/2408.11249.pdf)** (2024-08-22)
 
 *Matias Valdenegro-Toro, Radina Stoykova*
 
@@ -553,7 +553,7 @@ burden.
 
 ---
 
-**[27. [2411.08363] On Algorithmic Fairness and the EU Regulations](https://arxiv.org/pdf/2411.08363.pdf)** (Updated on 2024-12-24 00:00:00)
+**[27. [2411.08363] On Algorithmic Fairness and the EU Regulations](https://arxiv.org/pdf/2411.08363.pdf)** (2024-12-24)
 
 *Jukka Ruohonen*
 
@@ -573,7 +573,7 @@ growing research domain of compliance in AI engineering.
 
 ---
 
-**[28. [2212.03109] Risk management in the Artificial Intelligence Act](https://arxiv.org/pdf/2212.03109.pdf)** (Updated on 2024-11-20 00:00:00)
+**[28. [2212.03109] Risk management in the Artificial Intelligence Act](https://arxiv.org/pdf/2212.03109.pdf)** (2024-11-20)
 
 *Jonas Schuett*
 
@@ -592,7 +592,7 @@ risk management.
 ---
 
 **[29. [2404.11476] Taxonomy to Regulation: A (Geo)Political Taxonomy for AI Risks and
-  Regulatory Measures in the EU AI Act](https://arxiv.org/pdf/2404.11476.pdf)** (Updated on 2024-04-18 00:00:00)
+  Regulatory Measures in the EU AI Act](https://arxiv.org/pdf/2404.11476.pdf)** (2024-04-18)
 
 *Sinan Arda*
 
@@ -615,7 +615,7 @@ regulation's obligations leave room for future action.
 ---
 
 **[30. [2403.07904] Addressing the regulatory gap: moving towards an EU AI audit ecosystem
-  beyond the AI Act by including civil society](https://arxiv.org/pdf/2403.07904.pdf)** (Updated on 2025-02-20 00:00:00)
+  beyond the AI Act by including civil society](https://arxiv.org/pdf/2403.07904.pdf)** (2025-02-20)
 
 *David Hartmann, José Renato Laranjeira de Pereira, Chiara Streitbörger, Bettina Berendt*
 
@@ -644,7 +644,7 @@ and oversight mechanisms.
 ---
 
 **[31. [2410.19749] Using AI Alignment Theory to understand the potential pitfalls of
-  regulatory frameworks](https://arxiv.org/pdf/2410.19749.pdf)** (Updated on 2024-10-29 00:00:00)
+  regulatory frameworks](https://arxiv.org/pdf/2410.19749.pdf)** (2024-10-29)
 
 *Alejandro Tlaie*
 
@@ -664,7 +664,7 @@ improvement in the regulation.
 ---
 
 **[32. [2407.11271] An Analysis of European Data and AI Regulations for Automotive
-  Organizations](https://arxiv.org/pdf/2407.11271.pdf)** (Updated on 2024-07-22 00:00:00)
+  Organizations](https://arxiv.org/pdf/2407.11271.pdf)** (2024-07-22)
 
 *Charlotte A. Shahlaei, Nicholas Berente*
 
@@ -690,7 +690,7 @@ industry.
 ---
 
 **[33. [2410.07959] COMPL-AI Framework: A Technical Interpretation and LLM Benchmarking
-  Suite for the EU Artificial Intelligence Act](https://arxiv.org/pdf/2410.07959.pdf)** (Updated on 2025-02-04 00:00:00)
+  Suite for the EU Artificial Intelligence Act](https://arxiv.org/pdf/2410.07959.pdf)** (2025-02-04)
 
 *Philipp Guldimann, Alexander Spiridonov, Robin Staab, Nikola Jovanović, Mark Vero, Velko Vechev, Anna-Maria Gueorguieva, Mislav Balunović, Nikola Konstantinov, Pavol Bielik, Petar Tsankov, Martin Vechev*
 
@@ -716,7 +716,7 @@ application of the Act, such as the drafting of the GPAI Code of Practice.
 
 ---
 
-**[34. [2308.02435] Designing Fiduciary Artificial Intelligence](https://arxiv.org/pdf/2308.02435.pdf)** (Updated on 2023-08-07 00:00:00)
+**[34. [2308.02435] Designing Fiduciary Artificial Intelligence](https://arxiv.org/pdf/2308.02435.pdf)** (2023-08-07)
 
 *Sebastian Benthall, David Shekman*
 
@@ -737,7 +737,7 @@ subject's consent when interacting with complex technical systems.
 
 ---
 
-**[35. [2211.10859] A Blockchain Protocol for Human-in-the-Loop AI](https://arxiv.org/pdf/2211.10859.pdf)** (Updated on 2022-11-22 00:00:00)
+**[35. [2211.10859] A Blockchain Protocol for Human-in-the-Loop AI](https://arxiv.org/pdf/2211.10859.pdf)** (2022-11-22)
 
 *Nassim Dehouche, Richard Blythman*
 
@@ -752,7 +752,7 @@ and integration in machine learning workflows.
 ---
 
 **[36. [2502.10036] Automation Bias in the AI Act: On the Legal Implications of Attempting
-  to De-Bias Human Oversight of AI](https://arxiv.org/pdf/2502.10036.pdf)** (Updated on 2025-02-17 00:00:00)
+  to De-Bias Human Oversight of AI](https://arxiv.org/pdf/2502.10036.pdf)** (2025-02-17)
 
 *Johann Laux, Hannah Ruschemeier*
 
@@ -775,7 +775,7 @@ effective safeguards.
 ---
 
 **[37. [2501.01738] Mapping Compliance: A Taxonomy for Political Content Analysis under the
-  EU's Digital Electoral Framework](https://arxiv.org/pdf/2501.01738.pdf)** (Updated on 2025-01-06 00:00:00)
+  EU's Digital Electoral Framework](https://arxiv.org/pdf/2501.01738.pdf)** (2025-01-06)
 
 *Marie-Therese Sekwenz, Rita Gsenger*
 
@@ -791,7 +791,7 @@ mandates.
 
 ---
 
-**[38. [2101.02039] A survey of the European Union's artificial intelligence ecosystem](https://arxiv.org/pdf/2101.02039.pdf)** (Updated on 2021-01-07 00:00:00)
+**[38. [2101.02039] A survey of the European Union's artificial intelligence ecosystem](https://arxiv.org/pdf/2101.02039.pdf)** (2021-01-07)
 
 *Charlotte Stix*
 
@@ -806,7 +806,7 @@ background context for answering these questions.
 ---
 
 **[39. [2503.05758] ADAPT Centre Contribution on Implementation of the EU AI Act and
-  Fundamental Right Protection](https://arxiv.org/pdf/2503.05758.pdf)** (Updated on 2025-03-11 00:00:00)
+  Fundamental Right Protection](https://arxiv.org/pdf/2503.05758.pdf)** (2025-03-11)
 
 *Dave Lewis, Marta Lasek-Markey, Harshvardhan J. Pandit, Delaram Golpayegani, Darren McCabe, Louise McCormack, Joshua Hovsha, Deirdre Ahern, Arthit Suriyawongku*
 
@@ -818,7 +818,7 @@ consultation on implementation of the EU AI Act.
 ---
 
 **[40. [2109.00838] An Automated Framework for Supporting Data-Governance Rule Compliance in
-  Decentralized MIMO Contexts](https://arxiv.org/pdf/2109.00838.pdf)** (Updated on 2021-09-03 00:00:00)
+  Decentralized MIMO Contexts](https://arxiv.org/pdf/2109.00838.pdf)** (2021-09-03)
 
 *Rui Zhao*
 
@@ -834,7 +834,7 @@ using provenance graphs from data-intensive research.
 
 ---
 
-**[41. [2110.07033] Compliance checking in reified IO logic via SHACL](https://arxiv.org/pdf/2110.07033.pdf)** (Updated on 2021-10-15 00:00:00)
+**[41. [2110.07033] Compliance checking in reified IO logic via SHACL](https://arxiv.org/pdf/2110.07033.pdf)** (2021-10-15)
 
 *Livio Robaldo, Kolawole J. Adebayo*
 
@@ -852,7 +852,7 @@ describing states of affairs with respect to these SHACL shapes.
 ---
 
 **[42. [2503.08725] The Algorithmic State Architecture (ASA): An Integrated Framework for
-  AI-Enabled Government](https://arxiv.org/pdf/2503.08725.pdf)** (Updated on 2025-03-14 00:00:00)
+  AI-Enabled Government](https://arxiv.org/pdf/2503.08725.pdf)** (2025-03-14)
 
 *Zeynep Engin, Jon Crowcroft, David Hand, Philip Treleaven*
 
@@ -880,7 +880,7 @@ AI-enabled government systems.
 ---
 
 **[43. [2408.17222] How Could Generative AI Support Compliance with the EU AI Act? A Review
-  for Safe Automated Driving Perception](https://arxiv.org/pdf/2408.17222.pdf)** (Updated on 2025-04-07 00:00:00)
+  for Safe Automated Driving Perception](https://arxiv.org/pdf/2408.17222.pdf)** (2025-04-07)
 
 *Mert Keser, Youssef Shoeb, Alois Knoll*
 
@@ -907,7 +907,7 @@ technologies.
 
 ---
 
-**[44. [2408.16074] Verification methods for international AI agreements](https://arxiv.org/pdf/2408.16074.pdf)** (Updated on 2024-11-06 00:00:00)
+**[44. [2408.16074] Verification methods for international AI agreements](https://arxiv.org/pdf/2408.16074.pdf)** (2024-11-06)
 
 *Akash R. Wasil, Tom Reed, Jack William Miller, Peter Barnett*
 
@@ -928,7 +928,7 @@ verification and enforcement of international AI governance agreements.
 
 ---
 
-**[45. [2107.03721] Demystifying the Draft EU Artificial Intelligence Act](https://arxiv.org/pdf/2107.03721.pdf)** (Updated on 2022-06-14 00:00:00)
+**[45. [2107.03721] Demystifying the Draft EU Artificial Intelligence Act](https://arxiv.org/pdf/2107.03721.pdf)** (2022-06-14)
 
 *Michael Veale, Frederik Zuiderveen Borgesius*
 
@@ -948,7 +948,7 @@ process.
 
 ---
 
-**[46. [1606.08514] Towards Verified Artificial Intelligence](https://arxiv.org/pdf/1606.08514.pdf)** (Updated on 2020-07-24 00:00:00)
+**[46. [1606.08514] Towards Verified Artificial Intelligence](https://arxiv.org/pdf/1606.08514.pdf)** (2020-07-24)
 
 *Sanjit A. Seshia, Dorsa Sadigh, S. Shankar Sastry*
 
@@ -961,7 +961,7 @@ Verified AI, and five corresponding principles for addressing these challenges.
 
 ---
 
-**[47. [2310.04072] AI Regulation in Europe: From the AI Act to Future Regulatory Challenges](https://arxiv.org/pdf/2310.04072.pdf)** (Updated on 2023-10-09 00:00:00)
+**[47. [2310.04072] AI Regulation in Europe: From the AI Act to Future Regulatory Challenges](https://arxiv.org/pdf/2310.04072.pdf)** (2023-10-09)
 
 *Philipp Hacker*
 
@@ -984,7 +984,7 @@ for the effective governance of rapidly evolving AI technologies.
 ---
 
 **[48. [2502.14868] Unlocking the Black Box: Analysing the EU Artificial Intelligence Act's
-  Framework for Explainability in AI](https://arxiv.org/pdf/2502.14868.pdf)** (Updated on 2025-02-24 00:00:00)
+  Framework for Explainability in AI](https://arxiv.org/pdf/2502.14868.pdf)** (2025-02-24)
 
 *Georgios Pavlidis*
 
@@ -1005,7 +1005,7 @@ emphasising the issues of standard setting, oversight, and enforcement.
 ---
 
 **[49. [2405.04528] Implementing ISO/IEC TS 27560:2023 Consent Records and Receipts for GDPR
-  and DGA](https://arxiv.org/pdf/2405.04528.pdf)** (Updated on 2024-05-08 00:00:00)
+  and DGA](https://arxiv.org/pdf/2405.04528.pdf)** (2024-05-08)
 
 *Harshvardhan J. Pandit, Jan Lindquist, Georg P. Krog*
 
@@ -1025,7 +1025,7 @@ Data Governance Act (DGA), specifically for machine-readable consent forms.
 ---
 
 **[50. [2308.15514] International Governance of Civilian AI: A Jurisdictional Certification
-  Approach](https://arxiv.org/pdf/2308.15514.pdf)** (Updated on 2023-09-12 00:00:00)
+  Approach](https://arxiv.org/pdf/2308.15514.pdf)** (2023-09-12)
 
 *Robert Trager, Ben Harack, Anka Reuel, Allison Carnegie, Lennart Heim, Lewis Ho, Sarah Kreps, Ranjit Lall, Owen Larter, Seán Ó hÉigeartaigh, Simon Staffell, José Jaime Villalobos*
 
@@ -1051,7 +1051,7 @@ safety.
 
 ---
 
-**[51. [2408.01449] AI Act for the Working Programmer](https://arxiv.org/pdf/2408.01449.pdf)** (Updated on 2024-08-06 00:00:00)
+**[51. [2408.01449] AI Act for the Working Programmer](https://arxiv.org/pdf/2408.01449.pdf)** (2024-08-06)
 
 *Holger Hermanns, Anne Lauber-Rönsberg, Philip Meinel, Sarah Sterz, Hanwei Zhang*
 
@@ -1069,7 +1069,7 @@ Act.
 
 ---
 
-**[52. [2503.05787] Mapping the Regulatory Learning Space for the EU AI Act](https://arxiv.org/pdf/2503.05787.pdf)** (Updated on 2025-03-11 00:00:00)
+**[52. [2503.05787] Mapping the Regulatory Learning Space for the EU AI Act](https://arxiv.org/pdf/2503.05787.pdf)** (2025-03-11)
 
 *Dave Lewis, Marta Lasek-Markey, Delaram Golpayegani, Harshvardhan J. Pandit*
 
@@ -1103,7 +1103,7 @@ assessment and treatment.
 ---
 
 **[53. [2412.12108] Responsible AI Governance: A Response to UN Interim Report on Governing
-  AI for Humanity](https://arxiv.org/pdf/2412.12108.pdf)** (Updated on 2025-01-03 00:00:00)
+  AI for Humanity](https://arxiv.org/pdf/2412.12108.pdf)** (2025-01-03)
 
 *Sarah Kiden, Bernd Stahl, Beverley Townsend, Carsten Maple, Charles Vincent, Fraser Sampson, Geoff Gilbert, Helen Smith, Jayati Deshmukh, Jen Ross, Jennifer Williams, Jesus Martinez del Rincon, Justyna Lisinska, Karen O'Shea, Márjory Da Costa Abreu, Nelly Bencomo, Oishi Deb, Peter Winter, Phoebe Li, Philip Torr, Pin Lean Lau, Raquel Iniesta, Gopal Ramchurn, Sebastian Stein, Vahid Yazdanpanah*
 
@@ -1129,7 +1129,7 @@ universal human values and the public good.
 ---
 
 **[54. [2403.20089] Implications of the AI Act for Non-Discrimination Law and Algorithmic
-  Fairness](https://arxiv.org/pdf/2403.20089.pdf)** (Updated on 2024-06-27 00:00:00)
+  Fairness](https://arxiv.org/pdf/2403.20089.pdf)** (2024-06-27)
 
 *Luca Deck, Jan-Laurin Müller, Conradin Braun, Domenique Zipperling, Niklas Kühl*
 
@@ -1151,7 +1151,7 @@ technical requirements.
 ---
 
 **[55. [2406.14724] An Exploratory Mixed-Methods Study on General Data Protection Regulation
-  (GDPR) Compliance in Open-Source Software](https://arxiv.org/pdf/2406.14724.pdf)** (Updated on 2024-06-24 00:00:00)
+  (GDPR) Compliance in Open-Source Software](https://arxiv.org/pdf/2406.14724.pdf)** (2024-06-24)
 
 *Lucas Franke, Huayu Liang, Sahar Farzanehpour, Aaron Brantly, James C. Davis, Chris Brown*
 
@@ -1187,7 +1187,7 @@ in open-source software.
 
 ---
 
-**[56. [2501.14756] Towards An Automated AI Act FRIA Tool That Can Reuse GDPR's DPIA](https://arxiv.org/pdf/2501.14756.pdf)** (Updated on 2025-01-28 00:00:00)
+**[56. [2501.14756] Towards An Automated AI Act FRIA Tool That Can Reuse GDPR's DPIA](https://arxiv.org/pdf/2501.14756.pdf)** (2025-01-28)
 
 *Tytti Rintamaki, Harshvardhan J. Pandit*
 
@@ -1207,7 +1207,7 @@ through an automated tool as required by the AI Act.
 ---
 
 **[57. [2203.00469] Compliance Challenges in Forensic Image Analysis Under the Artificial
-  Intelligence Act](https://arxiv.org/pdf/2203.00469.pdf)** (Updated on 2022-03-02 00:00:00)
+  Intelligence Act](https://arxiv.org/pdf/2203.00469.pdf)** (2022-03-02)
 
 *Benedikt Lorch, Nicole Scheler, Christian Riess*
 
@@ -1231,7 +1231,7 @@ requirements and to point out avenues for future research.
 ---
 
 **[58. [2306.08959] Statutory Professions in AI governance and their consequences for
-  explainable AI](https://arxiv.org/pdf/2306.08959.pdf)** (Updated on 2023-06-16 00:00:00)
+  explainable AI](https://arxiv.org/pdf/2306.08959.pdf)** (2023-06-16)
 
 *Labhaoise NiFhaolain, Andrew Hines, Vivek Nallur*
 
@@ -1264,7 +1264,7 @@ obligations.
 
 ---
 
-**[59. [2203.14122] A Runtime Environment for Contract Automata](https://arxiv.org/pdf/2203.14122.pdf)** (Updated on 2023-03-16 00:00:00)
+**[59. [2203.14122] A Runtime Environment for Contract Automata](https://arxiv.org/pdf/2203.14122.pdf)** (2023-03-16)
 
 *Davide Basile, Maurice H. ter Beek*
 
@@ -1282,7 +1282,7 @@ of adopting CARE with respect to manual implementations.
 ---
 
 **[60. [2410.17281] A Comprehensive Survey and Classification of Evaluation Criteria for
-  Trustworthy Artificial Intelligence](https://arxiv.org/pdf/2410.17281.pdf)** (Updated on 2024-10-24 00:00:00)
+  Trustworthy Artificial Intelligence](https://arxiv.org/pdf/2410.17281.pdf)** (2024-10-24)
 
 *Louise McCormack, Malika Bendechache*
 
@@ -1298,7 +1298,7 @@ selection and standardization of evaluation criteria for TAI governance.
 
 ---
 
-**[61. [2402.18326] When Should Algorithms Resign? A Proposal for AI Governance](https://arxiv.org/pdf/2402.18326.pdf)** (Updated on 2024-07-18 00:00:00)
+**[61. [2402.18326] When Should Algorithms Resign? A Proposal for AI Governance](https://arxiv.org/pdf/2402.18326.pdf)** (2024-07-18)
 
 *Umang Bhatt, Holli Sargeant*
 
@@ -1314,7 +1314,7 @@ human oversight.
 
 ---
 
-**[62. [2308.16364] Strengthening the EU AI Act: Defining Key Terms on AI Manipulation](https://arxiv.org/pdf/2308.16364.pdf)** (Updated on 2023-09-01 00:00:00)
+**[62. [2308.16364] Strengthening the EU AI Act: Defining Key Terms on AI Manipulation](https://arxiv.org/pdf/2308.16364.pdf)** (2023-09-01)
 
 *Matija Franklin, Philip Moreira Tomei, Rebecca Gorman*
 
@@ -1338,7 +1338,7 @@ to regulate harmful AI manipulation.
 
 ---
 
-**[63. [2105.15133] An Assessment of the AI Regulation Proposed by the European Commission](https://arxiv.org/pdf/2105.15133.pdf)** (Updated on 2021-06-01 00:00:00)
+**[63. [2105.15133] An Assessment of the AI Regulation Proposed by the European Commission](https://arxiv.org/pdf/2105.15133.pdf)** (2021-06-01)
 
 *Patrick Glauner*
 
@@ -1357,7 +1357,7 @@ of the German federal parliament and the French National Assembly.
 
 ---
 
-**[64. [2407.01557] AI Governance and Accountability: An Analysis of Anthropic's Claude](https://arxiv.org/pdf/2407.01557.pdf)** (Updated on 2024-07-03 00:00:00)
+**[64. [2407.01557] AI Governance and Accountability: An Analysis of Anthropic's Claude](https://arxiv.org/pdf/2407.01557.pdf)** (2024-07-03)
 
 *Aman Priyanshu, Yash Maurya, Zuofei Hong*
 
@@ -1375,7 +1375,7 @@ considerations surrounding AI accountability.
 
 ---
 
-**[65. [2007.05479] Impact of Legal Requirements on Explainability in Machine Learning](https://arxiv.org/pdf/2007.05479.pdf)** (Updated on 2020-07-13 00:00:00)
+**[65. [2007.05479] Impact of Legal Requirements on Explainability in Machine Learning](https://arxiv.org/pdf/2007.05479.pdf)** (2020-07-13)
 
 *Adrien Bibal, Michael Lognoul, Alexandre de Streel, Benoît Frénay*
 
@@ -1388,7 +1388,7 @@ techniques.
 
 ---
 
-**[66. [2304.02924] The Governance of Physical Artificial Intelligence](https://arxiv.org/pdf/2304.02924.pdf)** (Updated on 2023-04-07 00:00:00)
+**[66. [2304.02924] The Governance of Physical Artificial Intelligence](https://arxiv.org/pdf/2304.02924.pdf)** (2023-04-07)
 
 *Yingbo Li, Anamaria-Beatrice Spulber, Yucong Duan*
 
@@ -1401,7 +1401,7 @@ the society.
 ---
 
 **[67. [2409.15828] Mitigating Digital Discrimination in Dating Apps -- The Dutch Breeze
-  case](https://arxiv.org/pdf/2409.15828.pdf)** (Updated on 2024-09-25 00:00:00)
+  case](https://arxiv.org/pdf/2409.15828.pdf)** (2024-09-25)
 
 *Tim de Jonge, Frederik Zuiderveen Borgesius*
 
@@ -1422,7 +1422,7 @@ field of fair and non-discriminatory machine learning.
 ---
 
 **[68. [2408.04689] Design of a Quality Management System based on the EU Artificial
-  Intelligence Act](https://arxiv.org/pdf/2408.04689.pdf)** (Updated on 2024-11-13 00:00:00)
+  Intelligence Act](https://arxiv.org/pdf/2408.04689.pdf)** (2024-11-13)
 
 *Henryk Mustroph, Stefanie Rinderle-Ma*
 
@@ -1449,7 +1449,7 @@ and performance analysis, and an evaluation with IT, AI, and legal experts.
 ---
 
 **[69. [2401.07348] Generative AI in EU Law: Liability, Privacy, Intellectual Property, and
-  Cybersecurity](https://arxiv.org/pdf/2401.07348.pdf)** (Updated on 2024-03-18 00:00:00)
+  Cybersecurity](https://arxiv.org/pdf/2401.07348.pdf)** (2024-03-18)
 
 *Claudio Novelli, Federico Casolari, Philipp Hacker, Giorgio Spedicato, Luciano Floridi*
 
@@ -1473,7 +1473,7 @@ and legal standards.
 ---
 
 **[70. [2311.10748] An international treaty to implement a global compute cap for advanced
-  artificial intelligence](https://arxiv.org/pdf/2311.10748.pdf)** (Updated on 2023-11-21 00:00:00)
+  artificial intelligence](https://arxiv.org/pdf/2311.10748.pdf)** (2023-11-21)
 
 *Andrea Miotti, Akash Wasil*
 
@@ -1492,7 +1492,7 @@ dangers of advanced artificial intelligence.
 ---
 
 **[71. [2404.00600] AI Act and Large Language Models (LLMs): When critical issues and
-  privacy impact require human and ethical oversight](https://arxiv.org/pdf/2404.00600.pdf)** (Updated on 2024-04-03 00:00:00)
+  privacy impact require human and ethical oversight](https://arxiv.org/pdf/2404.00600.pdf)** (2024-04-03)
 
 *Nicola Fabiano*
 
@@ -1507,7 +1507,7 @@ oversight, and privacy impact assessment.
 ---
 
 **[72. [2205.06666] The Case for a Legal Compliance API for the Enforcement of the EU's
-  Digital Services Act on Social Media Platforms](https://arxiv.org/pdf/2205.06666.pdf)** (Updated on 2022-05-16 00:00:00)
+  Digital Services Act on Social Media Platforms](https://arxiv.org/pdf/2205.06666.pdf)** (2022-05-16)
 
 *Catalina Goanta, Thales Bertaglia, Adriana Iamnitchi*
 
@@ -1533,7 +1533,7 @@ labour and consumer law.
 ---
 
 **[73. [2501.10371] What we learned while automating bias detection in AI hiring systems for
-  compliance with NYC Local Law 144](https://arxiv.org/pdf/2501.10371.pdf)** (Updated on 2025-01-22 00:00:00)
+  compliance with NYC Local Law 144](https://arxiv.org/pdf/2501.10371.pdf)** (2025-01-22)
 
 *Gemma Galdon Clavell, Rubén González-Sendino*
 
@@ -1557,7 +1557,7 @@ metrics, and data reliability.
 
 ---
 
-**[74. [2503.05571] Compliance of AI Systems](https://arxiv.org/pdf/2503.05571.pdf)** (Updated on 2025-03-10 00:00:00)
+**[74. [2503.05571] Compliance of AI Systems](https://arxiv.org/pdf/2503.05571.pdf)** (2025-03-10)
 
 *Julius Schöning, Niklas Kruse*
 
@@ -1582,7 +1582,7 @@ deployment of embedded AI systems.
 ---
 
 **[75. [2501.12962] It's complicated. The relationship of algorithmic fairness and
-  non-discrimination regulations in the EU AI Act](https://arxiv.org/pdf/2501.12962.pdf)** (Updated on 2025-03-17 00:00:00)
+  non-discrimination regulations in the EU AI Act](https://arxiv.org/pdf/2501.12962.pdf)** (2025-03-17)
 
 *Kristof Meding*
 
@@ -1611,7 +1611,7 @@ learning researchers studying discrimination in AI systems.
 
 ---
 
-**[76. [2503.15682] Transfeminist AI Governance](https://arxiv.org/pdf/2503.15682.pdf)** (Updated on 2025-03-21 00:00:00)
+**[76. [2503.15682] Transfeminist AI Governance](https://arxiv.org/pdf/2503.15682.pdf)** (2025-03-21)
 
 *Blair Attard-Frost*
 
@@ -1637,7 +1637,7 @@ practitioners, and organizers in addressing those limitations.
 
 ---
 
-**[77. [2401.10896] Responsible AI Governance: A Systematic Literature Review](https://arxiv.org/pdf/2401.10896.pdf)** (Updated on 2024-01-23 00:00:00)
+**[77. [2401.10896] Responsible AI Governance: A Systematic Literature Review](https://arxiv.org/pdf/2401.10896.pdf)** (2024-01-23)
 
 *Amna Batool, Didar Zowghi, Muneera Bano*
 
@@ -1667,7 +1667,7 @@ principles.
 
 ---
 
-**[78. [2411.13808] GPAI Evaluations Standards Taskforce: Towards Effective AI Governance](https://arxiv.org/pdf/2411.13808.pdf)** (Updated on 2024-11-22 00:00:00)
+**[78. [2411.13808] GPAI Evaluations Standards Taskforce: Towards Effective AI Governance](https://arxiv.org/pdf/2411.13808.pdf)** (2024-11-22)
 
 *Patricia Paskov, Lukas Berglund, Everett Smith, Lisa Soder*
 
@@ -1692,7 +1692,7 @@ potential sources of failure that policymakers should heed.
 ---
 
 **[79. [2503.17730] Aportes para el cumplimiento del Reglamento (UE) 2024/1689 en rob\'otica
-  y sistemas aut\'onomos](https://arxiv.org/pdf/2503.17730.pdf)** (Updated on 2025-03-25 00:00:00)
+  y sistemas aut\'onomos](https://arxiv.org/pdf/2503.17730.pdf)** (2025-03-25)
 
 *Francisco J. Rodríguez Lera, Yoana Pita Lorenzo, David Sobrín Hidalgo, Laura Fernández Becerra, Irene González Fernández, Jose Miguel Guerrero Hernández*
 
@@ -1715,7 +1715,7 @@ compliance with the regulation and reduce risks in human-robot interaction
 ---
 
 **[80. [2408.11925] An Open Knowledge Graph-Based Approach for Mapping Concepts and
-  Requirements between the EU AI Act and International Standards](https://arxiv.org/pdf/2408.11925.pdf)** (Updated on 2024-08-23 00:00:00)
+  Requirements between the EU AI Act and International Standards](https://arxiv.org/pdf/2408.11925.pdf)** (2024-08-23)
 
 *Julio Hernandez, Delaram Golpayegani, Dave Lewis*
 
@@ -1744,7 +1744,7 @@ trustworthy AI value chains is required to achieve regulatory compliance.
 
 ---
 
-**[81. [2311.11776] Responsible AI Research Needs Impact Statements Too](https://arxiv.org/pdf/2311.11776.pdf)** (Updated on 2023-11-21 00:00:00)
+**[81. [2311.11776] Responsible AI Research Needs Impact Statements Too](https://arxiv.org/pdf/2311.11776.pdf)** (2023-11-21)
 
 *Alexandra Olteanu, Michael Ekstrand, Carlos Castillo, Jina Suh*
 
@@ -1755,7 +1755,7 @@ ethical AI, or ethics in AI is no exception.
 
 ---
 
-**[82. [2205.12259] Policy Compliance Detection via Expression Tree Inference](https://arxiv.org/pdf/2205.12259.pdf)** (Updated on 2022-05-25 00:00:00)
+**[82. [2205.12259] Policy Compliance Detection via Expression Tree Inference](https://arxiv.org/pdf/2205.12259.pdf)** (2022-05-25)
 
 *Neema Kotonya, Andreas Vlachos, Majid Yazdani, Lambert Mathias, Marzieh Saeidi*
 
@@ -1782,7 +1782,7 @@ evaluation shows that 88% of trees generated by our model are correct.
 ---
 
 **[83. [2111.05071] Conformity Assessments and Post-market Monitoring: A Guide to the Role
-  of Auditing in the Proposed European AI Regulation](https://arxiv.org/pdf/2111.05071.pdf)** (Updated on 2021-11-10 00:00:00)
+  of Auditing in the Proposed European AI Regulation](https://arxiv.org/pdf/2111.05071.pdf)** (2021-11-10)
 
 *Jakob Mokander, Maria Axente, Federico Casolari, Luciano Floridi*
 
@@ -1811,7 +1811,7 @@ conformity assessments based on internal checks.
 
 ---
 
-**[84. [2406.10218] Semantic Membership Inference Attack against Large Language Models](https://arxiv.org/pdf/2406.10218.pdf)** (Updated on 2024-06-17 00:00:00)
+**[84. [2406.10218] Semantic Membership Inference Attack against Large Language Models](https://arxiv.org/pdf/2406.10218.pdf)** (2024-06-17)
 
 *Hamid Mozaffari, Virendra J. Marathe*
 
@@ -1830,7 +1830,7 @@ compared to 58.90% by the second-best attack.
 
 ---
 
-**[85. [2501.17755] AI Governance through Markets](https://arxiv.org/pdf/2501.17755.pdf)** (Updated on 2025-03-06 00:00:00)
+**[85. [2501.17755] AI Governance through Markets](https://arxiv.org/pdf/2501.17755.pdf)** (2025-03-06)
 
 *Philip Moreira Tomei, Rupal Jain, Matija Franklin*
 
@@ -1852,7 +1852,7 @@ governance.
 
 ---
 
-**[86. [2306.01788] Responsible Design Patterns for Machine Learning Pipelines](https://arxiv.org/pdf/2306.01788.pdf)** (Updated on 2023-06-09 00:00:00)
+**[86. [2306.01788] Responsible Design Patterns for Machine Learning Pipelines](https://arxiv.org/pdf/2306.01788.pdf)** (2023-06-09)
 
 *Saud Hakem Al Harbi, Lionel Nganyewou Tidjon, Foutse Khomh*
 
@@ -1874,7 +1874,7 @@ responsible AI systems in production.
 
 ---
 
-**[87. [2311.13871] Legal Requirements Analysis](https://arxiv.org/pdf/2311.13871.pdf)** (Updated on 2024-02-20 00:00:00)
+**[87. [2311.13871] Legal Requirements Analysis](https://arxiv.org/pdf/2311.13871.pdf)** (2024-02-20)
 
 *Sallam Abualhaija, Marcello Ceci, Lionel Briand*
 
@@ -1903,7 +1903,7 @@ the current challenges of legal requirements analysis.
 ---
 
 **[88. [2404.12762] How should AI decisions be explained? Requirements for Explanations from
-  the Perspective of European Law](https://arxiv.org/pdf/2404.12762.pdf)** (Updated on 2024-11-27 00:00:00)
+  the Perspective of European Law](https://arxiv.org/pdf/2404.12762.pdf)** (2024-11-27)
 
 *Benjamin Fresz, Elena Dubovitskaya, Danilo Brajovic, Marco Huber, Christian Horz*
 
@@ -1926,7 +1926,7 @@ Society https://doi.org/10.1609/aies.v7i1.31648 .
 ---
 
 **[89. [2504.08508] An Early Experience with Confidential Computing Architecture for
-  On-Device Model Protection](https://arxiv.org/pdf/2504.08508.pdf)** (Updated on 2025-04-14 00:00:00)
+  On-Device Model Protection](https://arxiv.org/pdf/2504.08508.pdf)** (2025-04-14)
 
 *Sina Abdollahi, Mohammad Maheri, Sandra Siby, Marios Kogias, Hamed Haddadi*
 
@@ -1950,7 +1950,7 @@ available.
 
 ---
 
-**[90. [2008.00877] Towards a Semantic Model of the GDPR Register of Processing Activities](https://arxiv.org/pdf/2008.00877.pdf)** (Updated on 2020-08-04 00:00:00)
+**[90. [2008.00877] Towards a Semantic Model of the GDPR Register of Processing Activities](https://arxiv.org/pdf/2008.00877.pdf)** (2020-08-04)
 
 *Paul Ryan, Harshvardhan J. Pandit, Rob Brennan*
 
@@ -1969,7 +1969,7 @@ for GDPR compliance.
 
 ---
 
-**[91. [2412.18670] Interplay of ISMS and AIMS in context of the EU AI Act](https://arxiv.org/pdf/2412.18670.pdf)** (Updated on 2024-12-30 00:00:00)
+**[91. [2412.18670] Interplay of ISMS and AIMS in context of the EU AI Act](https://arxiv.org/pdf/2412.18670.pdf)** (2024-12-30)
 
 *Jordan Pötsch*
 
@@ -1997,7 +1997,7 @@ German AI landscape.
 ---
 
 **[92. [2409.02017] AI Governance in Higher Education: Case Studies of Guidance at Big Ten
-  Universities](https://arxiv.org/pdf/2409.02017.pdf)** (Updated on 2024-09-04 00:00:00)
+  Universities](https://arxiv.org/pdf/2409.02017.pdf)** (2024-09-04)
 
 *Chuhao Wu, He Zhang, John M. Carroll*
 
@@ -2020,7 +2020,7 @@ practical implications for guiding responsible AI usage in HEIs and beyond.
 ---
 
 **[93. [2403.02231] CODE-ACCORD: A Corpus of building regulatory data for rule generation
-  towards automatic compliance checking](https://arxiv.org/pdf/2403.02231.pdf)** (Updated on 2025-02-19 00:00:00)
+  towards automatic compliance checking](https://arxiv.org/pdf/2403.02231.pdf)** (2025-02-19)
 
 *Hansi Hettiarachchi, Amna Dridi, Mohamed Medhat Gaber, Pouyan Parsafard, Nicoleta Bocaneala, Katja Breitenfelder, Gonçal Costa, Maria Hedblom, Mihaela Juganaru-Mathieu, Thamer Mecharnia, Sumee Park, He Tan, Abdel-Rahman H. Tawil, Edlira Vakaj*
 
@@ -2046,7 +2046,7 @@ models, to ACC.
 ---
 
 **[94. [2408.11820] Responsible AI Question Bank: A Comprehensive Tool for AI Risk
-  Assessment](https://arxiv.org/pdf/2408.11820.pdf)** (Updated on 2025-01-23 00:00:00)
+  Assessment](https://arxiv.org/pdf/2408.11820.pdf)** (2025-01-23)
 
 *Sung Une Lee, Harsha Perera, Yue Liu, Boming Xia, Qinghua Lu, Liming Zhu, Olivier Salvado, Jon Whittle*
 
@@ -2073,7 +2073,7 @@ deployment while ensuring comprehensive risk management.
 ---
 
 **[95. [2412.07782] Trustworthy artificial intelligence in the energy sector: Landscape
-  analysis and evaluation framework](https://arxiv.org/pdf/2412.07782.pdf)** (Updated on 2024-12-12 00:00:00)
+  analysis and evaluation framework](https://arxiv.org/pdf/2412.07782.pdf)** (2024-12-12)
 
 *Sotiris Pelekis, Evangelos Karakolis, George Lampropoulos, Spiros Mouzakitis, Ourania Markaki, Christos Ntanos, Dimitris Askounis*
 
@@ -2097,7 +2097,7 @@ processes.
 
 ---
 
-**[96. [2403.03883] SaulLM-7B: A pioneering Large Language Model for Law](https://arxiv.org/pdf/2403.03883.pdf)** (Updated on 2024-03-08 00:00:00)
+**[96. [2403.03883] SaulLM-7B: A pioneering Large Language Model for Law](https://arxiv.org/pdf/2403.03883.pdf)** (2024-03-08)
 
 *Pierre Colombo, Telmo Pessoa Pires, Malik Boudiaf, Dominic Culver, Rui Melo, Caio Corro, Andre F. T. Martins, Fabrizio Esposito, Vera Lúcia Raposo, Sofia Morgado, Michael Desa*
 
@@ -2115,7 +2115,7 @@ released under the MIT License.
 ---
 
 **[97. [2408.02386] Responsibility and Regulation: Exploring Social Measures of Trust in
-  Medical AI](https://arxiv.org/pdf/2408.02386.pdf)** (Updated on 2024-08-06 00:00:00)
+  Medical AI](https://arxiv.org/pdf/2408.02386.pdf)** (2024-08-06)
 
 *Glenn McGarry, Andy Crabtree, Lachlan Urquhart, Alan Chamberlain*
 
@@ -2134,7 +2134,7 @@ responsibility in novel AI deployment.
 
 ---
 
-**[98. [2207.00804] An AIoT-enabled Autonomous Dementia Monitoring System](https://arxiv.org/pdf/2207.00804.pdf)** (Updated on 2022-07-05 00:00:00)
+**[98. [2207.00804] An AIoT-enabled Autonomous Dementia Monitoring System](https://arxiv.org/pdf/2207.00804.pdf)** (2022-07-05)
 
 *Xingyu Wu, Jinyang Li*
 
@@ -2157,7 +2157,7 @@ accurate and evident future trends prediction.
 
 ---
 
-**[99. [2309.14876] APPRAISE: a governance framework for innovation with AI systems](https://arxiv.org/pdf/2309.14876.pdf)** (Updated on 2023-12-14 00:00:00)
+**[99. [2309.14876] APPRAISE: a governance framework for innovation with AI systems](https://arxiv.org/pdf/2309.14876.pdf)** (2023-12-14)
 
 *Diptish Dey, Debarati Bhaumik*
 
@@ -2183,7 +2183,7 @@ secondary research are eventually combined to propose the APPRAISE framework.
 ---
 
 **[100. [2411.15149] The Fundamental Rights Impact Assessment (FRIA) in the AI Act: Roots,
-  legal obligations and key elements for a model template](https://arxiv.org/pdf/2411.15149.pdf)** (Updated on 2024-11-26 00:00:00)
+  legal obligations and key elements for a model template](https://arxiv.org/pdf/2411.15149.pdf)** (2024-11-26)
 
 *Alessandro Mantelero*
 
@@ -2209,7 +2209,7 @@ is fully consistent with human rights.
 ---
 
 **[101. [2406.10121] Data Ethics in the Era of Healthcare Artificial Intelligence in Africa:
-  An Ubuntu Philosophy Perspective](https://arxiv.org/pdf/2406.10121.pdf)** (Updated on 2024-06-17 00:00:00)
+  An Ubuntu Philosophy Perspective](https://arxiv.org/pdf/2406.10121.pdf)** (2024-06-17)
 
 *Abdoul Jalil Djiberou Mahamadou, Aloysius Ochasi, Russ B. Altman*
 
@@ -2232,7 +2232,7 @@ policy-makers about healthcare data ethical usage in AI in Africa.
 ---
 
 **[102. [2402.01717] From RAG to QA-RAG: Integrating Generative AI for Pharmaceutical
-  Regulatory Compliance Process](https://arxiv.org/pdf/2402.01717.pdf)** (Updated on 2024-02-07 00:00:00)
+  Regulatory Compliance Process](https://arxiv.org/pdf/2402.01717.pdf)** (2024-02-07)
 
 *Sungkyunkwan University  Jaewoong Kim, Sungkyunkwan
   University  Moohong Min*
@@ -2256,7 +2256,7 @@ available for further research and development.
 ---
 
 **[103. [2409.09046] HyPA-RAG: A Hybrid Parameter Adaptive Retrieval-Augmented Generation
-  System for AI Legal and Policy Applications](https://arxiv.org/pdf/2409.09046.pdf)** (Updated on 2025-02-26 00:00:00)
+  System for AI Legal and Policy Applications](https://arxiv.org/pdf/2409.09046.pdf)** (2025-02-26)
 
 *Rishi Kalra, Zekun Wu, Ayesha Gulley, Airlie Hilliard, Xin Guan, Adriano Koshiyama, Philip Treleaven*
 
@@ -2277,7 +2277,7 @@ adaptable solution for high-stakes legal and policy applications.
 
 ---
 
-**[104. [2307.03198] A multilevel framework for AI governance](https://arxiv.org/pdf/2307.03198.pdf)** (Updated on 2023-07-14 00:00:00)
+**[104. [2307.03198] A multilevel framework for AI governance](https://arxiv.org/pdf/2307.03198.pdf)** (2023-07-14)
 
 *Hyesun Choung, Prabu David, John S. Seberger*
 
@@ -2296,7 +2296,7 @@ further enhance user experiences and inform public policy related to AI.
 
 ---
 
-**[105. [2501.19112] Logical Modalities within the European AI Act: An Analysis](https://arxiv.org/pdf/2501.19112.pdf)** (Updated on 2025-02-03 00:00:00)
+**[105. [2501.19112] Logical Modalities within the European AI Act: An Analysis](https://arxiv.org/pdf/2501.19112.pdf)** (2025-02-03)
 
 *Lara Lawniczak, Christoph Benzmüller*
 
@@ -2318,7 +2318,7 @@ way to more robust reasoning capabilities.
 ---
 
 **[106. [2310.00828] A Model for Calculating Cost of Applying Electronic Governance and
-  Robotic Process Automation to a Distributed Management System](https://arxiv.org/pdf/2310.00828.pdf)** (Updated on 2023-10-03 00:00:00)
+  Robotic Process Automation to a Distributed Management System](https://arxiv.org/pdf/2310.00828.pdf)** (2023-10-03)
 
 *Bonny Banerjee, Saurabh Pahune*
 
@@ -2336,7 +2336,7 @@ unprecedented advancements in electronic and automation technologies.
 ---
 
 **[107. [2301.08741] Enactive Artificial Intelligence: Subverting Gender Norms in Robot-Human
-  Interaction](https://arxiv.org/pdf/2301.08741.pdf)** (Updated on 2023-05-09 00:00:00)
+  Interaction](https://arxiv.org/pdf/2301.08741.pdf)** (2023-05-09)
 
 *Ines Hipolito, Katie Winkle, Merete Lie*
 
@@ -2356,7 +2356,7 @@ gender-inclusive AI and subverting existing gender norms in robot design.
 ---
 
 **[108. [2504.00652] Towards Adaptive AI Governance: Comparative Insights from the U.S., EU,
-  and Asia](https://arxiv.org/pdf/2504.00652.pdf)** (Updated on 2025-04-02 00:00:00)
+  and Asia](https://arxiv.org/pdf/2504.00652.pdf)** (2025-04-02)
 
 *Vikram Kulothungan, Deepti Gupta*
 
@@ -2384,7 +2384,7 @@ between technological progress, ethical imperatives, and regulatory coherence.
 ---
 
 **[109. [2504.05951] Representing Normative Regulations in OWL DL for Automated Compliance
-  Checking Supported by Text Annotation](https://arxiv.org/pdf/2504.05951.pdf)** (Updated on 2025-04-09 00:00:00)
+  Checking Supported by Text Annotation](https://arxiv.org/pdf/2504.05951.pdf)** (2025-04-09)
 
 *Ildar Baimuratov, Denis Turygin*
 
@@ -2403,7 +2403,7 @@ applied to examples from the building construction domain.
 ---
 
 **[110. [2104.04147] Artificial intelligence, human rights, democracy, and the rule of law: a
-  primer](https://arxiv.org/pdf/2104.04147.pdf)** (Updated on 2021-04-12 00:00:00)
+  primer](https://arxiv.org/pdf/2104.04147.pdf)** (2021-04-12)
 
 *David Leslie, Christopher Burr, Mhairi Aitken, Josh Cowls, Michael Katell, Morgan Briggs*
 
@@ -2434,7 +2434,7 @@ the Feasibility Study.
 ---
 
 **[111. [2205.15279] The openESEA Modelling Language for Ethical, Social and Environmental
-  Accounting: Technical Report](https://arxiv.org/pdf/2205.15279.pdf)** (Updated on 2024-10-21 00:00:00)
+  Accounting: Technical Report](https://arxiv.org/pdf/2205.15279.pdf)** (2024-10-21)
 
 *Sergio España, Vijanti Ramautar*
 
@@ -2451,7 +2451,7 @@ each grammar primitive.
 ---
 
 **[112. [2109.03283] Have a break from making decisions, have a MARS: The Multi-valued Action
-  Reasoning System](https://arxiv.org/pdf/2109.03283.pdf)** (Updated on 2023-02-08 00:00:00)
+  Reasoning System](https://arxiv.org/pdf/2109.03283.pdf)** (2023-02-08)
 
 *Cosmin Badea*
 
@@ -2469,7 +2469,7 @@ the existing literature.
 
 ---
 
-**[113. [2405.01560] Copyright related risks in the creation and use of ML/AI systems](https://arxiv.org/pdf/2405.01560.pdf)** (Updated on 2024-05-06 00:00:00)
+**[113. [2405.01560] Copyright related risks in the creation and use of ML/AI systems](https://arxiv.org/pdf/2405.01560.pdf)** (2024-05-06)
 
 *Daniel M. German*
 
@@ -2485,7 +2485,7 @@ these risks.
 ---
 
 **[114. [2407.21060] Using Large Language Models for the Interpretation of Building
-  Regulations](https://arxiv.org/pdf/2407.21060.pdf)** (Updated on 2024-08-01 00:00:00)
+  Regulations](https://arxiv.org/pdf/2407.21060.pdf)** (2024-08-01)
 
 *Stefan Fuchs, Michael Witbrock, Johannes Dimyadi, Robert Amor*
 
@@ -2516,7 +2516,7 @@ leading to more efficient and effective checking processes.
 
 ---
 
-**[115. [2210.08984] AI Governance and Ethics Framework for Sustainable AI and Sustainability](https://arxiv.org/pdf/2210.08984.pdf)** (Updated on 2022-10-18 00:00:00)
+**[115. [2210.08984] AI Governance and Ethics Framework for Sustainable AI and Sustainability](https://arxiv.org/pdf/2210.08984.pdf)** (2022-10-18)
 
 *Mahendra Samarawickrama*
 
@@ -2541,7 +2541,7 @@ priority. These AI ethics and governance should be underpinned by human ethics.
 ---
 
 **[116. [2503.14527] Threefold model for AI Readiness: A Case Study with Finnish Healthcare
-  SMEs](https://arxiv.org/pdf/2503.14527.pdf)** (Updated on 2025-03-20 00:00:00)
+  SMEs](https://arxiv.org/pdf/2503.14527.pdf)** (2025-03-20)
 
 *Mohammed Alnajjar, Khalid Alnajjar, Mika Hämäläinen*
 
@@ -2561,7 +2561,7 @@ organizations, policymakers, and researchers.
 
 **[117. [2212.03601] Artificial Intelligence in Governance, Risk and Compliance: Results of a
   study on potentials for the application of artificial intelligence (AI) in
-  governance, risk and compliance (GRC)](https://arxiv.org/pdf/2212.03601.pdf)** (Updated on 2024-05-18 00:00:00)
+  governance, risk and compliance (GRC)](https://arxiv.org/pdf/2212.03601.pdf)** (2024-05-18)
 
 *Eva Ponick, Gabriele Wieczorek*
 
@@ -2590,7 +2590,7 @@ artificial intelligence in GRC.
 ---
 
 **[118. [2202.02776] Human rights, democracy, and the rule of law assurance framework for AI
-  systems: A proposal](https://arxiv.org/pdf/2202.02776.pdf)** (Updated on 2022-02-08 00:00:00)
+  systems: A proposal](https://arxiv.org/pdf/2202.02776.pdf)** (2022-02-08)
 
 *David Leslie, Christopher Burr, Mhairi Aitken, Michael Katell, Morgan Briggs, Cami Rincon*
 
@@ -2625,7 +2625,7 @@ democratic governance.
 ---
 
 **[119. [2503.04766] Global AI Governance: Where the Challenge is the Solution- An
-  Interdisciplinary, Multilateral, and Vertically Coordinated Approach](https://arxiv.org/pdf/2503.04766.pdf)** (Updated on 2025-03-10 00:00:00)
+  Interdisciplinary, Multilateral, and Vertically Coordinated Approach](https://arxiv.org/pdf/2503.04766.pdf)** (2025-03-10)
 
 *Huixin Zhong, Thao Do, Ynagliu Jie, Rostam J. Neuwirth, Hong Shen*
 
@@ -2652,7 +2652,7 @@ actions.
 ---
 
 **[120. [2302.10766] Bridging the Transparency Gap: What Can Explainable AI Learn From the AI
-  Act?](https://arxiv.org/pdf/2302.10766.pdf)** (Updated on 2023-12-22 00:00:00)
+  Act?](https://arxiv.org/pdf/2302.10766.pdf)** (2023-12-22)
 
 *Balint Gyevnar, Nick Ferguson, Burkhard Schafer*
 
@@ -2678,7 +2678,7 @@ issues with conformity assessment, and building explainability for datasets.
 ---
 
 **[121. [2404.02894] Automated Transparency: A Legal and Empirical Analysis of the Digital
-  Services Act Transparency Database](https://arxiv.org/pdf/2404.02894.pdf)** (Updated on 2024-05-06 00:00:00)
+  Services Act Transparency Database](https://arxiv.org/pdf/2404.02894.pdf)** (2024-05-06)
 
 *Rishabh Kaushal, Jacob van de Kerkhof, Catalina Goanta, Gerasimos Spanakis, Adriana Iamnitchi*
 
@@ -2705,7 +2705,7 @@ characterise and evaluate platform content moderation practices.
 ---
 
 **[122. [2405.19970] Strategies to Counter Artificial Intelligence in Law Enforcement:
-  Cross-Country Comparison of Citizens in Greece, Italy and Spain](https://arxiv.org/pdf/2405.19970.pdf)** (Updated on 2024-05-31 00:00:00)
+  Cross-Country Comparison of Citizens in Greece, Italy and Spain](https://arxiv.org/pdf/2405.19970.pdf)** (2024-05-31)
 
 *Petra Saskia Bayerl, Babak Akhgar, Ernesto La Mattina, Barbara Pirillo, Ioana Cotoi, Davide Ariu, Matteo Mauri, Jorge Garcia, Dimitris Kavallieros, Antonia Kardara, Konstantina Karagiorgou*
 
@@ -2722,7 +2722,7 @@ confronted with AI capabilities for LEAs.
 ---
 
 **[123. [2008.09507] Authorized and Unauthorized Practices of Law: The Role of Autonomous
-  Levels of AI Legal Reasoning](https://arxiv.org/pdf/2008.09507.pdf)** (Updated on 2020-08-24 00:00:00)
+  Levels of AI Legal Reasoning](https://arxiv.org/pdf/2008.09507.pdf)** (2020-08-24)
 
 *Lance Eliot*
 
@@ -2745,7 +2745,7 @@ crucial practice-of-law debates.
 ---
 
 **[124. [2308.09979] Artificial Intelligence across Europe: A Study on Awareness, Attitude
-  and Trust](https://arxiv.org/pdf/2308.09979.pdf)** (Updated on 2023-08-22 00:00:00)
+  and Trust](https://arxiv.org/pdf/2308.09979.pdf)** (2023-08-22)
 
 *Teresa Scantamburlo, Atia Cortés, Francesca Foffano, Cristian Barrué, Veronica Distefano, Long Pham, Alessandro Fabris*
 
@@ -2773,7 +2773,7 @@ future work.
 ---
 
 **[125. [2209.04963] Responsible AI Pattern Catalogue: A Collection of Best Practices for AI
-  Governance and Engineering](https://arxiv.org/pdf/2209.04963.pdf)** (Updated on 2023-09-29 00:00:00)
+  Governance and Engineering](https://arxiv.org/pdf/2209.04963.pdf)** (2023-09-29)
 
 *Qinghua Lu, Liming Zhu, Xiwei Xu, Jon Whittle, Didar Zowghi, Aurelie Jacquet*
 
@@ -2800,7 +2800,7 @@ stakeholders to implement responsible AI.
 
 ---
 
-**[126. [2309.12336] The E.U.'s Artificial Intelligence Act: An Ordoliberal Assessment](https://arxiv.org/pdf/2309.12336.pdf)** (Updated on 2023-09-25 00:00:00)
+**[126. [2309.12336] The E.U.'s Artificial Intelligence Act: An Ordoliberal Assessment](https://arxiv.org/pdf/2309.12336.pdf)** (2023-09-25)
 
 *Manuel Woersdoerfer*
 
@@ -2819,7 +2819,7 @@ AIA.
 ---
 
 **[127. [2410.17278] Automated decision-making and artificial intelligence at European
-  borders and their risks for human rights](https://arxiv.org/pdf/2410.17278.pdf)** (Updated on 2024-10-24 00:00:00)
+  borders and their risks for human rights](https://arxiv.org/pdf/2410.17278.pdf)** (2024-10-24)
 
 *Yiran Yang, Frederik Zuiderveen Borgesius, Pascal Beckers, Evelien Brouwer*
 
@@ -2844,7 +2844,7 @@ science, and migration studies.
 ---
 
 **[128. [2503.18994] HH4AI: A methodological Framework for AI Human Rights impact assessment
-  under the EUAI ACT](https://arxiv.org/pdf/2503.18994.pdf)** (Updated on 2025-03-26 00:00:00)
+  under the EUAI ACT](https://arxiv.org/pdf/2503.18994.pdf)** (2025-03-26)
 
 *Paolo Ceravolo, Ernesto Damiani, Maria Elisa D'Amico, Bianca de Teffe Erb, Simone Favaro, Nannerel Fiano, Paolo Gambatesa, Simone La Porta, Samira Maghool, Lara Mauri, Niccolo Panigada, Lorenzo Maria Ratto Vaquer, Marta A. Tamborini*
 
@@ -2875,7 +2875,7 @@ enhances regulatory compliance.
 ---
 
 **[129. [2403.08501] Governing Through the Cloud: The Intermediary Role of Compute Providers
-  in AI Regulation](https://arxiv.org/pdf/2403.08501.pdf)** (Updated on 2024-03-27 00:00:00)
+  in AI Regulation](https://arxiv.org/pdf/2403.08501.pdf)** (2024-03-27)
 
 *Lennart Heim, Tim Fist, Janet Egan, Sihao Huang, Stephen Zekany, Robert Trager, Michael A Osborne, Noa Zilberman*
 
@@ -2908,7 +2908,7 @@ compute providers in AI regulation expands.
 ---
 
 **[130. [2408.15121] Aligning XAI with EU Regulations for Smart Biomedical Devices: A
-  Methodology for Compliance Analysis](https://arxiv.org/pdf/2408.15121.pdf)** (Updated on 2024-10-21 00:00:00)
+  Methodology for Compliance Analysis](https://arxiv.org/pdf/2408.15121.pdf)** (2024-10-21)
 
 *Francesco Sovrano, Michael Lognoul, Giulia Vilone*
 
@@ -2940,7 +2940,7 @@ and ethical standards.
 ---
 
 **[131. [2501.08046] Building Symbiotic AI: Reviewing the AI Act for a Human-Centred,
-  Principle-Based Framework](https://arxiv.org/pdf/2501.08046.pdf)** (Updated on 2025-02-14 00:00:00)
+  Principle-Based Framework](https://arxiv.org/pdf/2501.08046.pdf)** (2025-02-14)
 
 *Miriana Calvano, Antonio Curci, Giuseppe Desolda, Andrea Esposito, Rosa Lanzilotti, Antonio Piccinno*
 
@@ -2967,7 +2967,7 @@ SAI systems that comply with the AI Act.
 ---
 
 **[132. [2409.14603] Brain Surgery: Ensuring GDPR Compliance in Large Language Models via
-  Concept Erasure](https://arxiv.org/pdf/2409.14603.pdf)** (Updated on 2024-09-24 00:00:00)
+  Concept Erasure](https://arxiv.org/pdf/2409.14603.pdf)** (2024-09-24)
 
 *Michele Laurelli*
 
@@ -2986,7 +2986,7 @@ their own privacy limits, creating a new paradigm in AI ethics and governance.
 ---
 
 **[133. [2503.04259] Qualitative In-Depth Analysis of GDPR Data Subject Access Requests and
-  Responses from Major Online Services](https://arxiv.org/pdf/2503.04259.pdf)** (Updated on 2025-03-07 00:00:00)
+  Responses from Major Online Services](https://arxiv.org/pdf/2503.04259.pdf)** (2025-03-07)
 
 *Daniela Pöhn, Nils Gruschka*
 
@@ -3009,7 +3009,7 @@ completely.
 
 ---
 
-**[134. [2407.14981] Open Problems in Technical AI Governance](https://arxiv.org/pdf/2407.14981.pdf)** (Updated on 2025-04-17 00:00:00)
+**[134. [2407.14981] Open Problems in Technical AI Governance](https://arxiv.org/pdf/2407.14981.pdf)** (2025-04-17)
 
 *Anka Reuel, Ben Bucknall, Stephen Casper, Tim Fist, Lisa Soder, Onni Aarne, Lewis Hammond, Lujain Ibrahim, Alan Chan, Peter Wills, Markus Anderljung, Ben Garfinkel, Lennart Heim, Andrew Trask, Gabriel Mukobi, Rylan Schaeffer, Mauricio Baker, Sara Hooker, Irene Solaiman, Alexandra Sasha Luccioni, Nitarshan Rajkumar, Nicolas Moës, Jeffrey Ladish, David Bau, Paul Bricman, Neel Guha, Jessica Newman, Yoshua Bengio, Tobin South, Alex Pentland, Sanmi Koyejo, Mykel J. Kochenderfer, Robert Trager*
 
@@ -3030,7 +3030,7 @@ to AI governance.
 ---
 
 **[135. [2105.06083] Cross-Domain Contract Element Extraction with a Bi-directional Feedback
-  Clause-Element Relation Network](https://arxiv.org/pdf/2105.06083.pdf)** (Updated on 2021-05-14 00:00:00)
+  Clause-Element Relation Network](https://arxiv.org/pdf/2105.06083.pdf)** (2021-05-14)
 
 *Zihan Wang, Hongye Song, Zhaochun Ren, Pengjie Ren, Zhumin Chen, Xiaozhong Liu, Hongsong Li, Maarten de Rijke*
 
@@ -3062,7 +3062,7 @@ Bi-FLEET significantly outperforms state-of-the-art baselines.
 ---
 
 **[136. [2403.00148] Implications of Regulations on the Use of AI and Generative AI for
-  Human-Centered Responsible Artificial Intelligence](https://arxiv.org/pdf/2403.00148.pdf)** (Updated on 2024-03-04 00:00:00)
+  Human-Centered Responsible Artificial Intelligence](https://arxiv.org/pdf/2403.00148.pdf)** (2024-03-04)
 
 *Marios Constantinides, Mohammad Tahaei, Daniele Quercia, Simone Stumpf, Michael Madaio, Sean Kennedy, Lauren Wilcox, Jessica Vitak, Henriette Cramer, Edyta Bogucka, Ricardo Baeza-Yates, Ewa Luger, Jess Holbrook, Michael Muller, Ilana Golbin Blumenfeld, Giada Pistilli*
 
@@ -3082,7 +3082,7 @@ beneficial and sustainable for all of humanity.
 
 ---
 
-**[137. [2412.17114] Decentralized Governance of Autonomous AI Agents](https://arxiv.org/pdf/2412.17114.pdf)** (Updated on 2025-01-14 00:00:00)
+**[137. [2412.17114] Decentralized Governance of Autonomous AI Agents](https://arxiv.org/pdf/2412.17114.pdf)** (2025-01-14)
 
 *Tomer Jordi Chaffer, II Charles von Goins, Bayo Okusanya, Dontrail Cotlage, Justin Goldston*
 
@@ -3111,7 +3111,7 @@ future.
 ---
 
 **[138. [2410.09004] DA-Ada: Learning Domain-Aware Adapter for Domain Adaptive Object
-  Detection](https://arxiv.org/pdf/2410.09004.pdf)** (Updated on 2024-10-14 00:00:00)
+  Detection](https://arxiv.org/pdf/2410.09004.pdf)** (2024-10-14)
 
 *Haochen Li, Rui Zhang, Hantao Yao, Xin Zhang, Yifan Hao, Xinkai Song, Xiaqing Li, Yongwei Zhao, Ling Li, Yunji Chen*
 
@@ -3136,7 +3136,7 @@ https://github.com/Therock90421/DA-Ada.
 
 ---
 
-**[139. [2109.11960] Towards a Governance Framework for Brain Data](https://arxiv.org/pdf/2109.11960.pdf)** (Updated on 2021-09-29 00:00:00)
+**[139. [2109.11960] Towards a Governance Framework for Brain Data](https://arxiv.org/pdf/2109.11960.pdf)** (2021-09-29)
 
 *Marcello Ienca, Joseph J. Fins, Ralf J. Jox, Fabrice Jotterand, Silja Voeneky, Roberto Andorno, Tonio Ball, Claude Castelluccia, Ricardo Chavarriaga, Hervé Chneiweiss, Agata Ferretti, Orsolya Friedrich, Samia Hurst, Grischa Merkel, Fruzsina Molnar-Gabor, Jean-Marc Rickli, James Scheibner, Effy Vayena, Rafael Yuste, Philipp Kellmeyer*
 
@@ -3155,7 +3155,7 @@ and human rights.
 ---
 
 **[140. [2103.09051] Exploring the Assessment List for Trustworthy AI in the Context of
-  Advanced Driver-Assistance Systems](https://arxiv.org/pdf/2103.09051.pdf)** (Updated on 2021-03-17 00:00:00)
+  Advanced Driver-Assistance Systems](https://arxiv.org/pdf/2103.09051.pdf)** (2021-03-17)
 
 *Markus Borg, Joshua Bronson, Linus Christensson, Fredrik Olsson, Olof Lennartsson, Elias Sonnsjö, Hamid Ebabi, Martin Karsberg*
 
@@ -3179,7 +3179,7 @@ variants, domain-specific adaptations, and removed redundancy.
 ---
 
 **[141. [2503.14539] Ethical Implications of AI in Data Collection: Balancing Innovation with
-  Privacy](https://arxiv.org/pdf/2503.14539.pdf)** (Updated on 2025-03-20 00:00:00)
+  Privacy](https://arxiv.org/pdf/2503.14539.pdf)** (2025-03-20)
 
 *Shahmar Mirishli*
 
@@ -3204,7 +3204,7 @@ rights and societal values.
 ---
 
 **[142. [2312.00051] MIA-BAD: An Approach for Enhancing Membership Inference Attack and its
-  Mitigation with Federated Learning](https://arxiv.org/pdf/2312.00051.pdf)** (Updated on 2023-12-04 00:00:00)
+  Mitigation with Federated Learning](https://arxiv.org/pdf/2312.00051.pdf)** (2023-12-04)
 
 *Soumya Banerjee, Sandip Roy, Sayyed Farid Ahamed, Devin Quinn, Marc Vucovich, Dhruv Nandakumar, Kevin Choi, Abdul Rahman, Edward Bowen, Sachin Shetty*
 
@@ -3229,7 +3229,7 @@ datasets, variable numbers of federated clients, and training batch sizes.
 ---
 
 **[143. [2503.05737] Local Differences, Global Lessons: Insights from Organisation Policies
-  for International Legislation](https://arxiv.org/pdf/2503.05737.pdf)** (Updated on 2025-03-11 00:00:00)
+  for International Legislation](https://arxiv.org/pdf/2503.05737.pdf)** (2025-03-11)
 
 *Lucie-Aimée Kaffee, Pepa Atanasova, Anna Rogers*
 
@@ -3253,7 +3253,7 @@ practices and international regulations.
 
 ---
 
-**[144. [2412.19494] Retrieval-augmented Generation for GenAI-enabled Semantic Communications](https://arxiv.org/pdf/2412.19494.pdf)** (Updated on 2024-12-30 00:00:00)
+**[144. [2412.19494] Retrieval-augmented Generation for GenAI-enabled Semantic Communications](https://arxiv.org/pdf/2412.19494.pdf)** (2024-12-30)
 
 *Shunpu Tang, Ruichen Zhang, Yuxuan Yan, Qianqian Yang, Dusit Niyato, Xianbin Wang, Shiwen Mao*
 
@@ -3278,7 +3278,7 @@ directions for advancing RAG-enabled GenSemCom systems.
 ---
 
 **[145. [2404.17522] Enhancing Legal Compliance and Regulation Analysis with Large Language
-  Models](https://arxiv.org/pdf/2404.17522.pdf)** (Updated on 2024-04-29 00:00:00)
+  Models](https://arxiv.org/pdf/2404.17522.pdf)** (2024-04-29)
 
 *Shabnam Hassani*
 
@@ -3299,7 +3299,7 @@ improving accuracy within reasonable time and financial constraints.
 ---
 
 **[146. [2410.00608] Measurement challenges in AI catastrophic risk governance and safety
-  frameworks](https://arxiv.org/pdf/2410.00608.pdf)** (Updated on 2024-10-02 00:00:00)
+  frameworks](https://arxiv.org/pdf/2410.00608.pdf)** (2024-10-02)
 
 *Atoosa Kasirzadeh*
 
@@ -3312,7 +3312,7 @@ propose three policy recommendations to improve their validity and reliability.
 
 ---
 
-**[147. [2102.00980] A Common Semantic Model of the GDPR Register of Processing Activities](https://arxiv.org/pdf/2102.00980.pdf)** (Updated on 2021-02-02 00:00:00)
+**[147. [2102.00980] A Common Semantic Model of the GDPR Register of Processing Activities](https://arxiv.org/pdf/2102.00980.pdf)** (2021-02-02)
 
 *Paul Ryan, Harshvardhan J. Pandit, Rob Brennan*
 
@@ -3329,7 +3329,7 @@ CSM-ROPA to an extension of the Data Privacy Vocabulary.
 
 ---
 
-**[148. [2206.00113] BRExIt: On Opponent Modelling in Expert Iteration](https://arxiv.org/pdf/2206.00113.pdf)** (Updated on 2023-04-26 00:00:00)
+**[148. [2206.00113] BRExIt: On Opponent Modelling in Expert Iteration](https://arxiv.org/pdf/2206.00113.pdf)** (2023-04-26)
 
 *Daniel Hernandez, Hendrik Baier, Michael Kaisers*
 
@@ -3351,7 +3351,7 @@ learns better performing policies than ExIt.
 ---
 
 **[149. [2409.07476] Responsible AI for Test Equity and Quality: The Duolingo English Test as
-  a Case Study](https://arxiv.org/pdf/2409.07476.pdf)** (Updated on 2024-09-13 00:00:00)
+  a Case Study](https://arxiv.org/pdf/2409.07476.pdf)** (2024-09-13)
 
 *Jill Burstein, Geoffrey T. LaFlair, Kevin Yancey, Alina A. von Davier, Ravit Dotan*
 
@@ -3373,7 +3373,7 @@ equity and quality.
 
 ---
 
-**[150. [2502.15720] Training AI to be Loyal](https://arxiv.org/pdf/2502.15720.pdf)** (Updated on 2025-02-25 00:00:00)
+**[150. [2502.15720] Training AI to be Loyal](https://arxiv.org/pdf/2502.15720.pdf)** (2025-02-25)
 
 *Sewoong Oh, Himanshu Tyagi, Pramod Viswanath*
 
@@ -3394,7 +3394,7 @@ http://github.com/sentient-agi/oml-1.0-fingerprinting .
 
 ---
 
-**[151. [2307.04699] International Institutions for Advanced AI](https://arxiv.org/pdf/2307.04699.pdf)** (Updated on 2023-07-12 00:00:00)
+**[151. [2307.04699] International Institutions for Advanced AI](https://arxiv.org/pdf/2307.04699.pdf)** (2023-07-12)
 
 *Lewis Ho, Joslyn Barnhart, Robert Trager, Yoshua Bengio, Miles Brundage, Allison Carnegie, Rumman Chowdhury, Allan Dafoe, Gillian Hadfield, Margaret Levi, Duncan Snidal*
 
@@ -3424,7 +3424,7 @@ questions about their viability.
 ---
 
 **[152. [2503.07384] Is My Text in Your AI Model? Gradient-based Membership Inference Test
-  applied to LLMs](https://arxiv.org/pdf/2503.07384.pdf)** (Updated on 2025-03-14 00:00:00)
+  applied to LLMs](https://arxiv.org/pdf/2503.07384.pdf)** (2025-03-14)
 
 *Gonzalo Mancera, Daniel DeAlcala, Julian Fierrez, Ruben Tolosana, Aythami Morales*
 
@@ -3446,7 +3446,7 @@ and fostering ethical compliance in the deployment of AI/NLP technologies.
 
 ---
 
-**[153. [2406.14243] AuditMAI: Towards An Infrastructure for Continuous AI Auditing](https://arxiv.org/pdf/2406.14243.pdf)** (Updated on 2024-06-21 00:00:00)
+**[153. [2406.14243] AuditMAI: Towards An Infrastructure for Continuous AI Auditing](https://arxiv.org/pdf/2406.14243.pdf)** (2024-06-21)
 
 *Laura Waltersdorfer, Fajar J. Ekaputra, Tomasz Miksa, Marta Sabou*
 
@@ -3470,7 +3470,7 @@ AI auditability infrastructure.
 ---
 
 **[154. [2012.12718] Compliance Generation for Privacy Documents under GDPR: A Roadmap for
-  Implementing Automation and Machine Learning](https://arxiv.org/pdf/2012.12718.pdf)** (Updated on 2020-12-24 00:00:00)
+  Implementing Automation and Machine Learning](https://arxiv.org/pdf/2012.12718.pdf)** (2020-12-24)
 
 *David Restrepo Amariles, Aurore Clément Troussel, Rajaa El Hamdani*
 
@@ -3492,7 +3492,7 @@ in the Privatech project.
 ---
 
 **[155. [2412.17848] Overview of the 2024 ALTA Shared Task: Detect Automatic AI-Generated
-  Sentences for Human-AI Hybrid Articles](https://arxiv.org/pdf/2412.17848.pdf)** (Updated on 2024-12-25 00:00:00)
+  Sentences for Human-AI Hybrid Articles](https://arxiv.org/pdf/2412.17848.pdf)** (2024-12-25)
 
 *Diego Mollá, Qiongkai Xu, Zijie Zeng, Zhuang Li*
 
@@ -3505,7 +3505,7 @@ and the results of the systems participating in the shared task.
 
 ---
 
-**[156. [2412.14684] Bel Esprit: Multi-Agent Framework for Building AI Model Pipelines](https://arxiv.org/pdf/2412.14684.pdf)** (Updated on 2024-12-20 00:00:00)
+**[156. [2412.14684] Bel Esprit: Multi-Agent Framework for Building AI Model Pipelines](https://arxiv.org/pdf/2412.14684.pdf)** (2024-12-20)
 
 *Yunsu Kim, AhmedElmogtaba Abdelaziz, Thiago Castro Ferreira, Mohamed Al-Badrashiny, Hassan Sawaf*
 
@@ -3526,7 +3526,7 @@ at https://belesprit.aixplain.com.
 
 **[157. [2402.15770] From COBIT to ISO 42001: Evaluating Cybersecurity Frameworks for
   Opportunities, Risks, and Regulatory Compliance in Commercializing Large
-  Language Models](https://arxiv.org/pdf/2402.15770.pdf)** (Updated on 2024-06-25 00:00:00)
+  Language Models](https://arxiv.org/pdf/2402.15770.pdf)** (2024-06-25)
 
 *Timothy R. McIntosh, Teo Susnjak, Tong Liu, Paul Watters, Raza Nowrozy, Malka N. Halgamuge*
 
@@ -3554,7 +3554,7 @@ frameworks to support the secure integration of LLMs.
 ---
 
 **[158. [2503.05747] Balancing Innovation and Integrity: AI Integration in Liberal Arts
-  College Administration](https://arxiv.org/pdf/2503.05747.pdf)** (Updated on 2025-03-11 00:00:00)
+  College Administration](https://arxiv.org/pdf/2503.05747.pdf)** (2025-03-11)
 
 *Ian Olivo Read*
 
@@ -3571,7 +3571,7 @@ integration, balancing innovation with institutional values.
 
 ---
 
-**[159. [2112.11232] Human Activity Recognition (HAR) in Smart Homes](https://arxiv.org/pdf/2112.11232.pdf)** (Updated on 2021-12-22 00:00:00)
+**[159. [2112.11232] Human Activity Recognition (HAR) in Smart Homes](https://arxiv.org/pdf/2112.11232.pdf)** (2021-12-22)
 
 *IMT Atlantique - INFO, Lab-STICC  Damien Bouchabou, IMT Atlantique - INFO, Lab-STICC  Christophe Lohr, Ioannis Kanellos, Sao Mai Nguyen*
 
@@ -3586,7 +3586,7 @@ their residents, especially for elderly and dependent people.
 ---
 
 **[160. [2309.17158] Compromise in Multilateral Negotiations and the Global Regulation of
-  Artificial Intelligence](https://arxiv.org/pdf/2309.17158.pdf)** (Updated on 2023-10-02 00:00:00)
+  Artificial Intelligence](https://arxiv.org/pdf/2309.17158.pdf)** (2023-10-02)
 
 *Michal Natorski*
 
@@ -3612,7 +3612,7 @@ multilateral negotiations.
 ---
 
 **[161. [2009.13250] Advancing the Research and Development of Assured Artificial
-  Intelligence and Machine Learning Capabilities](https://arxiv.org/pdf/2009.13250.pdf)** (Updated on 2020-09-29 00:00:00)
+  Intelligence and Machine Learning Capabilities](https://arxiv.org/pdf/2009.13250.pdf)** (2020-09-29)
 
 *Tyler J. Shipp, Daniel J. Clouse, Michael J. De Lucia, Metin B. Ahiskali, Kai Steverson, Jonathan M. Mullin, Nathaniel D. Bastian*
 
@@ -3633,7 +3633,7 @@ Vulnerabilities.
 
 ---
 
-**[162. [2409.00264] The Artificial Intelligence Act: critical overview](https://arxiv.org/pdf/2409.00264.pdf)** (Updated on 2024-09-04 00:00:00)
+**[162. [2409.00264] The Artificial Intelligence Act: critical overview](https://arxiv.org/pdf/2409.00264.pdf)** (2024-09-04)
 
 *Nuno Sousa e Silva*
 
@@ -3658,7 +3658,7 @@ innovation within the European Union and beyond its borders.
 
 ---
 
-**[163. [2205.10929] rgpdOS: GDPR Enforcement By The Operating System](https://arxiv.org/pdf/2205.10929.pdf)** (Updated on 2022-05-31 00:00:00)
+**[163. [2205.10929] rgpdOS: GDPR Enforcement By The Operating System](https://arxiv.org/pdf/2205.10929.pdf)** (2022-05-31)
 
 *Alain Tchana, Raphael Colin, Adrien Le Berre, Vincent Berger, Benoit Combemale, Natacha Crooks, Ludovic Pailler*
 
@@ -3675,7 +3675,7 @@ application, while requiring minimal changes to application code.
 ---
 
 **[164. [2402.05968] Federated Learning Priorities Under the European Union Artificial
-  Intelligence Act](https://arxiv.org/pdf/2402.05968.pdf)** (Updated on 2024-02-14 00:00:00)
+  Intelligence Act](https://arxiv.org/pdf/2402.05968.pdf)** (2024-02-14)
 
 *Herbert Woisetschläger, Alexander Erben, Bill Marino, Shiqiang Wang, Nicholas D. Lane, Ruben Mayer, Hans-Arno Jacobsen*
 
@@ -3700,7 +3700,7 @@ private and secure computation
 
 ---
 
-**[165. [2306.16127] MLSMM: Machine Learning Security Maturity Model](https://arxiv.org/pdf/2306.16127.pdf)** (Updated on 2023-06-29 00:00:00)
+**[165. [2306.16127] MLSMM: Machine Learning Security Maturity Model](https://arxiv.org/pdf/2306.16127.pdf)** (2023-06-29)
 
 *Felix Jedrzejewski, Davide Fucci, Oleksandr Adamov*
 
@@ -3716,7 +3716,7 @@ closer collaboration between industry and academia.
 ---
 
 **[166. [2311.10733] Proceedings of the 3rd International Workshop on Mining and Learning in
-  the Legal Domain (MLLD-23)](https://arxiv.org/pdf/2311.10733.pdf)** (Updated on 2023-11-21 00:00:00)
+  the Legal Domain (MLLD-23)](https://arxiv.org/pdf/2311.10733.pdf)** (2023-11-21)
 
 *Masoud Makrehchi, Dell Zhang, Alina Petrova, John Armour*
 
@@ -3729,7 +3729,7 @@ October 2023.
 
 ---
 
-**[167. [2208.06327] Developing moral AI to support antimicrobial decision making](https://arxiv.org/pdf/2208.06327.pdf)** (Updated on 2022-12-06 00:00:00)
+**[167. [2208.06327] Developing moral AI to support antimicrobial decision making](https://arxiv.org/pdf/2208.06327.pdf)** (2022-12-06)
 
 *William J Bolton, Cosmin Badea, Pantelis Georgiou, Alison Holmes, Timothy M Rawson*
 
@@ -3741,7 +3741,7 @@ decision making to tackle antimicrobial resistance.
 
 ---
 
-**[168. [2404.12576] Requirements Satisfiability with In-Context Learning](https://arxiv.org/pdf/2404.12576.pdf)** (Updated on 2024-04-22 00:00:00)
+**[168. [2404.12576] Requirements Satisfiability with In-Context Learning](https://arxiv.org/pdf/2404.12576.pdf)** (2024-04-22)
 
 *Sarah Santos, Travis Breaux, Thomas Norton, Sara Haghighi, Sepideh Ghanavati*
 
@@ -3768,7 +3768,7 @@ generated specifications to inform how the approach can be applied in practice.
 ---
 
 **[169. [2101.08095] Automatic Differentiation via Effects and Handlers: An Implementation in
-  Frank](https://arxiv.org/pdf/2101.08095.pdf)** (Updated on 2021-01-21 00:00:00)
+  Frank](https://arxiv.org/pdf/2101.08095.pdf)** (2021-01-21)
 
 *Jesse Sigal*
 
@@ -3781,7 +3781,7 @@ show how our code performs the dynamic creation of programs during evaluation.
 
 ---
 
-**[170. [2204.03028] Software Testing, AI and Robotics (STAIR) Learning Lab](https://arxiv.org/pdf/2204.03028.pdf)** (Updated on 2022-04-08 00:00:00)
+**[170. [2204.03028] Software Testing, AI and Robotics (STAIR) Learning Lab](https://arxiv.org/pdf/2204.03028.pdf)** (2022-04-08)
 
 *Simon Haller-Seeber, Thomas Gatterer, Patrick Hofmann, Christopher Kelter, Thomas Auer, Michael Felderer*
 
@@ -3802,7 +3802,7 @@ exercises which can easily be extended.
 ---
 
 **[171. [2305.15922] Towards a Capability Assessment Model for the Comprehension and Adoption
-  of AI in Organisations](https://arxiv.org/pdf/2305.15922.pdf)** (Updated on 2023-05-26 00:00:00)
+  of AI in Organisations](https://arxiv.org/pdf/2305.15922.pdf)** (2023-05-26)
 
 *Butler, Tom, Espinoza-Limón, Angelina, Seppälä, Selja*
 
@@ -3826,7 +3826,7 @@ five capability maturity levels to achieve optimal use of AI in organisations.
 
 ---
 
-**[172. [2411.02263] AI Should Challenge, Not Obey](https://arxiv.org/pdf/2411.02263.pdf)** (Updated on 2024-11-05 00:00:00)
+**[172. [2411.02263] AI Should Challenge, Not Obey](https://arxiv.org/pdf/2411.02263.pdf)** (2024-11-05)
 
 *Advait Sarkar*
 
@@ -3835,7 +3835,7 @@ five capability maturity levels to achieve optimal use of AI in organisations.
 
 ---
 
-**[173. [2408.02811] Development of REGAI: Rubric Enabled Generative Artificial Intelligence](https://arxiv.org/pdf/2408.02811.pdf)** (Updated on 2024-08-07 00:00:00)
+**[173. [2408.02811] Development of REGAI: Rubric Enabled Generative Artificial Intelligence](https://arxiv.org/pdf/2408.02811.pdf)** (2024-08-07)
 
 *Zach Johnson, Jeremy Straub*
 
@@ -3852,7 +3852,7 @@ application areas for the technology.
 ---
 
 **[174. [2503.06353] The AI Pentad, the CHARME$^{2}$D Model, and an Assessment of
-  Current-State AI Regulation](https://arxiv.org/pdf/2503.06353.pdf)** (Updated on 2025-03-11 00:00:00)
+  Current-State AI Regulation](https://arxiv.org/pdf/2503.06353.pdf)** (2025-03-11)
 
 *Di Kevin Gao, Sudip Mittal, Jiming Wu, Hongwei Du, Jingdao Chen, Shahram Rahimi*
 
@@ -3881,7 +3881,7 @@ AI domain.
 ---
 
 **[175. [2206.03262] Using sensitive data to prevent discrimination by artificial
-  intelligence: Does the GDPR need a new exception?](https://arxiv.org/pdf/2206.03262.pdf)** (Updated on 2022-11-29 00:00:00)
+  intelligence: Does the GDPR need a new exception?](https://arxiv.org/pdf/2206.03262.pdf)** (2022-11-29)
 
 *Marvin van Bekkum, Frederik Zuiderveen Borgesius*
 
