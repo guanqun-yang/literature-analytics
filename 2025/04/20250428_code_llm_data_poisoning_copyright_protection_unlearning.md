@@ -1,7 +1,5 @@
 **[1. [2504.02883] SemEval-2025 Task 4: Unlearning sensitive content from Large Language
-  Models](https://arxiv.org/pdf/2504.02883.pdf)**
-
-Updated on 2025-04-07
+  Models](https://arxiv.org/pdf/2504.02883.pdf)** (Updated on 2025-04-07)
 
 *Anil Ramakrishna, Yixin Wan, Xiaomeng Jin, Kai-Wei Chang, Zhiqi Bu, Bhanukiran Vinzamuri, Volkan Cevher, Mingyi Hong, Rahul Gupta*
 
@@ -19,9 +17,7 @@ and lessons in this paper.
 ---
 
 **[2. [2404.18239] SOUL: Unlocking the Power of Second-Order Optimization for LLM
-  Unlearning](https://arxiv.org/pdf/2404.18239.pdf)**
-
-Updated on 2024-06-26
+  Unlearning](https://arxiv.org/pdf/2404.18239.pdf)** (Updated on 2024-06-26)
 
 *Jinghan Jia, Yihua Zhang, Yimeng Zhang, Jiancheng Liu, Bharat Runwal, James Diffenderfer, Bhavya Kailkhura, Sijia Liu*
 
@@ -46,9 +42,7 @@ for LLM unlearning. Codes are available at https://github.com/OPTML-Group/SOUL.
 
 ---
 
-**[3. [2502.00406] ALU: Agentic LLM Unlearning](https://arxiv.org/pdf/2502.00406.pdf)**
-
-Updated on 2025-02-04
+**[3. [2502.00406] ALU: Agentic LLM Unlearning](https://arxiv.org/pdf/2502.00406.pdf)** (Updated on 2025-02-04)
 
 *Debdeep Sanyal, Murari Mandal*
 
@@ -78,9 +72,7 @@ all previously proposed LLM unlearning methods.
 
 ---
 
-**[4. [2504.13774] DP2Unlearning: An Efficient and Guaranteed Unlearning Framework for LLMs](https://arxiv.org/pdf/2504.13774.pdf)**
-
-Updated on 2025-04-21
+**[4. [2504.13774] DP2Unlearning: An Efficient and Guaranteed Unlearning Framework for LLMs](https://arxiv.org/pdf/2504.13774.pdf)** (Updated on 2025-04-21)
 
 *Tamim Al Mahmud, Najeeb Jebreel, Josep Domingo-Ferrer, David Sanchez*
 
@@ -110,9 +102,7 @@ forgetting the targeted information.
 
 ---
 
-**[5. [2502.15097] LUME: LLM Unlearning with Multitask Evaluations](https://arxiv.org/pdf/2502.15097.pdf)**
-
-Updated on 2025-02-28
+**[5. [2502.15097] LUME: LLM Unlearning with Multitask Evaluations](https://arxiv.org/pdf/2502.15097.pdf)** (Updated on 2025-02-28)
 
 *Anil Ramakrishna, Yixin Wan, Xiaomeng Jin, Kai-Wei Chang, Zhiqi Bu, Bhanukiran Vinzamuri, Volkan Cevher, Mingyi Hong, Rahul Gupta*
 
@@ -130,9 +120,7 @@ carefully crafted metrics to understand their behavior and limitations.
 ---
 
 **[6. [2503.04693] UIPE: Enhancing LLM Unlearning by Removing Knowledge Related to
-  Forgetting Targets](https://arxiv.org/pdf/2503.04693.pdf)**
-
-Updated on 2025-03-07
+  Forgetting Targets](https://arxiv.org/pdf/2503.04693.pdf)** (Updated on 2025-03-07)
 
 *Wenyu Wang, Mengqi Zhang, Xiaotian Ye, Zhaochun Ren, Zhumin Chen, Pengjie Ren*
 
@@ -154,9 +142,7 @@ methods on the TOFU benchmark.
 
 ---
 
-**[7. [2404.11045] Offset Unlearning for Large Language Models](https://arxiv.org/pdf/2404.11045.pdf)**
-
-Updated on 2024-04-18
+**[7. [2404.11045] Offset Unlearning for Large Language Models](https://arxiv.org/pdf/2404.11045.pdf)** (Updated on 2024-04-18)
 
 *James Y. Huang, Wenxuan Zhou, Fei Wang, Fred Morstatter, Sheng Zhang, Hoifung Poon, Muhao Chen*
 
@@ -181,9 +167,7 @@ existing unlearning algorithms to black-box LLMs.
 
 ---
 
-**[8. [2412.00383] Unified Parameter-Efficient Unlearning for LLMs](https://arxiv.org/pdf/2412.00383.pdf)**
-
-Updated on 2025-04-21
+**[8. [2412.00383] Unified Parameter-Efficient Unlearning for LLMs](https://arxiv.org/pdf/2412.00383.pdf)** (Updated on 2025-04-21)
 
 *Chenlu Ding, Jiancan Wu, Yancheng Yuan, Jinda Lu, Kai Zhang, Alex Su, Xiang Wang, Xiangnan He*
 
@@ -206,9 +190,7 @@ maintaining the overall integrity and efficacy of the models.
 
 ---
 
-**[9. [2406.10952] Avoiding Copyright Infringement via Large Language Model Unlearning](https://arxiv.org/pdf/2406.10952.pdf)**
-
-Updated on 2025-02-12
+**[9. [2406.10952] Avoiding Copyright Infringement via Large Language Model Unlearning](https://arxiv.org/pdf/2406.10952.pdf)** (Updated on 2025-02-12)
 
 *Guangyao Dou, Zheyuan Liu, Qing Lyu, Kaize Ding, Eric Wong*
 
@@ -233,9 +215,7 @@ abilities, outperforming existing baselines.
 
 ---
 
-**[10. [2502.07218] LUNAR: LLM Unlearning via Neural Activation Redirection](https://arxiv.org/pdf/2502.07218.pdf)**
-
-Updated on 2025-02-12
+**[10. [2502.07218] LUNAR: LLM Unlearning via Neural Activation Redirection](https://arxiv.org/pdf/2502.07218.pdf)** (Updated on 2025-02-12)
 
 *William F. Shen, Xinchi Qiu, Meghdad Kurmanji, Alex Iacob, Lorenzo Sani, Yihong Chen, Nicola Cancedda, Nicholas D. Lane*
 
@@ -262,9 +242,7 @@ requests.
 ---
 
 **[11. [2408.12416] Unlearning Trojans in Large Language Models: A Comparison Between
-  Natural Language and Source Code](https://arxiv.org/pdf/2408.12416.pdf)**
-
-Updated on 2024-08-23
+  Natural Language and Source Code](https://arxiv.org/pdf/2408.12416.pdf)** (Updated on 2024-08-23)
 
 *Mahdi Kazemi, Aftab Hussain, Md Rafiqul Islam Rabin, Mohammad Amin Alipour, Sen Lin*
 
@@ -287,9 +265,7 @@ and Coding domain.
 
 ---
 
-**[12. [2502.17823] A General Framework to Enhance Fine-tuning-based LLM Unlearning](https://arxiv.org/pdf/2502.17823.pdf)**
-
-Updated on 2025-03-25
+**[12. [2502.17823] A General Framework to Enhance Fine-tuning-based LLM Unlearning](https://arxiv.org/pdf/2502.17823.pdf)** (Updated on 2025-03-25)
 
 *Jie Ren, Zhenwei Dai, Xianfeng Tang, Hui Liu, Jingying Zeng, Zhen Li, Rahul Goutam, Suhang Wang, Yue Xing, Qi He, Hui Liu*
 
@@ -314,9 +290,7 @@ efficient and promising for sequential unlearning.
 
 ---
 
-**[13. [2402.08787] Rethinking Machine Unlearning for Large Language Models](https://arxiv.org/pdf/2402.08787.pdf)**
-
-Updated on 2024-12-10
+**[13. [2402.08787] Rethinking Machine Unlearning for Large Language Models](https://arxiv.org/pdf/2402.08787.pdf)** (Updated on 2024-12-10)
 
 *Sijia Liu, Yuanshun Yao, Jinghan Jia, Stephen Casper, Nathalie Baracaldo, Peter Hase, Yuguang Yao, Chris Yuhao Liu, Xiaojun Xu, Hang Li, Kush R. Varshney, Mohit Bansal, Sanmi Koyejo, Yang Liu*
 
@@ -342,9 +316,7 @@ sociotechnical harm reduction.
 
 ---
 
-**[14. [2502.14425] A Survey on Data Contamination for Large Language Models](https://arxiv.org/pdf/2502.14425.pdf)**
-
-Updated on 2025-02-21
+**[14. [2502.14425] A Survey on Data Contamination for Large Language Models](https://arxiv.org/pdf/2502.14425.pdf)** (Updated on 2025-02-21)
 
 *Yuxing Cheng, Yi Chang, Yuan Wu*
 
@@ -370,9 +342,7 @@ contamination challenges.
 
 ---
 
-**[15. [2307.10476] What can we learn from Data Leakage and Unlearning for Law?](https://arxiv.org/pdf/2307.10476.pdf)**
-
-Updated on 2023-07-21
+**[15. [2307.10476] What can we learn from Data Leakage and Unlearning for Law?](https://arxiv.org/pdf/2307.10476.pdf)** (Updated on 2023-07-21)
 
 *Jaydeep Borkar*
 
@@ -396,9 +366,7 @@ communities regarding the need for policies to tackle these issues.
 
 ---
 
-**[16. [2412.20412] Multi-Objective Large Language Model Unlearning](https://arxiv.org/pdf/2412.20412.pdf)**
-
-Updated on 2025-01-07
+**[16. [2412.20412] Multi-Objective Large Language Model Unlearning](https://arxiv.org/pdf/2412.20412.pdf)** (Updated on 2025-01-07)
 
 *Zibin Pan, Shuwen Zhang, Yuesheng Zheng, Chi Li, Yuheng Cheng, Junhua Zhao*
 
@@ -423,9 +391,7 @@ is available at https://github.com/zibinpan/MOLLM.
 ---
 
 **[17. [2407.20999] MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM
-  Fine-Tuning](https://arxiv.org/pdf/2407.20999.pdf)**
-
-Updated on 2025-04-21
+  Fine-Tuning](https://arxiv.org/pdf/2407.20999.pdf)** (Updated on 2025-04-21)
 
 *Yupeng Chen, Senmiao Wang, Yushun Zhang, Zhihang Lin, Haozhe Zhang, Weijian Sun, Tian Ding, Ruoyu Sun*
 
@@ -450,9 +416,7 @@ data.
 ---
 
 **[18. [2311.11123] (Why) Is My Prompt Getting Worse? Rethinking Regression Testing for
-  Evolving LLM APIs](https://arxiv.org/pdf/2311.11123.pdf)**
-
-Updated on 2024-02-08
+  Evolving LLM APIs](https://arxiv.org/pdf/2311.11123.pdf)** (Updated on 2024-02-08)
 
 *Wanqin Ma, Chenyang Yang, Christian Kästner*
 
@@ -471,9 +435,7 @@ notions, prompting brittleness, and non-determinism in LLM APIs.
 ---
 
 **[19. [2407.16951] Towards Transfer Unlearning: Empirical Evidence of Cross-Domain Bias
-  Mitigation](https://arxiv.org/pdf/2407.16951.pdf)**
-
-Updated on 2024-07-25
+  Mitigation](https://arxiv.org/pdf/2407.16951.pdf)** (Updated on 2024-07-25)
 
 *Huimin Lu, Masaru Isonuma, Junichiro Mori, Ichiro Sakata*
 
@@ -496,9 +458,7 @@ religion).
 ---
 
 **[20. [2411.12103] Does Unlearning Truly Unlearn? A Black Box Evaluation of LLM Unlearning
-  Methods](https://arxiv.org/pdf/2411.12103.pdf)**
-
-Updated on 2025-02-25
+  Methods](https://arxiv.org/pdf/2411.12103.pdf)** (Updated on 2025-02-25)
 
 *Jai Doshi, Asa Cooper Stickland*
 
@@ -522,9 +482,7 @@ https://github.com/JaiDoshi/Knowledge-Erasure.
 ---
 
 **[21. [2411.18948] RevPRAG: Revealing Poisoning Attacks in Retrieval-Augmented Generation
-  through LLM Activation Analysis](https://arxiv.org/pdf/2411.18948.pdf)**
-
-Updated on 2025-02-20
+  through LLM Activation Analysis](https://arxiv.org/pdf/2411.18948.pdf)** (Updated on 2025-02-20)
 
 *Xue Tan, Hao Luan, Mingyu Luo, Xiaoyan Sun, Ping Chen, Jun Dai*
 
@@ -549,9 +507,7 @@ achieve 98% true positive rate, while maintaining false positive rates close to
 ---
 
 **[22. [2503.07697] PoisonedParrot: Subtle Data Poisoning Attacks to Elicit
-  Copyright-Infringing Content from Large Language Models](https://arxiv.org/pdf/2503.07697.pdf)**
-
-Updated on 2025-03-12
+  Copyright-Infringing Content from Large Language Models](https://arxiv.org/pdf/2503.07697.pdf)** (Updated on 2025-03-12)
 
 *Michael-Andrei Panaitescu-Liess, Pankayaraj Pathmanathan, Yigitcan Kaya, Zora Che, Bang An, Sicheng Zhu, Aakriti Agrawal, Furong Huang*
 
@@ -575,9 +531,7 @@ further.
 ---
 
 **[23. [2404.17196] Human-Imperceptible Retrieval Poisoning Attacks in LLM-Powered
-  Applications](https://arxiv.org/pdf/2404.17196.pdf)**
-
-Updated on 2024-04-29
+  Applications](https://arxiv.org/pdf/2404.17196.pdf)** (Updated on 2024-04-29)
 
 *Quan Zhang, Binqi Zeng, Chijin Zhou, Gwihwan Go, Heyuan Shi, Yu Jiang*
 
@@ -601,9 +555,7 @@ poisoning.
 
 ---
 
-**[24. [2402.10058] Towards Safer Large Language Models through Machine Unlearning](https://arxiv.org/pdf/2402.10058.pdf)**
-
-Updated on 2024-06-06
+**[24. [2402.10058] Towards Safer Large Language Models through Machine Unlearning](https://arxiv.org/pdf/2402.10058.pdf)** (Updated on 2024-06-06)
 
 *Zheyuan Liu, Guangyao Dou, Zhaoxuan Tan, Yijun Tian, Meng Jiang*
 
@@ -630,9 +582,7 @@ removing harmful information and preserving utility.
 ---
 
 **[25. [2406.10890] RWKU: Benchmarking Real-World Knowledge Unlearning for Large Language
-  Models](https://arxiv.org/pdf/2406.10890.pdf)**
-
-Updated on 2024-06-18
+  Models](https://arxiv.org/pdf/2406.10890.pdf)** (Updated on 2024-06-18)
 
 *Zhuoran Jin, Pengfei Cao, Chenhao Wang, Zhitao He, Hongbang Yuan, Jiachun Li, Yubo Chen, Kang Liu, Jun Zhao*
 
@@ -661,9 +611,7 @@ publicly at http://rwku-bench.github.io for future work.
 ---
 
 **[26. [2503.09117] GRU: Mitigating the Trade-off between Unlearning and Retention for Large
-  Language Models](https://arxiv.org/pdf/2503.09117.pdf)**
-
-Updated on 2025-03-13
+  Language Models](https://arxiv.org/pdf/2503.09117.pdf)** (Updated on 2025-03-13)
 
 *Yue Wang, Qizhou Wang, Feng Liu, Wei Huang, Yali Du, Xiaojiang Du, Bo Han*
 
@@ -693,9 +641,7 @@ diverse set of benchmarks for LLM unlearning.
 
 ---
 
-**[27. [2406.16201] Blind Baselines Beat Membership Inference Attacks for Foundation Models](https://arxiv.org/pdf/2406.16201.pdf)**
-
-Updated on 2025-04-01
+**[27. [2406.16201] Blind Baselines Beat Membership Inference Attacks for Foundation Models](https://arxiv.org/pdf/2406.16201.pdf)** (Updated on 2025-04-01)
 
 *Debeshee Das, Jie Zhang, Florian Tramèr*
 
@@ -715,9 +661,7 @@ data.
 ---
 
 **[28. [2311.10733] Proceedings of the 3rd International Workshop on Mining and Learning in
-  the Legal Domain (MLLD-23)](https://arxiv.org/pdf/2311.10733.pdf)**
-
-Updated on 2023-11-21
+  the Legal Domain (MLLD-23)](https://arxiv.org/pdf/2311.10733.pdf)** (Updated on 2023-11-21)
 
 *Masoud Makrehchi, Dell Zhang, Alina Petrova, John Armour*
 
@@ -731,9 +675,7 @@ October 2023.
 ---
 
 **[29. [2504.12681] GRAIL: Gradient-Based Adaptive Unlearning for Privacy and Copyright in
-  LLMs](https://arxiv.org/pdf/2504.12681.pdf)**
-
-Updated on 2025-04-18
+  LLMs](https://arxiv.org/pdf/2504.12681.pdf)** (Updated on 2025-04-18)
 
 *Kun-Woo Kim, Ji-Hoon Park, Ju-Min Han, Seong-Whan Lee*
 
@@ -760,9 +702,7 @@ pre-trained language models.
 
 ---
 
-**[30. [2308.12247] How to Protect Copyright Data in Optimization of Large Language Models?](https://arxiv.org/pdf/2308.12247.pdf)**
-
-Updated on 2023-08-24
+**[30. [2308.12247] How to Protect Copyright Data in Optimization of Large Language Models?](https://arxiv.org/pdf/2308.12247.pdf)** (Updated on 2023-08-24)
 
 *Timothy Chu, Zhao Song, Chiwun Yang*
 
@@ -783,9 +723,7 @@ generating copyright data.
 ---
 
 **[31. [2409.13474] Alternate Preference Optimization for Unlearning Factual Knowledge in
-  Large Language Models](https://arxiv.org/pdf/2409.13474.pdf)**
-
-Updated on 2025-01-23
+  Large Language Models](https://arxiv.org/pdf/2409.13474.pdf)** (Updated on 2025-01-23)
 
 *Anmol Mekala, Vineeth Dorna, Shreya Dubey, Abhishek Lalwani, David Koleczek, Mukund Rungta, Sadid Hasan, Elita Lobo*
 
@@ -808,9 +746,7 @@ https://github.com/molereddy/Alternate-Preference-Optimization.
 ---
 
 **[32. [2412.04947] C$^2$LEVA: Toward Comprehensive and Contamination-Free Language Model
-  Evaluation](https://arxiv.org/pdf/2412.04947.pdf)**
-
-Updated on 2024-12-17
+  Evaluation](https://arxiv.org/pdf/2412.04947.pdf)** (Updated on 2024-12-17)
 
 *Yanyang Li, Tin Long Wong, Cheung To Hung, Jianqiao Zhao, Duo Zheng, Ka Wai Liu, Michael R. Lyu, Liwei Wang*
 
@@ -829,9 +765,7 @@ proprietary models demonstrates the effectiveness of C$^2$LEVA.
 
 ---
 
-**[33. [2402.14845] Purifying Large Language Models by Ensembling a Small Language Model](https://arxiv.org/pdf/2402.14845.pdf)**
-
-Updated on 2024-02-26
+**[33. [2402.14845] Purifying Large Language Models by Ensembling a Small Language Model](https://arxiv.org/pdf/2402.14845.pdf)** (Updated on 2024-02-26)
 
 *Tianlin Li, Qian Liu, Tianyu Pang, Chao Du, Qing Guo, Yang Liu, Min Lin*
 
@@ -851,9 +785,7 @@ infringement, data poisoning, and privacy violations.
 
 ---
 
-**[34. [2504.05058] Not All Data Are Unlearned Equally](https://arxiv.org/pdf/2504.05058.pdf)**
-
-Updated on 2025-04-14
+**[34. [2504.05058] Not All Data Are Unlearned Equally](https://arxiv.org/pdf/2504.05058.pdf)** (Updated on 2025-04-14)
 
 *Aravind Krishnan, Siva Reddy, Marius Mosbach*
 
@@ -878,9 +810,7 @@ take the training data of models into account.
 
 ---
 
-**[35. [2406.04244] Benchmark Data Contamination of Large Language Models: A Survey](https://arxiv.org/pdf/2406.04244.pdf)**
-
-Updated on 2024-06-07
+**[35. [2406.04244] Benchmark Data Contamination of Large Language Models: A Survey](https://arxiv.org/pdf/2406.04244.pdf)** (Updated on 2024-06-07)
 
 *Cheng Xu, Shuhao Guan, Derek Greene, M-Tahar Kechadi*
 
@@ -900,9 +830,7 @@ evaluation in real-world applications.
 
 ---
 
-**[36. [2406.06443] LLM Dataset Inference: Did you train on my dataset?](https://arxiv.org/pdf/2406.06443.pdf)**
-
-Updated on 2024-06-11
+**[36. [2406.06443] LLM Dataset Inference: Did you train on my dataset?](https://arxiv.org/pdf/2406.06443.pdf)** (Updated on 2024-06-11)
 
 *Pratyush Maini, Hengrui Jia, Nicolas Papernot, Adam Dziedzic*
 
@@ -935,9 +863,7 @@ without any false positives.
 ---
 
 **[37. [2502.13141] UniGuardian: A Unified Defense for Detecting Prompt Injection, Backdoor
-  Attacks and Adversarial Attacks in Large Language Models](https://arxiv.org/pdf/2502.13141.pdf)**
-
-Updated on 2025-02-19
+  Attacks and Adversarial Attacks in Large Language Models](https://arxiv.org/pdf/2502.13141.pdf)** (Updated on 2025-02-19)
 
 *Huawei Lin, Yingjie Lao, Tong Geng, Tan Yu, Weijie Zhao*
 
@@ -957,9 +883,7 @@ efficiently identifies malicious prompts in LLMs.
 
 ---
 
-**[38. [2403.18920] CPR: Retrieval Augmented Generation for Copyright Protection](https://arxiv.org/pdf/2403.18920.pdf)**
-
-Updated on 2024-03-29
+**[38. [2403.18920] CPR: Retrieval Augmented Generation for Copyright Protection](https://arxiv.org/pdf/2403.18920.pdf)** (Updated on 2024-03-29)
 
 *Aditya Golatkar, Alessandro Achille, Luca Zancato, Yu-Xiang Wang, Ashwin Swaminathan, Stefano Soatto*
 
@@ -991,9 +915,7 @@ unlearning.
 
 ---
 
-**[39. [2410.17050] UnStar: Unlearning with Self-Taught Anti-Sample Reasoning for LLMs](https://arxiv.org/pdf/2410.17050.pdf)**
-
-Updated on 2024-10-23
+**[39. [2410.17050] UnStar: Unlearning with Self-Taught Anti-Sample Reasoning for LLMs](https://arxiv.org/pdf/2410.17050.pdf)** (Updated on 2024-10-23)
 
 *Yash Sinha, Murari Mandal, Mohan Kankanhalli*
 
@@ -1018,9 +940,7 @@ and model modification.
 ---
 
 **[40. [2403.15779] The Frontier of Data Erasure: Machine Unlearning for Large Language
-  Models](https://arxiv.org/pdf/2403.15779.pdf)**
-
-Updated on 2024-03-26
+  Models](https://arxiv.org/pdf/2403.15779.pdf)** (Updated on 2024-03-26)
 
 *Youyang Qu, Ming Ding, Nan Sun, Kanchana Thilakarathna, Tianqing Zhu, Dusit Niyato*
 
@@ -1045,9 +965,7 @@ responsible, ethical AI.
 ---
 
 **[41. [2408.06223] On Effects of Steering Latent Representation for Large Language Model
-  Unlearning](https://arxiv.org/pdf/2408.06223.pdf)**
-
-Updated on 2025-02-07
+  Unlearning](https://arxiv.org/pdf/2408.06223.pdf)** (Updated on 2025-02-07)
 
 *Dang Huu-Tien, Trung-Tin Pham, Hoang Thanh-Tung, Naoya Inoue*
 
@@ -1072,9 +990,7 @@ compared to prior art while incurring no additional computational cost.
 ---
 
 **[42. [2502.19301] Rethinking LLM Unlearning Objectives: A Gradient Perspective and Go
-  Beyond](https://arxiv.org/pdf/2502.19301.pdf)**
-
-Updated on 2025-02-27
+  Beyond](https://arxiv.org/pdf/2502.19301.pdf)** (Updated on 2025-02-27)
 
 *Qizhou Wang, Jin Peng Zhou, Zhanke Zhou, Saebyeol Shin, Bo Han, Kilian Q. Weinberger*
 
@@ -1100,9 +1016,7 @@ to the community to advance this important field.
 
 ---
 
-**[43. [2410.08109] A Closer Look at Machine Unlearning for Large Language Models](https://arxiv.org/pdf/2410.08109.pdf)**
-
-Updated on 2025-03-04
+**[43. [2410.08109] A Closer Look at Machine Unlearning for Large Language Models](https://arxiv.org/pdf/2410.08109.pdf)** (Updated on 2025-03-04)
 
 *Xiaojian Yuan, Tianyu Pang, Chao Du, Kejiang Chen, Weiming Zhang, Min Lin*
 
@@ -1129,9 +1043,7 @@ available at https://github.com/sail-sg/closer-look-LLM-unlearning.
 ---
 
 **[44. [2310.10049] FATE-LLM: A Industrial Grade Federated Learning Framework for Large
-  Language Models](https://arxiv.org/pdf/2310.10049.pdf)**
-
-Updated on 2023-10-17
+  Language Models](https://arxiv.org/pdf/2310.10049.pdf)** (Updated on 2023-10-17)
 
 *Tao Fan, Yan Kang, Guoqiang Ma, Weijing Chen, Wenbin Wei, Lixin Fan, Qiang Yang*
 
@@ -1154,9 +1066,7 @@ of FedLLM and enable a broad range of industrial applications.
 
 ---
 
-**[45. [2405.01560] Copyright related risks in the creation and use of ML/AI systems](https://arxiv.org/pdf/2405.01560.pdf)**
-
-Updated on 2024-05-06
+**[45. [2405.01560] Copyright related risks in the creation and use of ML/AI systems](https://arxiv.org/pdf/2405.01560.pdf)** (Updated on 2024-05-06)
 
 *Daniel M. German*
 
@@ -1171,9 +1081,7 @@ these risks.
 
 ---
 
-**[46. [2503.18674] Human Motion Unlearning](https://arxiv.org/pdf/2503.18674.pdf)**
-
-Updated on 2025-03-25
+**[46. [2503.18674] Human Motion Unlearning](https://arxiv.org/pdf/2503.18674.pdf)** (Updated on 2025-03-25)
 
 *Edoardo De Matteis, Matteo Migliarini, Alessio Sampieri, Indro Spinelli, Fabio Galasso*
 
@@ -1195,9 +1103,7 @@ qualitatively and quantitatively. Project page:
 
 ---
 
-**[47. [2408.06621] Towards Robust and Parameter-Efficient Knowledge Unlearning for LLMs](https://arxiv.org/pdf/2408.06621.pdf)**
-
-Updated on 2025-04-02
+**[47. [2408.06621] Towards Robust and Parameter-Efficient Knowledge Unlearning for LLMs](https://arxiv.org/pdf/2408.06621.pdf)** (Updated on 2025-04-02)
 
 *Sungmin Cha, Sungjun Cho, Dasol Hwang, Moontae Lee*
 
@@ -1227,9 +1133,7 @@ found in https://github.com/csm9493/efficient-llm-unlearning.
 ---
 
 **[48. [2410.10866] CodeUnlearn: Amortized Zero-Shot Machine Unlearning in Language Models
-  Using Discrete Concept](https://arxiv.org/pdf/2410.10866.pdf)**
-
-Updated on 2024-10-16
+  Using Discrete Concept](https://arxiv.org/pdf/2410.10866.pdf)** (Updated on 2024-10-16)
 
 *YuXuan Wu, Bonaventure F. P. Dossou, Dianbo Liu*
 
@@ -1252,9 +1156,7 @@ of machine unlearning.
 
 ---
 
-**[49. [2502.01534] Preference Leakage: A Contamination Problem in LLM-as-a-judge](https://arxiv.org/pdf/2502.01534.pdf)**
-
-Updated on 2025-02-04
+**[49. [2502.01534] Preference Leakage: A Contamination Problem in LLM-as-a-judge](https://arxiv.org/pdf/2502.01534.pdf)** (Updated on 2025-02-04)
 
 *Dawei Li, Renliang Sun, Yue Huang, Ming Zhong, Bohan Jiang, Jiawei Han, Xiangliang Zhang, Wei Wang, Huan Liu*
 
@@ -1280,9 +1182,7 @@ https://github.com/David-Li0406/Preference-Leakage.
 
 ---
 
-**[50. [2405.15152] Machine Unlearning in Large Language Models](https://arxiv.org/pdf/2405.15152.pdf)**
-
-Updated on 2024-05-27
+**[50. [2405.15152] Machine Unlearning in Large Language Models](https://arxiv.org/pdf/2405.15152.pdf)** (Updated on 2024-05-27)
 
 *Saaketh Koundinya Gundavarapu, Shreya Agarwal, Arushi Arora, Chandana Thimmalapura Jagadeeshaiah*
 
@@ -1315,9 +1215,7 @@ unlearning.
 ---
 
 **[51. [2502.13996] Beyond Single-Value Metrics: Evaluating and Enhancing LLM Unlearning
-  with Cognitive Diagnosis](https://arxiv.org/pdf/2502.13996.pdf)**
-
-Updated on 2025-02-21
+  with Cognitive Diagnosis](https://arxiv.org/pdf/2502.13996.pdf)** (Updated on 2025-02-21)
 
 *Yicheng Lang, Kehan Guo, Yue Huang, Yujun Zhou, Haomin Zhuang, Tianyu Yang, Yao Su, Xiangliang Zhang*
 
@@ -1340,9 +1238,7 @@ abilities.
 
 ---
 
-**[52. [2410.11143] LLM Unlearning via Loss Adjustment with Only Forget Data](https://arxiv.org/pdf/2410.11143.pdf)**
-
-Updated on 2024-10-16
+**[52. [2410.11143] LLM Unlearning via Loss Adjustment with Only Forget Data](https://arxiv.org/pdf/2410.11143.pdf)** (Updated on 2024-10-16)
 
 *Yaxuan Wang, Jiaheng Wei, Chris Yuhao Liu, Jinlong Pang, Quan Liu, Ankit Parag Shah, Yujia Bao, Yang Liu, Wei Wei*
 
@@ -1375,9 +1271,7 @@ Potter dataset and MUSE Benchmark, and entity unlearning on the TOFU dataset.
 ---
 
 **[53. [2406.13990] Inference-Time Decontamination: Reusing Leaked Benchmarks for Large
-  Language Model Evaluation](https://arxiv.org/pdf/2406.13990.pdf)**
-
-Updated on 2024-06-25
+  Language Model Evaluation](https://arxiv.org/pdf/2406.13990.pdf)** (Updated on 2024-06-25)
 
 *Qin Zhu, Qingyuan Cheng, Runyu Peng, Xiaonan Li, Tengxiao Liu, Ru Peng, Xipeng Qiu, Xuanjing Huang*
 
@@ -1401,9 +1295,7 @@ models.
 
 ---
 
-**[54. [2406.07933] Large Language Model Unlearning via Embedding-Corrupted Prompts](https://arxiv.org/pdf/2406.07933.pdf)**
-
-Updated on 2024-11-01
+**[54. [2406.07933] Large Language Model Unlearning via Embedding-Corrupted Prompts](https://arxiv.org/pdf/2406.07933.pdf)** (Updated on 2024-11-01)
 
 *Chris Yuhao Liu, Yaxuan Wang, Jeffrey Flanigan, Yang Liu*
 
@@ -1435,9 +1327,7 @@ publicly available at \url{https://github.com/chrisliu298/llm-unlearn-eco}.
 
 ---
 
-**[55. [2502.01083] Tool Unlearning for Tool-Augmented LLMs](https://arxiv.org/pdf/2502.01083.pdf)**
-
-Updated on 2025-02-04
+**[55. [2502.01083] Tool Unlearning for Tool-Augmented LLMs](https://arxiv.org/pdf/2502.01083.pdf)** (Updated on 2025-02-04)
 
 *Jiali Cheng, Hadi Amiri*
 
@@ -1462,9 +1352,7 @@ non-deleted tools and maintaining performance on general tasks.
 ---
 
 **[56. [2303.09384] LLMSecEval: A Dataset of Natural Language Prompts for Security
-  Evaluations](https://arxiv.org/pdf/2303.09384.pdf)**
-
-Updated on 2023-03-17
+  Evaluations](https://arxiv.org/pdf/2303.09384.pdf)** (Updated on 2023-03-17)
 
 *Catherine Tony, Markus Mutas, Nicolás E. Díaz Ferreyra, Riccardo Scandariato*
 
@@ -1489,9 +1377,7 @@ descriptions.
 ---
 
 **[57. [2406.11780] Split, Unlearn, Merge: Leveraging Data Attributes for More Effective
-  Unlearning in LLMs](https://arxiv.org/pdf/2406.11780.pdf)**
-
-Updated on 2024-06-18
+  Unlearning in LLMs](https://arxiv.org/pdf/2406.11780.pdf)** (Updated on 2024-06-18)
 
 *Swanand Ravindra Kadhe, Farhan Ahmed, Dennis Wei, Nathalie Baracaldo, Inkit Padhi*
 
@@ -1511,9 +1397,7 @@ maintaining their general capabilities on standard academic benchmarks.
 ---
 
 **[58. [2402.08100] Investigating the Impact of Data Contamination of Large Language Models
-  in Text-to-SQL Translation](https://arxiv.org/pdf/2402.08100.pdf)**
-
-Updated on 2024-12-10
+  in Text-to-SQL Translation](https://arxiv.org/pdf/2402.08100.pdf)** (Updated on 2024-12-10)
 
 *Federico Ranaldi, Elena Sofia Ruzzetti, Dario Onorati, Leonardo Ranaldi, Cristina Giannone, Andrea Favalli, Raniero Romagnoli, Fabio Massimo Zanzotto*
 
@@ -1538,9 +1422,7 @@ translation tasks.
 ---
 
 **[59. [2404.05880] Eraser: Jailbreaking Defense in Large Language Models via Unlearning
-  Harmful Knowledge](https://arxiv.org/pdf/2404.05880.pdf)**
-
-Updated on 2024-07-04
+  Harmful Knowledge](https://arxiv.org/pdf/2404.05880.pdf)** (Updated on 2024-07-04)
 
 *Weikai Lu, Ziqian Zeng, Jianwei Wang, Zhengdong Lu, Zelin Chen, Huiping Zhuang, Cen Chen*
 
@@ -1564,9 +1446,7 @@ available at https://github.com/ZeroNLP/Eraser.
 ---
 
 **[60. [2411.04388] Unlearning in- vs. out-of-distribution data in LLMs under gradient-based
-  method](https://arxiv.org/pdf/2411.04388.pdf)**
-
-Updated on 2024-11-08
+  method](https://arxiv.org/pdf/2411.04388.pdf)** (Updated on 2024-11-08)
 
 *Teodora Baluta, Pascal Lamblin, Daniel Tarlow, Fabian Pedregosa, Gintare Karolina Dziugaite*
 
@@ -1587,9 +1467,7 @@ ascent-based approach.
 
 ---
 
-**[61. [2404.13968] Protecting Your LLMs with Information Bottleneck](https://arxiv.org/pdf/2404.13968.pdf)**
-
-Updated on 2024-10-11
+**[61. [2404.13968] Protecting Your LLMs with Information Bottleneck](https://arxiv.org/pdf/2404.13968.pdf)** (Updated on 2024-10-11)
 
 *Zichuan Liu, Zefan Wang, Linjie Xu, Jinyu Wang, Lei Song, Tianchun Wang, Chunlin Chen, Wei Cheng, Jiang Bian*
 
@@ -1614,9 +1492,7 @@ requiring modifications to the underlying models.
 
 ---
 
-**[62. [2411.18797] UOE: Unlearning One Expert Is Enough For Mixture-of-experts LLMS](https://arxiv.org/pdf/2411.18797.pdf)**
-
-Updated on 2024-12-02
+**[62. [2411.18797] UOE: Unlearning One Expert Is Enough For Mixture-of-experts LLMS](https://arxiv.org/pdf/2411.18797.pdf)** (Updated on 2024-12-02)
 
 *Haomin Zhuang, Yihua Zhang, Kehan Guo, Jinghan Jia, Gaowen Liu, Sijia Liu, Xiangliang Zhang*
 
@@ -1650,9 +1526,7 @@ parameters.
 ---
 
 **[63. [2412.13670] AntiLeak-Bench: Preventing Data Contamination by Automatically
-  Constructing Benchmarks with Updated Real-World Knowledge](https://arxiv.org/pdf/2412.13670.pdf)**
-
-Updated on 2024-12-19
+  Constructing Benchmarks with Updated Real-World Knowledge](https://arxiv.org/pdf/2412.13670.pdf)** (Updated on 2024-12-19)
 
 *Xiaobao Wu, Liangming Pan, Yuxi Xie, Ruiwen Zhou, Shuai Zhao, Yubo Ma, Mingzhe Du, Rui Mao, Anh Tuan Luu, William Yang Wang*
 
@@ -1674,9 +1548,7 @@ demonstrate AntiLeak-Bench effectively overcomes this challenge.
 
 ---
 
-**[64. [2406.18382] Adversarial Search Engine Optimization for Large Language Models](https://arxiv.org/pdf/2406.18382.pdf)**
-
-Updated on 2024-07-03
+**[64. [2406.18382] Adversarial Search Engine Optimization for Large Language Models](https://arxiv.org/pdf/2406.18382.pdf)** (Updated on 2024-07-03)
 
 *Fredrik Nestaas, Edoardo Debenedetti, Florian Tramèr*
 
@@ -1698,9 +1570,7 @@ significant threat.
 ---
 
 **[65. [2502.19982] Erasing Without Remembering: Safeguarding Knowledge Forgetting in Large
-  Language Models](https://arxiv.org/pdf/2502.19982.pdf)**
-
-Updated on 2025-02-28
+  Language Models](https://arxiv.org/pdf/2502.19982.pdf)** (Updated on 2025-02-28)
 
 *Huazheng Wang, Yongcheng Jing, Haifeng Sun, Yingjie Wang, Jingyu Wang, Jianxin Liao, Dacheng Tao*
 
@@ -1723,9 +1593,7 @@ https://github.com/MaybeLizzy/UGBench.
 
 ---
 
-**[66. [2501.13683] Unlearning Clients, Features and Samples in Vertical Federated Learning](https://arxiv.org/pdf/2501.13683.pdf)**
-
-Updated on 2025-01-24
+**[66. [2501.13683] Unlearning Clients, Features and Samples in Vertical Federated Learning](https://arxiv.org/pdf/2501.13683.pdf)** (Updated on 2025-01-24)
 
 *Ayush K. Varshney, Konstantinos Vandikas, Vicenç Torra*
 
@@ -1759,9 +1627,7 @@ the previously communicated embeddings.
 ---
 
 **[67. [2412.18621] Investigating the Feasibility of Mitigating Potential Copyright
-  Infringement via Large Language Model Unlearning](https://arxiv.org/pdf/2412.18621.pdf)**
-
-Updated on 2025-02-12
+  Infringement via Large Language Model Unlearning](https://arxiv.org/pdf/2412.18621.pdf)** (Updated on 2025-02-12)
 
 *Guangyao Dou*
 
@@ -1789,9 +1655,7 @@ baselines, but it's not a cure-all for unlearning copyrighted material.
 ---
 
 **[68. [2410.04454] Inner-Probe: Discovering Copyright-related Data Generation in LLM
-  Architecture](https://arxiv.org/pdf/2410.04454.pdf)**
-
-Updated on 2025-01-24
+  Architecture](https://arxiv.org/pdf/2410.04454.pdf)** (Updated on 2025-01-24)
 
 *Qichao Ma, Rui-Jie Zhu, Peiye Liu, Renye Yan, Fahong Zhang, Ling Liang, Meng Li, Zhaofei Yu, Zongwei Wang, Yimao Cai, Tiejun Huang*
 
@@ -1821,9 +1685,7 @@ increase in AUC for non-copyrighted data filtering.
 ---
 
 **[69. [2503.04795] Cyber for AI at SemEval-2025 Task 4: Forgotten but Not Lost: The
-  Balancing Act of Selective Unlearning in Large Language Models](https://arxiv.org/pdf/2503.04795.pdf)**
-
-Updated on 2025-03-10
+  Balancing Act of Selective Unlearning in Large Language Models](https://arxiv.org/pdf/2503.04795.pdf)** (Updated on 2025-03-10)
 
 *Dinesh Srivasthav P, Bala Mallikarjunarao Garlapati*
 
@@ -1844,9 +1706,7 @@ demonstrating promising results in verifiable LLM unlearning.
 ---
 
 **[70. [2408.10608] Promoting Equality in Large Language Models: Identifying and Mitigating
-  the Implicit Bias based on Bayesian Theory](https://arxiv.org/pdf/2408.10608.pdf)**
-
-Updated on 2024-08-21
+  the Implicit Bias based on Bayesian Theory](https://arxiv.org/pdf/2408.10608.pdf)** (Updated on 2024-08-21)
 
 *Yongxin Deng, Xihe Qiu, Xiaoyu Tan, Jing Pan, Chen Jue, Zhijun Fang, Yinghui Xu, Wei Chu, Yuan Qi*
 
@@ -1870,9 +1730,7 @@ effectiveness of our BTBR approach.
 
 ---
 
-**[71. [2402.05624] Efficient Models for the Detection of Hate, Abuse and Profanity](https://arxiv.org/pdf/2402.05624.pdf)**
-
-Updated on 2024-02-09
+**[71. [2402.05624] Efficient Models for the Detection of Hate, Abuse and Profanity](https://arxiv.org/pdf/2402.05624.pdf)** (Updated on 2024-02-09)
 
 *Christoph Tillmann, Aashka Trivedi, Bishwaranjan Bhattacharjee*
 
@@ -1897,9 +1755,7 @@ and acceptable in the output they generate.
 ---
 
 **[72. [2503.13733] CoDet-M4: Detecting Machine-Generated Code in Multi-Lingual,
-  Multi-Generator and Multi-Domain Settings](https://arxiv.org/pdf/2503.13733.pdf)**
-
-Updated on 2025-03-19
+  Multi-Generator and Multi-Domain Settings](https://arxiv.org/pdf/2503.13733.pdf)** (Updated on 2025-03-19)
 
 *Daniil Orel, Dilshod Azizov, Preslav Nakov*
 
@@ -1925,9 +1781,7 @@ human- from LLM-written code and sets a new benchmark for this task.
 ---
 
 **[73. [2502.12520] SafeEraser: Enhancing Safety in Multimodal Large Language Models through
-  Multimodal Machine Unlearning](https://arxiv.org/pdf/2502.12520.pdf)**
-
-Updated on 2025-02-26
+  Multimodal Machine Unlearning](https://arxiv.org/pdf/2502.12520.pdf)** (Updated on 2025-02-26)
 
 *Junkai Chen, Zhijie Deng, Kening Zheng, Yibo Yan, Shuliang Liu, PeiJun Wu, Peijie Jiang, Jia Liu, Xuming Hu*
 
@@ -1953,9 +1807,7 @@ of harmful language and images, and reader discretion is recommended.
 
 ---
 
-**[74. [2011.12355] Lethean Attack: An Online Data Poisoning Technique](https://arxiv.org/pdf/2011.12355.pdf)**
-
-Updated on 2020-11-26
+**[74. [2011.12355] Lethean Attack: An Online Data Poisoning Technique](https://arxiv.org/pdf/2011.12355.pdf)** (Updated on 2020-11-26)
 
 *Eyal Perry*
 
@@ -1974,9 +1826,7 @@ using a short sample sequence.
 ---
 
 **[75. [2410.18966] Does Data Contamination Detection Work (Well) for LLMs? A Survey and
-  Evaluation on Detection Assumptions](https://arxiv.org/pdf/2410.18966.pdf)**
-
-Updated on 2025-03-11
+  Evaluation on Detection Assumptions](https://arxiv.org/pdf/2410.18966.pdf)** (Updated on 2025-03-11)
 
 *Yujuan Fu, Ozlem Uzuner, Meliha Yetisgen, Fei Xia*
 
@@ -2003,9 +1853,7 @@ the seen and unseen instances.
 ---
 
 **[76. [2503.22948] SUV: Scalable Large Language Model Copyright Compliance with Regularized
-  Selective Unlearning](https://arxiv.org/pdf/2503.22948.pdf)**
-
-Updated on 2025-04-01
+  Selective Unlearning](https://arxiv.org/pdf/2503.22948.pdf)** (Updated on 2025-04-01)
 
 *Tianyang Xu, Xiaoze Liu, Feijie Wu, Xiaoqian Wang, Jing Gao*
 
@@ -2032,9 +1880,7 @@ mitigating copyright risks in real-world LLM applications.
 
 ---
 
-**[77. [2409.11844] MEOW: MEMOry Supervised LLM Unlearning Via Inverted Facts](https://arxiv.org/pdf/2409.11844.pdf)**
-
-Updated on 2024-09-19
+**[77. [2409.11844] MEOW: MEMOry Supervised LLM Unlearning Via Inverted Facts](https://arxiv.org/pdf/2409.11844.pdf)** (Updated on 2024-09-19)
 
 *Tianle Gu, Kexin Huang, Ruilin Luo, Yuanqi Yao, Yujiu Yang, Yan Teng, Yingchun Wang*
 
@@ -2061,9 +1907,7 @@ in NLU performance.
 
 ---
 
-**[78. [2411.09689] LLM Hallucination Reasoning with Zero-shot Knowledge Test](https://arxiv.org/pdf/2411.09689.pdf)**
-
-Updated on 2024-11-15
+**[78. [2411.09689] LLM Hallucination Reasoning with Zero-shot Knowledge Test](https://arxiv.org/pdf/2411.09689.pdf)** (Updated on 2024-11-15)
 
 *Seongmin Lee, Hsiang Hsu, Chun-Fu Chen*
 
@@ -2082,9 +1926,7 @@ and underscore its importance for enhancing detection performance.
 
 ---
 
-**[79. [2502.13347] Craw4LLM: Efficient Web Crawling for LLM Pretraining](https://arxiv.org/pdf/2502.13347.pdf)**
-
-Updated on 2025-02-26
+**[79. [2502.13347] Craw4LLM: Efficient Web Crawling for LLM Pretraining](https://arxiv.org/pdf/2502.13347.pdf)** (Updated on 2025-02-26)
 
 *Shi Yu, Zhiyuan Liu, Chenyan Xiong*
 
@@ -2106,9 +1948,7 @@ https://github.com/cxcscmu/Craw4LLM.
 ---
 
 **[80. [2409.09288] Generating API Parameter Security Rules with LLM for API Misuse
-  Detection](https://arxiv.org/pdf/2409.09288.pdf)**
-
-Updated on 2024-09-20
+  Detection](https://arxiv.org/pdf/2409.09288.pdf)** (Updated on 2024-09-20)
 
 *Jinghua Liu, Yi Yang, Kai Chen, Miaoqian Lin*
 
@@ -2141,9 +1981,7 @@ reports.
 ---
 
 **[81. [2503.02443] AILS-NTUA at SemEval-2025 Task 4: Parameter-Efficient Unlearning for
-  Large Language Models using Data Chunking](https://arxiv.org/pdf/2503.02443.pdf)**
-
-Updated on 2025-03-05
+  Large Language Models using Data Chunking](https://arxiv.org/pdf/2503.02443.pdf)** (Updated on 2025-03-05)
 
 *Iraklis Premptis, Maria Lymperaiou, Giorgos Filandrianos, Orfeas Menis Mastromichalakis, Athanasios Voulodimos, Giorgos Stamou*
 
@@ -2161,9 +1999,7 @@ significantly outperforming baselines and competing systems.
 ---
 
 **[82. [2407.01920] To Forget or Not? Towards Practical Knowledge Unlearning for Large
-  Language Models](https://arxiv.org/pdf/2407.01920.pdf)**
-
-Updated on 2024-10-08
+  Language Models](https://arxiv.org/pdf/2407.01920.pdf)** (Updated on 2024-10-08)
 
 *Bozhong Tian, Xiaozhuan Liang, Siyuan Cheng, Qingbin Liu, Mengru Wang, Dianbo Sui, Xi Chen, Huajun Chen, Ningyu Zhang*
 
@@ -2185,9 +2021,7 @@ https://github.com/zjunlp/KnowUnDo.
 
 ---
 
-**[83. [2405.04032] Locally Differentially Private In-Context Learning](https://arxiv.org/pdf/2405.04032.pdf)**
-
-Updated on 2024-05-09
+**[83. [2405.04032] Locally Differentially Private In-Context Learning](https://arxiv.org/pdf/2405.04032.pdf)** (Updated on 2024-05-09)
 
 *Chunyan Zheng, Keke Sun, Wenhao Zhao, Haibo Zhou, Lixin Jiang, Shaoyang Song, Chunlai Zhou*
 
@@ -2208,9 +2042,7 @@ the end, we perform several experiments to demonstrate our analysis results.
 
 ---
 
-**[84. [2502.14182] Multi-Faceted Studies on Data Poisoning can Advance LLM Development](https://arxiv.org/pdf/2502.14182.pdf)**
-
-Updated on 2025-02-21
+**[84. [2502.14182] Multi-Faceted Studies on Data Poisoning can Advance LLM Development](https://arxiv.org/pdf/2502.14182.pdf)** (Updated on 2025-02-21)
 
 *Pengfei He, Yue Xing, Han Xu, Zhen Xiang, Jiliang Tang*
 
@@ -2236,9 +2068,7 @@ underlying mechanisms.
 ---
 
 **[85. [2312.07200] Code Membership Inference for Detecting Unauthorized Data Use in Code
-  Pre-trained Language Models](https://arxiv.org/pdf/2312.07200.pdf)**
-
-Updated on 2025-02-19
+  Pre-trained Language Models](https://arxiv.org/pdf/2312.07200.pdf)** (Updated on 2025-02-19)
 
 *Sheng Zhang, Hui Li*
 
@@ -2258,9 +2088,7 @@ CMI tool and help protect intellectual property rights.
 ---
 
 **[86. [2406.08754] StructuralSleight: Automated Jailbreak Attacks on Large Language Models
-  Utilizing Uncommon Text-Organization Structures](https://arxiv.org/pdf/2406.08754.pdf)**
-
-Updated on 2025-02-19
+  Utilizing Uncommon Text-Organization Structures](https://arxiv.org/pdf/2406.08754.pdf)** (Updated on 2025-02-19)
 
 *Bangxin Li, Hengrui Xing, Cong Tian, Chao Huang, Jin Qian, Huangqing Xiao, Linfeng Feng*
 
@@ -2285,9 +2113,7 @@ state-of-the-art techniques.
 ---
 
 **[87. [2410.15267] When Machine Unlearning Meets Retrieval-Augmented Generation (RAG): Keep
-  Secret or Forget Knowledge?](https://arxiv.org/pdf/2410.15267.pdf)**
-
-Updated on 2024-10-22
+  Secret or Forget Knowledge?](https://arxiv.org/pdf/2410.15267.pdf)** (Updated on 2024-10-22)
 
 *Shang Wang, Tianqing Zhu, Dayong Ye, Wanlei Zhou*
 
@@ -2317,9 +2143,7 @@ to multimodal large language models and LLM-based agents.
 ---
 
 **[88. [2408.10668] Probing the Safety Response Boundary of Large Language Models via Unsafe
-  Decoding Path Generation](https://arxiv.org/pdf/2408.10668.pdf)**
-
-Updated on 2024-08-27
+  Decoding Path Generation](https://arxiv.org/pdf/2408.10668.pdf)** (Updated on 2024-08-27)
 
 *Haoyu Wang, Bingzhe Wu, Yatao Bian, Yongzhe Chang, Xueqian Wang, Peilin Zhao*
 
@@ -2344,9 +2168,7 @@ harmful data or launch covert attacks.
 ---
 
 **[89. [2410.17509] WAGLE: Strategic Weight Attribution for Effective and Modular Unlearning
-  in Large Language Models](https://arxiv.org/pdf/2410.17509.pdf)**
-
-Updated on 2025-04-15
+  in Large Language Models](https://arxiv.org/pdf/2410.17509.pdf)** (Updated on 2025-04-15)
 
 *Jinghan Jia, Jiancheng Liu, Yihua Zhang, Parikshit Ram, Nathalie Baracaldo, Sijia Liu*
 
@@ -2379,9 +2201,7 @@ attribution techniques.
 ---
 
 **[90. [2503.00062] CRFU: Compressive Representation Forgetting Against Privacy Leakage on
-  Machine Unlearning](https://arxiv.org/pdf/2503.00062.pdf)**
-
-Updated on 2025-03-04
+  Machine Unlearning](https://arxiv.org/pdf/2503.00062.pdf)** (Updated on 2025-03-04)
 
 *Weiqi Wang, Chenhan Zhang, Zhiyi Tian, Shushu Liu, Shui Yu*
 
@@ -2413,9 +2233,7 @@ $1.5\%$ accuracy degradation on MNIST.
 ---
 
 **[91. [2406.08607] Reversing the Forget-Retain Objectives: An Efficient LLM Unlearning
-  Framework from Logit Difference](https://arxiv.org/pdf/2406.08607.pdf)**
-
-Updated on 2024-06-14
+  Framework from Logit Difference](https://arxiv.org/pdf/2406.08607.pdf)** (Updated on 2024-06-14)
 
 *Jiabao Ji, Yujian Liu, Yang Zhang, Gaowen Liu, Ramana Rao Kompella, Sijia Liu, Shiyu Chang*
 
@@ -2448,9 +2266,7 @@ https://github.com/UCSB-NLP-Chang/ULD.
 ---
 
 **[92. [2410.12777] Meta-Unlearning on Diffusion Models: Preventing Relearning Unlearned
-  Concepts](https://arxiv.org/pdf/2410.12777.pdf)**
-
-Updated on 2024-10-17
+  Concepts](https://arxiv.org/pdf/2410.12777.pdf)** (Updated on 2024-10-17)
 
 *Hongcheng Gao, Tianyu Pang, Chao Du, Taihang Hu, Zhijie Deng, Min Lin*
 
@@ -2476,9 +2292,7 @@ https://github.com/sail-sg/Meta-Unlearning.
 
 ---
 
-**[93. [2407.10223] On Large Language Model Continual Unlearning](https://arxiv.org/pdf/2407.10223.pdf)**
-
-Updated on 2025-03-04
+**[93. [2407.10223] On Large Language Model Continual Unlearning](https://arxiv.org/pdf/2407.10223.pdf)** (Updated on 2025-03-04)
 
 *Chongyang Gao, Lixu Wang, Kaize Ding, Chenkai Weng, Xiao Wang, Qi Zhu*
 
@@ -2511,9 +2325,7 @@ https://github.com/GCYZSL/O3-LLM-UNLEARNING.
 
 ---
 
-**[94. [2502.10673] Dataset Protection via Watermarked Canaries in Retrieval-Augmented LLMs](https://arxiv.org/pdf/2502.10673.pdf)**
-
-Updated on 2025-02-18
+**[94. [2502.10673] Dataset Protection via Watermarked Canaries in Retrieval-Augmented LLMs](https://arxiv.org/pdf/2502.10673.pdf)** (Updated on 2025-02-18)
 
 *Yepeng Liu, Xuandong Zhao, Dawn Song, Yuheng Bu*
 
@@ -2538,9 +2350,7 @@ original dataset, all without compromising the performance of the RAG system.
 
 ---
 
-**[95. [2401.10360] Excuse me, sir? Your language model is leaking (information)](https://arxiv.org/pdf/2401.10360.pdf)**
-
-Updated on 2024-11-19
+**[95. [2401.10360] Excuse me, sir? Your language model is leaking (information)](https://arxiv.org/pdf/2401.10360.pdf)** (Updated on 2024-11-19)
 
 *Or Zamir*
 
@@ -2557,9 +2367,7 @@ LLMs.
 ---
 
 **[96. [2402.15109] Remaining-data-free Machine Unlearning by Suppressing Sample
-  Contribution](https://arxiv.org/pdf/2402.15109.pdf)**
-
-Updated on 2024-12-09
+  Contribution](https://arxiv.org/pdf/2402.15109.pdf)** (Updated on 2024-12-09)
 
 *Xinwen Cheng, Zhehao Huang, Wenxin Zhou, Zhengbao He, Ruikai Yang, Yingwen Wu, Xiaolin Huang*
 
@@ -2584,9 +2392,7 @@ first time that a remaining-data-free method can outperform state-of-the-art
 ---
 
 **[97. [2402.11846] UnlearnCanvas: Stylized Image Dataset for Enhanced Machine Unlearning
-  Evaluation in Diffusion Models](https://arxiv.org/pdf/2402.11846.pdf)**
-
-Updated on 2024-10-31
+  Evaluation in Diffusion Models](https://arxiv.org/pdf/2402.11846.pdf)** (Updated on 2024-10-31)
 
 *Yihua Zhang, Chongyu Fan, Yimeng Zhang, Yuguang Yao, Jinghan Jia, Jiancheng Liu, Gaoyuan Zhang, Gaowen Liu, Ramana Rao Kompella, Xiaoming Liu, Sijia Liu*
 
@@ -2616,9 +2422,7 @@ codes are publicly available at https://unlearn-canvas.netlify.app/.
 ---
 
 **[98. [2407.06411] If You Don't Understand It, Don't Use It: Eliminating Trojans with
-  Filters Between Layers](https://arxiv.org/pdf/2407.06411.pdf)**
-
-Updated on 2024-07-10
+  Filters Between Layers](https://arxiv.org/pdf/2407.06411.pdf)** (Updated on 2024-07-10)
 
 *Adriano Hernandez*
 
@@ -2640,9 +2444,7 @@ the latest layers.
 ---
 
 **[99. [2503.01539] Pragmatic Inference Chain (PIC) Improving LLMs' Reasoning of Authentic
-  Implicit Toxic Language](https://arxiv.org/pdf/2503.01539.pdf)**
-
-Updated on 2025-03-04
+  Implicit Toxic Language](https://arxiv.org/pdf/2503.01539.pdf)** (Updated on 2025-03-04)
 
 *Xi Chen, Shuo Wang*
 
@@ -2669,9 +2471,7 @@ tasks, e.g., understanding humour and metaphors.
 ---
 
 **[100. [2408.10718] CodeJudge-Eval: Can Large Language Models be Good Judges in Code
-  Understanding?](https://arxiv.org/pdf/2408.10718.pdf)**
-
-Updated on 2024-09-16
+  Understanding?](https://arxiv.org/pdf/2408.10718.pdf)** (Updated on 2024-09-16)
 
 *Yuwei Zhao, Ziyang Luo, Yuchen Tian, Hongzhan Lin, Weixiang Yan, Annan Li, Jing Ma*
 
@@ -2694,9 +2494,7 @@ models' code understanding abilities. Our codes and benchmark are available at
 ---
 
 **[101. [2504.10185] LLM Unlearning Reveals a Stronger-Than-Expected Coreset Effect in
-  Current Benchmarks](https://arxiv.org/pdf/2504.10185.pdf)**
-
-Updated on 2025-04-17
+  Current Benchmarks](https://arxiv.org/pdf/2504.10185.pdf)** (Updated on 2025-04-17)
 
 *Soumyadeep Pal, Changsheng Wang, James Diffenderfer, Bhavya Kailkhura, Sijia Liu*
 
@@ -2731,9 +2529,7 @@ https://github.com/OPTML-Group/MU-Coreset.
 ---
 
 **[102. [2310.18574] Breaking the Trilemma of Privacy, Utility, Efficiency via Controllable
-  Machine Unlearning](https://arxiv.org/pdf/2310.18574.pdf)**
-
-Updated on 2024-02-23
+  Machine Unlearning](https://arxiv.org/pdf/2310.18574.pdf)** (Updated on 2024-02-23)
 
 *Zheyuan Liu, Guangyao Dou, Yijun Tian, Chunhui Zhang, Eli Chien, Ziwei Zhu*
 
@@ -2764,9 +2560,7 @@ https://github.com/guangyaodou/ConMU.
 ---
 
 **[103. [2410.00382] Answer When Needed, Forget When Not: Language Models Pretend to Forget
-  via In-Context Knowledge Unlearning](https://arxiv.org/pdf/2410.00382.pdf)**
-
-Updated on 2024-10-02
+  via In-Context Knowledge Unlearning](https://arxiv.org/pdf/2410.00382.pdf)** (Updated on 2024-10-02)
 
 *Shota Takashiro, Takeshi Kojima, Andrew Gambardella, Qi Cao, Yusuke Iwasawa, Yutaka Matsuo*
 
@@ -2794,9 +2588,7 @@ mechanisms in LLMs, setting a foundation for future research in the field.
 ---
 
 **[104. [2502.19726] Tokens for Learning, Tokens for Unlearning: Mitigating Membership
-  Inference Attacks in Large Language Models via Dual-Purpose Training](https://arxiv.org/pdf/2502.19726.pdf)**
-
-Updated on 2025-02-28
+  Inference Attacks in Large Language Models via Dual-Purpose Training](https://arxiv.org/pdf/2502.19726.pdf)** (Updated on 2025-02-28)
 
 *Toan Tran, Ruixuan Liu, Li Xiong*
 
@@ -2823,9 +2615,7 @@ datasets compared to the baselines.
 ---
 
 **[105. [2502.16691] Toward Responsible Federated Large Language Models: Leveraging a Safety
-  Filter and Constitutional AI](https://arxiv.org/pdf/2502.16691.pdf)**
-
-Updated on 2025-02-25
+  Filter and Constitutional AI](https://arxiv.org/pdf/2502.16691.pdf)** (Updated on 2025-02-25)
 
 *Eunchung Noh, Jeonghun Baek*
 
@@ -2844,9 +2634,7 @@ benchmark for evaluating safety performance.
 
 ---
 
-**[106. [2310.20150] Unlearn What You Want to Forget: Efficient Unlearning for LLMs](https://arxiv.org/pdf/2310.20150.pdf)**
-
-Updated on 2023-11-01
+**[106. [2310.20150] Unlearn What You Want to Forget: Efficient Unlearning for LLMs](https://arxiv.org/pdf/2310.20150.pdf)** (Updated on 2023-11-01)
 
 *Jiaao Chen, Diyi Yang*
 
@@ -2870,9 +2658,7 @@ baselines.
 ---
 
 **[107. [2409.04459] WET: Overcoming Paraphrasing Vulnerabilities in Embeddings-as-a-Service
-  with Linear Transformation Watermarks](https://arxiv.org/pdf/2409.04459.pdf)**
-
-Updated on 2024-09-10
+  with Linear Transformation Watermarks](https://arxiv.org/pdf/2409.04459.pdf)** (Updated on 2024-09-10)
 
 *Anudeex Shetty, Qiongkai Xu, Jey Han Lau*
 
@@ -2891,9 +2677,7 @@ paraphrasing.
 ---
 
 **[108. [2310.02469] PrivacyMind: Large Language Models Can Be Contextual Privacy Protection
-  Learners](https://arxiv.org/pdf/2310.02469.pdf)**
-
-Updated on 2024-10-29
+  Learners](https://arxiv.org/pdf/2310.02469.pdf)** (Updated on 2024-10-29)
 
 *Yijia Xiao, Yiqiao Jin, Yushi Bai, Yue Wu, Xianjun Yang, Xiao Luo, Wenchao Yu, Xujiang Zhao, Yanchi Liu, Quanquan Gu, Haifeng Chen, Wei Wang, Wei Cheng*
 
@@ -2920,9 +2704,7 @@ data for the work can be found at https://github.com/Yijia-Xiao/PrivacyMind.
 ---
 
 **[109. [2408.05968] Nob-MIAs: Non-biased Membership Inference Attacks Assessment on Large
-  Language Models with Ex-Post Dataset Construction](https://arxiv.org/pdf/2408.05968.pdf)**
-
-Updated on 2025-01-17
+  Language Models with Ex-Post Dataset Construction](https://arxiv.org/pdf/2408.05968.pdf)** (Updated on 2025-01-17)
 
 *Cédric Eichler, Nathan Champeil, Nicolas Anciaux, Alexandra Bensamoun, Heber Hwang Arcolezi, José Maria De Fuentes*
 
@@ -2948,9 +2730,7 @@ bias is removed.
 
 ---
 
-**[110. [2411.02631] Extracting Unlearned Information from LLMs with Activation Steering](https://arxiv.org/pdf/2411.02631.pdf)**
-
-Updated on 2024-11-06
+**[110. [2411.02631] Extracting Unlearned Information from LLMs with Activation Steering](https://arxiv.org/pdf/2411.02631.pdf)** (Updated on 2024-11-06)
 
 *Atakan Seyitoğlu, Aleksei Kuvshinov, Leo Schwinn, Stephan Günnemann*
 
@@ -2978,9 +2758,7 @@ vulnerability of current unlearning techniques.
 ---
 
 **[111. [2305.10036] Are You Copying My Model? Protecting the Copyright of Large Language
-  Models for EaaS via Backdoor Watermark](https://arxiv.org/pdf/2305.10036.pdf)**
-
-Updated on 2023-06-05
+  Models for EaaS via Backdoor Watermark](https://arxiv.org/pdf/2305.10036.pdf)** (Updated on 2023-06-05)
 
 *Wenjun Peng, Jingwei Yi, Fangzhao Wu, Shangxi Wu, Bin Zhu, Lingjuan Lyu, Binxing Jiao, Tong Xu, Guangzhong Sun, Xing Xie*
 
@@ -3005,9 +2783,7 @@ EaaS models without compromising service quality.
 
 ---
 
-**[112. [2402.13459] Learning to Poison Large Language Models During Instruction Tuning](https://arxiv.org/pdf/2402.13459.pdf)**
-
-Updated on 2024-10-24
+**[112. [2402.13459] Learning to Poison Large Language Models During Instruction Tuning](https://arxiv.org/pdf/2402.13459.pdf)** (Updated on 2024-10-24)
 
 *Yao Qiang, Xiangyu Zhou, Saleh Zare Zade, Mohammad Amin Roshani, Prashant Khanduri, Douglas Zytko, Dongxiao Zhu*
 
@@ -3034,9 +2810,7 @@ safeguarding LLMs against data poisoning attacks.
 ---
 
 **[113. [2406.06571] SUBLLM: A Novel Efficient Architecture with Token Sequence Subsampling
-  for LLM](https://arxiv.org/pdf/2406.06571.pdf)**
-
-Updated on 2024-08-26
+  for LLM](https://arxiv.org/pdf/2406.06571.pdf)** (Updated on 2024-08-26)
 
 *Quandong Wang, Yuxuan Yuan, Xiaoyu Yang, Ruike Zhang, Kang Zhao, Wei Liu, Jian Luan, Daniel Povey, Bin Wang*
 
@@ -3060,9 +2834,7 @@ available at https://github.com/XiaoMi/subllm.
 ---
 
 **[114. [2503.21598] Prompt, Divide, and Conquer: Bypassing Large Language Model Safety
-  Filters via Segmented and Distributed Prompt Processing](https://arxiv.org/pdf/2503.21598.pdf)**
-
-Updated on 2025-04-01
+  Filters via Segmented and Distributed Prompt Processing](https://arxiv.org/pdf/2503.21598.pdf)** (Updated on 2025-04-01)
 
 *Johan Wahréus, Ahmed Hussain, Panos Papadimitratos*
 
@@ -3087,9 +2859,7 @@ evaluation methodologies in assessing jailbreak attempts.
 ---
 
 **[115. [2412.13879] Crabs: Consuming Resource via Auto-generation for LLM-DoS Attack under
-  Black-box Settings](https://arxiv.org/pdf/2412.13879.pdf)**
-
-Updated on 2025-02-19
+  Black-box Settings](https://arxiv.org/pdf/2412.13879.pdf)** (Updated on 2025-02-19)
 
 *Yuanhe Zhang, Zhenhong Zhou, Wei Zhang, Xinyue Wang, Xiaojun Jia, Yang Liu, Sen Su*
 
@@ -3115,9 +2885,7 @@ https://github.com/shuita2333/AutoDoS.
 ---
 
 **[116. [2503.22760] Malicious and Unintentional Disclosure Risks in Large Language Models
-  for Code Generation](https://arxiv.org/pdf/2503.22760.pdf)**
-
-Updated on 2025-04-01
+  for Code Generation](https://arxiv.org/pdf/2503.22760.pdf)** (Updated on 2025-04-01)
 
 *Rafiqul Rabin, Sean McGregor, Nick Judd*
 
@@ -3145,9 +2913,7 @@ testing required for the LLM training data supply chain.
 
 ---
 
-**[117. [2305.01639] Privacy-Preserving In-Context Learning for Large Language Models](https://arxiv.org/pdf/2305.01639.pdf)**
-
-Updated on 2023-10-03
+**[117. [2305.01639] Privacy-Preserving In-Context Learning for Large Language Models](https://arxiv.org/pdf/2305.01639.pdf)** (Updated on 2023-10-03)
 
 *Tong Wu, Ashwinee Panda, Jiachen T. Wang, Prateek Mittal*
 
@@ -3169,9 +2935,7 @@ achieves a strong utility-privacy tradeoff.
 ---
 
 **[118. [2502.19785] SCU: An Efficient Machine Unlearning Scheme for Deep Learning Enabled
-  Semantic Communications](https://arxiv.org/pdf/2502.19785.pdf)**
-
-Updated on 2025-02-28
+  Semantic Communications](https://arxiv.org/pdf/2502.19785.pdf)** (Updated on 2025-02-28)
 
 *Weiqi Wang, Zhiyi Tian, Chenhan Zhang, Shui Yu*
 
@@ -3200,9 +2964,7 @@ effectiveness and efficiency of our proposed methods.
 ---
 
 **[119. [2311.09827] Cognitive Overload: Jailbreaking Large Language Models with Overloaded
-  Logical Thinking](https://arxiv.org/pdf/2311.09827.pdf)**
-
-Updated on 2024-03-01
+  Logical Thinking](https://arxiv.org/pdf/2311.09827.pdf)** (Updated on 2024-03-01)
 
 *Nan Xu, Fei Wang, Ben Zhou, Bang Zheng Li, Chaowei Xiao, Muhao Chen*
 
@@ -3227,9 +2989,7 @@ defense strategies can hardly mitigate the caused malicious uses effectively.
 
 ---
 
-**[120. [2410.21723] Fine-tuning Large Language Models for DGA and DNS Exfiltration Detection](https://arxiv.org/pdf/2410.21723.pdf)**
-
-Updated on 2024-11-08
+**[120. [2410.21723] Fine-tuning Large Language Models for DGA and DNS Exfiltration Detection](https://arxiv.org/pdf/2410.21723.pdf)** (Updated on 2024-11-08)
 
 *Md Abu Sayed, Asif Rahman, Christopher Kiekintveld, Sebastian Garcia*
 
@@ -3252,9 +3012,7 @@ LLMs for DGA and DNS exfiltration detection.
 
 ---
 
-**[121. [2403.05156] On Protecting the Data Privacy of Large Language Models (LLMs): A Survey](https://arxiv.org/pdf/2403.05156.pdf)**
-
-Updated on 2024-03-15
+**[121. [2403.05156] On Protecting the Data Privacy of Large Language Models (LLMs): A Survey](https://arxiv.org/pdf/2403.05156.pdf)** (Updated on 2024-03-15)
 
 *Biwei Yan, Kun Li, Minghui Xu, Yueyan Dong, Yue Zhang, Zhaochun Ren, Xiuzhen Cheng*
 
@@ -3278,9 +3036,7 @@ LLM privacy protection.
 ---
 
 **[122. [2406.16810] How Data Inter-connectivity Shapes LLMs Unlearning: A Structural
-  Unlearning Perspective](https://arxiv.org/pdf/2406.16810.pdf)**
-
-Updated on 2025-03-12
+  Unlearning Perspective](https://arxiv.org/pdf/2406.16810.pdf)** (Updated on 2025-03-12)
 
 *Xinchi Qiu, William F. Shen, Yihong Chen, Meghdad Kurmanji, Nicola Cancedda, Pontus Stenetorp, Nicholas D. Lane*
 
@@ -3306,9 +3062,7 @@ performance across all domains is challenging.
 ---
 
 **[123. [2406.01983] RKLD: Reverse KL-Divergence-based Knowledge Distillation for Unlearning
-  Personal Information in Large Language Models](https://arxiv.org/pdf/2406.01983.pdf)**
-
-Updated on 2024-06-05
+  Personal Information in Large Language Models](https://arxiv.org/pdf/2406.01983.pdf)** (Updated on 2024-06-05)
 
 *Bichen Wang, Yuzhe Zi, Yixin Sun, Yanyan Zhao, Bing Qin*
 
@@ -3332,9 +3086,7 @@ the model utility in our experiments.
 ---
 
 **[124. [2502.07340] Aligning Large Language Models to Follow Instructions and Hallucinate
-  Less via Effective Data Filtering](https://arxiv.org/pdf/2502.07340.pdf)**
-
-Updated on 2025-02-18
+  Less via Effective Data Filtering](https://arxiv.org/pdf/2502.07340.pdf)** (Updated on 2025-02-18)
 
 *Shuzheng Si, Haozhe Zhao, Gang Chen, Cheng Gao, Yuzhuo Bai, Zhitong Wang, Kaikai An, Kangyang Luo, Chen Qian, Fanchao Qi, Baobao Chang, Maosong Sun*
 
@@ -3358,9 +3110,7 @@ LLMs to follow instructions and hallucinate less.
 ---
 
 **[125. [2410.13903] CoreGuard: Safeguarding Foundational Capabilities of LLMs Against Model
-  Stealing in Edge Deployment](https://arxiv.org/pdf/2410.13903.pdf)**
-
-Updated on 2024-10-21
+  Stealing in Edge Deployment](https://arxiv.org/pdf/2410.13903.pdf)** (Updated on 2024-10-21)
 
 *Qinfeng Li, Yangfan Xie, Tianyu Du, Zhiqiang Shen, Zhenghan Qin, Hao Peng, Xinkui Zhao, Xianwei Zhu, Jianwei Yin, Xuhong Zhang*
 
@@ -3387,9 +3137,7 @@ protection as the black-box security guarantees with negligible overhead.
 ---
 
 **[126. [2405.15234] Defensive Unlearning with Adversarial Training for Robust Concept
-  Erasure in Diffusion Models](https://arxiv.org/pdf/2405.15234.pdf)**
-
-Updated on 2024-10-10
+  Erasure in Diffusion Models](https://arxiv.org/pdf/2405.15234.pdf)** (Updated on 2024-10-10)
 
 *Yimeng Zhang, Xin Chen, Jinghan Jia, Yihua Zhang, Chongyu Fan, Jiancheng Liu, Mingyi Hong, Ke Ding, Sijia Liu*
 
@@ -3423,9 +3171,7 @@ Codes are available at: https://github.com/OPTML-Group/AdvUnlearn
 ---
 
 **[127. [2501.19202] Improving the Robustness of Representation Misdirection for Large
-  Language Model Unlearning](https://arxiv.org/pdf/2501.19202.pdf)**
-
-Updated on 2025-02-04
+  Language Model Unlearning](https://arxiv.org/pdf/2501.19202.pdf)** (Updated on 2025-02-04)
 
 *Dang Huu-Tien, Hoang Thanh-Tung, Le-Minh Nguyen, Naoya Inoue*
 
@@ -3445,9 +3191,7 @@ the robustness of RM models while enhancing the unlearning performances.
 
 ---
 
-**[128. [2310.02238] Who's Harry Potter? Approximate Unlearning in LLMs](https://arxiv.org/pdf/2310.02238.pdf)**
-
-Updated on 2023-10-05
+**[128. [2310.02238] Who's Harry Potter? Approximate Unlearning in LLMs](https://arxiv.org/pdf/2310.02238.pdf)** (Updated on 2023-10-05)
 
 *Ronen Eldan, Mark Russinovich*
 
@@ -3480,9 +3224,7 @@ prompted with its context.
 
 ---
 
-**[129. [2410.14273] REEF: Representation Encoding Fingerprints for Large Language Models](https://arxiv.org/pdf/2410.14273.pdf)**
-
-Updated on 2024-10-21
+**[129. [2410.14273] REEF: Representation Encoding Fingerprints for Large Language Models](https://arxiv.org/pdf/2410.14273.pdf)** (Updated on 2024-10-21)
 
 *Jie Zhang, Dongrui Liu, Chen Qian, Linfeng Zhang, Yong Liu, Yu Qiao, Jing Shao*
 
@@ -3505,9 +3247,7 @@ https://github.com/tmylla/REEF.
 ---
 
 **[130. [2503.23566] When LLM Therapists Become Salespeople: Evaluating Large Language Models
-  for Ethical Motivational Interviewing](https://arxiv.org/pdf/2503.23566.pdf)**
-
-Updated on 2025-04-01
+  for Ethical Motivational Interviewing](https://arxiv.org/pdf/2503.23566.pdf)** (Updated on 2025-04-01)
 
 *Haein Kong, Seonghyeon Moon*
 
@@ -3531,9 +3271,7 @@ guidelines for building ethical LLM-powered psychotherapy.
 ---
 
 **[131. [2403.03536] Towards Efficient and Effective Unlearning of Large Language Models for
-  Recommendation](https://arxiv.org/pdf/2403.03536.pdf)**
-
-Updated on 2024-07-02
+  Recommendation](https://arxiv.org/pdf/2403.03536.pdf)** (Updated on 2024-07-02)
 
 *Hangyu Wang, Jianghao Lin, Bo Chen, Yang Yang, Ruiming Tang, Weinan Zhang, Yong Yu*
 
@@ -3564,9 +3302,7 @@ recommendation performance. The source code is at
 ---
 
 **[132. [2406.18326] PaCoST: Paired Confidence Significance Testing for Benchmark
-  Contamination Detection in Large Language Models](https://arxiv.org/pdf/2406.18326.pdf)**
-
-Updated on 2025-03-19
+  Contamination Detection in Large Language Models](https://arxiv.org/pdf/2406.18326.pdf)** (Updated on 2025-03-19)
 
 *Huixuan Zhang, Yun Lin, Xiaojun Wan*
 
@@ -3590,9 +3326,7 @@ for new LLM evaluation methods.
 ---
 
 **[133. [2406.12329] Opt-Out: Investigating Entity-Level Unlearning for Large Language Models
-  via Optimal Transport](https://arxiv.org/pdf/2406.12329.pdf)**
-
-Updated on 2024-12-05
+  via Optimal Transport](https://arxiv.org/pdf/2406.12329.pdf)** (Updated on 2024-12-05)
 
 *Minseok Choi, Daniel Rim, Dohyun Lee, Jaegul Choo*
 
@@ -3618,9 +3352,7 @@ need for full retraining.
 ---
 
 **[134. [2308.08090] Separate the Wheat from the Chaff: Model Deficiency Unlearning via
-  Parameter-Efficient Module Operation](https://arxiv.org/pdf/2308.08090.pdf)**
-
-Updated on 2024-01-19
+  Parameter-Efficient Module Operation](https://arxiv.org/pdf/2308.08090.pdf)** (Updated on 2024-01-19)
 
 *Xinshuo Hu, Dongfang Li, Baotian Hu, Zihao Zheng, Zhenyu Liu, Min Zhang*
 
@@ -3647,9 +3379,7 @@ preserving the fundamental abilities of LLMs.
 ---
 
 **[135. [2310.14444] URegM: a unified prediction model of resource consumption for
-  refactoring software smells in open source cloud](https://arxiv.org/pdf/2310.14444.pdf)**
-
-Updated on 2023-10-24
+  refactoring software smells in open source cloud](https://arxiv.org/pdf/2310.14444.pdf)** (Updated on 2023-10-24)
 
 *Asif Imran, Tevfik Kosar*
 
@@ -3676,9 +3406,7 @@ more effectively.
 ---
 
 **[136. [2412.15194] MMLU-CF: A Contamination-free Multi-task Language Understanding
-  Benchmark](https://arxiv.org/pdf/2412.15194.pdf)**
-
-Updated on 2024-12-20
+  Benchmark](https://arxiv.org/pdf/2412.15194.pdf)** (Updated on 2024-12-20)
 
 *Qihao Zhao, Yangyu Huang, Tengchao Lv, Lei Cui, Qinzheng Sun, Shaoguang Mao, Xin Zhang, Ying Xin, Qiufeng Yin, Scarlett Li, Furu Wei*
 
@@ -3707,9 +3435,7 @@ https://huggingface.co/datasets/microsoft/MMLU-CF.
 ---
 
 **[137. [2403.10557] Second-Order Information Matters: Revisiting Machine Unlearning for
-  Large Language Models](https://arxiv.org/pdf/2403.10557.pdf)**
-
-Updated on 2024-03-19
+  Large Language Models](https://arxiv.org/pdf/2403.10557.pdf)** (Updated on 2024-03-19)
 
 *Kang Gu, Md Rafi Ur Rashid, Najrin Sultana, Shagufta Mehnaz*
 
@@ -3735,9 +3461,7 @@ first-order methods.
 ---
 
 **[138. [2407.10582] Boosting Zero-Shot Crosslingual Performance using LLM-Based
-  Augmentations with Effective Data Selection](https://arxiv.org/pdf/2407.10582.pdf)**
-
-Updated on 2024-07-16
+  Augmentations with Effective Data Selection](https://arxiv.org/pdf/2407.10582.pdf)** (Updated on 2024-07-16)
 
 *Barah Fazili, Ashish Sunil Agrawal, Preethi Jyothi*
 
@@ -3760,9 +3484,7 @@ number of target languages (Hindi, Marathi, Urdu, Swahili) and domains.
 
 ---
 
-**[139. [2407.10058] Learning to Refuse: Towards Mitigating Privacy Risks in LLMs](https://arxiv.org/pdf/2407.10058.pdf)**
-
-Updated on 2024-09-17
+**[139. [2407.10058] Learning to Refuse: Towards Mitigating Privacy Risks in LLMs](https://arxiv.org/pdf/2407.10058.pdf)** (Updated on 2024-09-17)
 
 *Zhenhua Liu, Tong Zhu, Chuanyuan Tan, Wenliang Chen*
 
@@ -3785,9 +3507,7 @@ while maintaining the model's general capabilities.
 
 ---
 
-**[140. [2504.00018] SandboxEval: Towards Securing Test Environment for Untrusted Code](https://arxiv.org/pdf/2504.00018.pdf)**
-
-Updated on 2025-04-02
+**[140. [2504.00018] SandboxEval: Towards Securing Test Environment for Untrusted Code](https://arxiv.org/pdf/2504.00018.pdf)** (Updated on 2025-04-02)
 
 *Rafiqul Rabin, Jesse Hostetler, Sean McGregor, Brett Weir, Nick Judd*
 
@@ -3815,9 +3535,7 @@ activities.
 ---
 
 **[141. [2410.14425] Unlearning Backdoor Attacks for LLMs with Weak-to-Strong Knowledge
-  Distillation](https://arxiv.org/pdf/2410.14425.pdf)**
-
-Updated on 2024-10-21
+  Distillation](https://arxiv.org/pdf/2410.14425.pdf)** (Updated on 2024-10-21)
 
 *Shuai Zhao, Xiaobao Wu, Cong-Duy Nguyen, Meihuizi Jia, Yichao Feng, Luu Anh Tuan*
 
@@ -3843,9 +3561,7 @@ performance.
 ---
 
 **[142. [2305.04547] Diffusion Theory as a Scalpel: Detecting and Purifying Poisonous
-  Dimensions in Pre-trained Language Models Caused by Backdoor or Bias](https://arxiv.org/pdf/2305.04547.pdf)**
-
-Updated on 2023-05-09
+  Dimensions in Pre-trained Language Models Caused by Backdoor or Bias](https://arxiv.org/pdf/2305.04547.pdf)** (Updated on 2023-05-09)
 
 *Zhiyuan Zhang, Deli Chen, Hao Zhou, Fandong Meng, Jie Zhou, Xu Sun*
 
@@ -3867,9 +3583,7 @@ Fine-purifying even with a small clean dataset.
 ---
 
 **[143. [2312.16823] Layer Attack Unlearning: Fast and Accurate Machine Unlearning via Layer
-  Level Attack and Knowledge Distillation](https://arxiv.org/pdf/2312.16823.pdf)**
-
-Updated on 2023-12-29
+  Level Attack and Knowledge Distillation](https://arxiv.org/pdf/2312.16823.pdf)** (Updated on 2023-12-29)
 
 *Hyunjune Kim, Sangyong Lee, Simon S. Woo*
 
@@ -3894,9 +3608,7 @@ accuracy and end-to-end unlearning performance.
 
 ---
 
-**[144. [2311.18815] IMMA: Immunizing text-to-image Models against Malicious Adaptation](https://arxiv.org/pdf/2311.18815.pdf)**
-
-Updated on 2024-10-01
+**[144. [2311.18815] IMMA: Immunizing text-to-image Models against Malicious Adaptation](https://arxiv.org/pdf/2311.18815.pdf)** (Updated on 2024-10-01)
 
 *Amber Yijia Zheng, Raymond A. Yeh*
 
@@ -3918,9 +3630,7 @@ methods: LoRA, Textual-Inversion, and DreamBooth. The code is available at
 ---
 
 **[145. [2311.16822] Large Language Models Suffer From Their Own Output: An Analysis of the
-  Self-Consuming Training Loop](https://arxiv.org/pdf/2311.16822.pdf)**
-
-Updated on 2024-06-18
+  Self-Consuming Training Loop](https://arxiv.org/pdf/2311.16822.pdf)** (Updated on 2024-06-18)
 
 *Martin Briesch, Dominik Sobania, Franz Rothlauf*
 
@@ -3945,9 +3655,7 @@ encourage researchers to study methods to negate this process.
 ---
 
 **[146. [2501.10915] LegalGuardian: A Privacy-Preserving Framework for Secure Integration of
-  Large Language Models in Legal Practice](https://arxiv.org/pdf/2501.10915.pdf)**
-
-Updated on 2025-01-22
+  Large Language Models in Legal Practice](https://arxiv.org/pdf/2501.10915.pdf)** (Updated on 2025-01-22)
 
 *M. Mikail Demir, Hakan T. Otal, M. Abdullah Canbaz*
 
@@ -3973,9 +3681,7 @@ the quality of legal documents.
 ---
 
 **[147. [2403.09681] ViT-MUL: A Baseline Study on Recent Machine Unlearning Methods Applied
-  to Vision Transformers](https://arxiv.org/pdf/2403.09681.pdf)**
-
-Updated on 2024-03-18
+  to Vision Transformers](https://arxiv.org/pdf/2403.09681.pdf)** (Updated on 2024-03-18)
 
 *Ikhyun Cho, Changyeon Park, Julia Hockenmaier*
 
@@ -3992,9 +3698,7 @@ could provide valuable insights and inspire further research in this field.
 
 ---
 
-**[148. [2403.03883] SaulLM-7B: A pioneering Large Language Model for Law](https://arxiv.org/pdf/2403.03883.pdf)**
-
-Updated on 2024-03-08
+**[148. [2403.03883] SaulLM-7B: A pioneering Large Language Model for Law](https://arxiv.org/pdf/2403.03883.pdf)** (Updated on 2024-03-08)
 
 *Pierre Colombo, Telmo Pessoa Pires, Malik Boudiaf, Dominic Culver, Rui Melo, Caio Corro, Andre F. T. Martins, Fabrizio Esposito, Vera Lúcia Raposo, Sofia Morgado, Michael Desa*
 
@@ -4011,9 +3715,7 @@ released under the MIT License.
 
 ---
 
-**[149. [2311.05553] Removing RLHF Protections in GPT-4 via Fine-Tuning](https://arxiv.org/pdf/2311.05553.pdf)**
-
-Updated on 2024-04-09
+**[149. [2311.05553] Removing RLHF Protections in GPT-4 via Fine-Tuning](https://arxiv.org/pdf/2311.05553.pdf)** (Updated on 2024-04-09)
 
 *Qiusi Zhan, Richard Fang, Rohan Bindu, Akul Gupta, Tatsunori Hashimoto, Daniel Kang*
 
@@ -4035,9 +3737,7 @@ further research on protections on LLMs.
 
 ---
 
-**[150. [2306.06815] TrojLLM: A Black-box Trojan Prompt Attack on Large Language Models](https://arxiv.org/pdf/2306.06815.pdf)**
-
-Updated on 2023-11-01
+**[150. [2306.06815] TrojLLM: A Black-box Trojan Prompt Attack on Large Language Models](https://arxiv.org/pdf/2306.06815.pdf)** (Updated on 2023-11-01)
 
 *Jiaqi Xue, Mengxin Zheng, Ting Hua, Yilin Shen, Yepeng Liu, Ladislau Boloni, Qian Lou*
 
@@ -4066,9 +3766,7 @@ https://github.com/UCF-ML-Research/TrojLLM.
 ---
 
 **[151. [2502.05374] Towards LLM Unlearning Resilient to Relearning Attacks: A
-  Sharpness-Aware Minimization Perspective and Beyond](https://arxiv.org/pdf/2502.05374.pdf)**
-
-Updated on 2025-03-26
+  Sharpness-Aware Minimization Perspective and Beyond](https://arxiv.org/pdf/2502.05374.pdf)** (Updated on 2025-03-26)
 
 *Chongyu Fan, Jinghan Jia, Yihua Zhang, Anil Ramakrishna, Mingyi Hong, Sijia Liu*
 
@@ -4095,9 +3793,7 @@ https://github.com/OPTML-Group/Unlearn-Smooth.
 
 ---
 
-**[152. [2312.07910] PromptBench: A Unified Library for Evaluation of Large Language Models](https://arxiv.org/pdf/2312.07910.pdf)**
-
-Updated on 2024-08-21
+**[152. [2312.07910] PromptBench: A Unified Library for Evaluation of Large Language Models](https://arxiv.org/pdf/2312.07910.pdf)** (Updated on 2024-08-21)
 
 *Kaijie Zhu, Qinlin Zhao, Hao Chen, Jindong Wang, Xing Xie*
 
@@ -4117,9 +3813,7 @@ supported.
 ---
 
 **[153. [2501.18280] Jailbreaking LLMs' Safeguard with Universal Magic Words for Text
-  Embedding Models](https://arxiv.org/pdf/2501.18280.pdf)**
-
-Updated on 2025-02-11
+  Embedding Models](https://arxiv.org/pdf/2501.18280.pdf)** (Updated on 2025-02-11)
 
 *Haoyu Liang, Youran Sun, Yunfeng Cai, Jun Zhu, Bo Zhang*
 
@@ -4141,9 +3835,7 @@ manner.
 
 ---
 
-**[154. [2412.06846] Classifier-free guidance in LLMs Safety](https://arxiv.org/pdf/2412.06846.pdf)**
-
-Updated on 2024-12-11
+**[154. [2412.06846] Classifier-free guidance in LLMs Safety](https://arxiv.org/pdf/2412.06846.pdf)** (Updated on 2024-12-11)
 
 *Roman Smirnov*
 
@@ -4158,9 +3850,7 @@ NeurIPS 2024 LLM-PC submission, which was awarded second prize.
 
 ---
 
-**[155. [2309.01446] Open Sesame! Universal Black Box Jailbreaking of Large Language Models](https://arxiv.org/pdf/2309.01446.pdf)**
-
-Updated on 2024-08-06
+**[155. [2309.01446] Open Sesame! Universal Black Box Jailbreaking of Large Language Models](https://arxiv.org/pdf/2309.01446.pdf)** (Updated on 2024-08-06)
 
 *Raz Lapid, Ron Langberg, Moshe Sipper*
 
@@ -4184,9 +3874,7 @@ this is the first automated universal black box jailbreak attack.
 ---
 
 **[156. [2412.16039] SafeCFG: Redirecting Harmful Classifier-Free Guidance for Safe
-  Generation](https://arxiv.org/pdf/2412.16039.pdf)**
-
-Updated on 2024-12-23
+  Generation](https://arxiv.org/pdf/2412.16039.pdf)** (Updated on 2024-12-23)
 
 *Jiadong Pan, Hongcheng Gao, Liang Li, Zheng-Jun Zha, Qingming Huang, Jiebo Luo*
 
@@ -4213,9 +3901,7 @@ performance. The codes will be publicly available.
 
 ---
 
-**[157. [2307.14810] A Differential Datalog Interpreter](https://arxiv.org/pdf/2307.14810.pdf)**
-
-Updated on 2023-08-24
+**[157. [2307.14810] A Differential Datalog Interpreter](https://arxiv.org/pdf/2307.14810.pdf)** (Updated on 2023-08-24)
 
 *Matthew Stephenson*
 
@@ -4224,9 +3910,7 @@ Updated on 2023-08-24
 
 ---
 
-**[158. [2007.03548] Breaking and Fixing Destructive Code Read Defenses](https://arxiv.org/pdf/2007.03548.pdf)**
-
-Updated on 2020-07-08
+**[158. [2007.03548] Breaking and Fixing Destructive Code Read Defenses](https://arxiv.org/pdf/2007.03548.pdf)** (Updated on 2020-07-08)
 
 *Jannik Pewny, Philipp Koppe, Lucas Davi, Thorsten Holz*
 
@@ -4250,9 +3934,7 @@ overhead of 3.95% on SPEC.
 
 ---
 
-**[159. [2410.22108] Protecting Privacy in Multimodal Large Language Models with MLLMU-Bench](https://arxiv.org/pdf/2410.22108.pdf)**
-
-Updated on 2025-02-18
+**[159. [2410.22108] Protecting Privacy in Multimodal Large Language Models with MLLMU-Bench](https://arxiv.org/pdf/2410.22108.pdf)** (Updated on 2025-02-18)
 
 *Zheyuan Liu, Guangyao Dou, Mengzhao Jia, Zhaoxuan Tan, Qingkai Zeng, Yongle Yuan, Meng Jiang*
 
@@ -4277,9 +3959,7 @@ inputs.
 
 ---
 
-**[160. [2408.02946] Data Poisoning in LLMs: Jailbreak-Tuning and Scaling Laws](https://arxiv.org/pdf/2408.02946.pdf)**
-
-Updated on 2024-12-31
+**[160. [2408.02946] Data Poisoning in LLMs: Jailbreak-Tuning and Scaling Laws](https://arxiv.org/pdf/2408.02946.pdf)** (Updated on 2024-12-31)
 
 *Dillon Bowen, Brendan Murphy, Will Cai, David Khachaturov, Adam Gleave, Kellin Pelrine*
 
@@ -4306,9 +3986,7 @@ poisoning, particularly as models continue to scale in size and capability.
 ---
 
 **[161. [2410.16848] ETHIC: Evaluating Large Language Models on Long-Context Tasks with High
-  Information Coverage](https://arxiv.org/pdf/2410.16848.pdf)**
-
-Updated on 2025-02-28
+  Information Coverage](https://arxiv.org/pdf/2410.16848.pdf)** (Updated on 2025-02-28)
 
 *Taewhoo Lee, Chanwoong Yoon, Kyochul Jang, Donghyeon Lee, Minju Song, Hyunjae Kim, Jaewoo Kang*
 
@@ -4333,9 +4011,7 @@ https://github.com/dmis-lab/ETHIC.
 
 ---
 
-**[162. [2311.02105] Making Harmful Behaviors Unlearnable for Large Language Models](https://arxiv.org/pdf/2311.02105.pdf)**
-
-Updated on 2023-11-07
+**[162. [2311.02105] Making Harmful Behaviors Unlearnable for Large Language Models](https://arxiv.org/pdf/2311.02105.pdf)** (Updated on 2023-11-07)
 
 *Xin Zhou, Yi Lu, Ruotian Ma, Tao Gui, Qi Zhang, Xuanjing Huang*
 
@@ -4363,9 +4039,7 @@ learn other useful information.
 ---
 
 **[163. [2405.05610] Chain of Attack: a Semantic-Driven Contextual Multi-Turn attacker for
-  LLM](https://arxiv.org/pdf/2405.05610.pdf)**
-
-Updated on 2024-05-10
+  LLM](https://arxiv.org/pdf/2405.05610.pdf)** (Updated on 2024-05-10)
 
 *Xikang Yang, Xuehai Tang, Songlin Hu, Jizhong Han*
 
@@ -4388,9 +4062,7 @@ security and ethical assessment of dialogue systems.
 ---
 
 **[164. [2406.09325] REVS: Unlearning Sensitive Information in Language Models via Rank
-  Editing in the Vocabulary Space](https://arxiv.org/pdf/2406.09325.pdf)**
-
-Updated on 2025-02-18
+  Editing in the Vocabulary Space](https://arxiv.org/pdf/2406.09325.pdf)** (Updated on 2025-02-18)
 
 *Tomer Ashuach, Martin Tutek, Yonatan Belinkov*
 
@@ -4411,9 +4083,7 @@ robustness to extraction attacks, while retaining underlying model integrity.
 
 ---
 
-**[165. [2406.01333] Probing Language Models for Pre-training Data Detection](https://arxiv.org/pdf/2406.01333.pdf)**
-
-Updated on 2024-06-04
+**[165. [2406.01333] Probing Language Models for Pre-training Data Detection](https://arxiv.org/pdf/2406.01333.pdf)** (Updated on 2024-06-04)
 
 *Zhenhua Liu, Tong Zhu, Chuanyuan Tan, Haonan Lu, Bing Liu, Wenliang Chen*
 
@@ -4436,9 +4106,7 @@ https://github.com/zhliu0106/probing-lm-data).
 
 ---
 
-**[166. [2411.10351] Bias Unveiled: Investigating Social Bias in LLM-Generated Code](https://arxiv.org/pdf/2411.10351.pdf)**
-
-Updated on 2025-03-10
+**[166. [2411.10351] Bias Unveiled: Investigating Social Bias in LLM-Generated Code](https://arxiv.org/pdf/2411.10351.pdf)** (Updated on 2025-03-10)
 
 *Lin Ling, Fazle Rabbi, Song Wang, Jinqiu Yang*
 
@@ -4462,9 +4130,7 @@ publicly available is highly extensible to evaluate new social problems.
 
 ---
 
-**[167. [2503.16740] Automated Harmfulness Testing for Code Large Language Models](https://arxiv.org/pdf/2503.16740.pdf)**
-
-Updated on 2025-03-24
+**[167. [2503.16740] Automated Harmfulness Testing for Code Large Language Models](https://arxiv.org/pdf/2503.16740.pdf)** (Updated on 2025-03-24)
 
 *Honghao Tan, Haibo Wang, Diany Pressato, Yisen Xu, Shin Hwei Tan*
 
@@ -4492,9 +4158,7 @@ improving moderation effectiveness by 483.76\%.
 ---
 
 **[168. [2309.10283] FRAMU: Attention-based Machine Unlearning using Federated Reinforcement
-  Learning](https://arxiv.org/pdf/2309.10283.pdf)**
-
-Updated on 2024-10-28
+  Learning](https://arxiv.org/pdf/2309.10283.pdf)** (Updated on 2024-10-28)
 
 *Thanveer Shaik, Xiaohui Tao, Lin Li, Haoran Xie, Taotao Cai, Xiaofeng Zhu, Qing Li*
 
@@ -4523,9 +4187,7 @@ while also addressing key challenges in dynamic data environments.
 ---
 
 **[169. [2412.07261] MemHunter: Automated and Verifiable Memorization Detection at
-  Dataset-scale in LLMs](https://arxiv.org/pdf/2412.07261.pdf)**
-
-Updated on 2025-02-18
+  Dataset-scale in LLMs](https://arxiv.org/pdf/2412.07261.pdf)** (Updated on 2025-02-18)
 
 *Zhenpeng Wu, Jian Lou, Zibin Zheng, Chuan Chen*
 
@@ -4552,9 +4214,7 @@ in LLMs powered by large-scale datasets.
 ---
 
 **[170. [2404.19048] A Framework for Real-time Safeguarding the Text Generation of Large
-  Language Model](https://arxiv.org/pdf/2404.19048.pdf)**
-
-Updated on 2024-05-03
+  Language Model](https://arxiv.org/pdf/2404.19048.pdf)** (Updated on 2024-05-03)
 
 *Ximing Dong, Dayi Lin, Shaowei Wang, Ahmed E. Hassan*
 
@@ -4587,9 +4247,7 @@ balance its effectiveness and efficiency.
 ---
 
 **[171. [2405.11466] Measuring Impacts of Poisoning on Model Parameters and Embeddings for
-  Large Language Models of Code](https://arxiv.org/pdf/2405.11466.pdf)**
-
-Updated on 2024-05-21
+  Large Language Models of Code](https://arxiv.org/pdf/2405.11466.pdf)** (Updated on 2024-05-21)
 
 *Aftab Hussain, Md Rafiqul Islam Rabin, Mohammad Amin Alipour*
 
@@ -4610,9 +4268,7 @@ embeddings.
 
 ---
 
-**[172. [2407.12504] Case2Code: Scalable Synthetic Data for Code Generation](https://arxiv.org/pdf/2407.12504.pdf)**
-
-Updated on 2025-02-11
+**[172. [2407.12504] Case2Code: Scalable Synthetic Data for Code Generation](https://arxiv.org/pdf/2407.12504.pdf)** (Updated on 2025-02-11)
 
 *Yunfan Shao, Linyang Li, Yichuan Ma, Peiji Li, Demin Song, Qinyuan Cheng, Shimin Li, Xiaonan Li, Pengyu Wang, Qipeng Guo, Hang Yan, Xipeng Qiu, Xuanjing Huang, Dahua Lin*
 
@@ -4636,9 +4292,7 @@ potential of large-scale synthetic data and inductive learning.
 
 ---
 
-**[173. [2408.04870] ConfusedPilot: Confused Deputy Risks in RAG-based LLMs](https://arxiv.org/pdf/2408.04870.pdf)**
-
-Updated on 2024-10-24
+**[173. [2408.04870] ConfusedPilot: Confused Deputy Risks in RAG-based LLMs](https://arxiv.org/pdf/2408.04870.pdf)** (Updated on 2024-10-24)
 
 *Ayush RoyChowdhury, Mulong Luo, Prateek Sahu, Sarbartha Banerjee, Mohit Tiwari*
 
@@ -4665,9 +4319,7 @@ systems and proposes design guidelines to secure future RAG-based systems.
 ---
 
 **[174. [2402.16893] The Good and The Bad: Exploring Privacy Issues in Retrieval-Augmented
-  Generation (RAG)](https://arxiv.org/pdf/2402.16893.pdf)**
-
-Updated on 2024-03-03
+  Generation (RAG)](https://arxiv.org/pdf/2402.16893.pdf)** (Updated on 2024-03-03)
 
 *Shenglai Zeng, Jiankun Zhang, Pengfei He, Yue Xing, Yiding Liu, Han Xu, Jie Ren, Shuaiqiang Wang, Dawei Yin, Yi Chang, Jiliang Tang*
 
@@ -4689,9 +4341,7 @@ https://github.com/phycholosogy/RAG-privacy.
 ---
 
 **[175. [2406.07036] Paying More Attention to Source Context: Mitigating Unfaithful
-  Translations from Large Language Model](https://arxiv.org/pdf/2406.07036.pdf)**
-
-Updated on 2024-06-12
+  Translations from Large Language Model](https://arxiv.org/pdf/2406.07036.pdf)** (Updated on 2024-06-12)
 
 *Hongbin Zhang, Kehai Chen, Xuefeng Bai, Yang Xiang, Min Zhang*
 
@@ -4714,9 +4364,7 @@ and facilitating faithful translation generation.
 
 ---
 
-**[176. [2410.16186] Contamination Report for Multilingual Benchmarks](https://arxiv.org/pdf/2410.16186.pdf)**
-
-Updated on 2024-10-22
+**[176. [2410.16186] Contamination Report for Multilingual Benchmarks](https://arxiv.org/pdf/2410.16186.pdf)** (Updated on 2024-10-22)
 
 *Sanchit Ahuja, Varun Gumma, Sunayana Sitaram*
 
@@ -4734,9 +4382,7 @@ best set of benchmarks to use for multilingual evaluation.
 
 ---
 
-**[177. [2403.00826] LLMGuard: Guarding Against Unsafe LLM Behavior](https://arxiv.org/pdf/2403.00826.pdf)**
-
-Updated on 2024-03-05
+**[177. [2403.00826] LLMGuard: Guarding Against Unsafe LLM Behavior](https://arxiv.org/pdf/2403.00826.pdf)** (Updated on 2024-03-05)
 
 *Shubh Goyal, Medha Hira, Shubham Mishra, Sukriti Goyal, Arnav Goel, Niharika Dadu, Kirushikesh DB, Sameep Mehta, Nishtha Madaan*
 
@@ -4751,9 +4397,7 @@ robustly, LLMGuard employs an ensemble of detectors.
 
 ---
 
-**[178. [2306.05670] One-Shot Machine Unlearning with Mnemonic Code](https://arxiv.org/pdf/2306.05670.pdf)**
-
-Updated on 2024-09-26
+**[178. [2306.05670] One-Shot Machine Unlearning with Mnemonic Code](https://arxiv.org/pdf/2306.05670.pdf)** (Updated on 2024-09-26)
 
 *Tomoya Yamashita, Masanori Yamada, Takashi Shibata*
 
@@ -4782,9 +4426,7 @@ sophisticated architectures.
 
 ---
 
-**[179. [2401.11467] Over-Reasoning and Redundant Calculation of Large Language Models](https://arxiv.org/pdf/2401.11467.pdf)**
-
-Updated on 2024-03-21
+**[179. [2401.11467] Over-Reasoning and Redundant Calculation of Large Language Models](https://arxiv.org/pdf/2401.11467.pdf)** (Updated on 2024-03-21)
 
 *Cheng-Han Chiang, Hung-yi Lee*
 
@@ -4805,9 +4447,7 @@ https://huggingface.co/datasets/dcml0714/GSM8K-Zero.
 ---
 
 **[180. [2502.13416] Detecting LLM Fact-conflicting Hallucinations Enhanced by
-  Temporal-logic-based Reasoning](https://arxiv.org/pdf/2502.13416.pdf)**
-
-Updated on 2025-02-20
+  Temporal-logic-based Reasoning](https://arxiv.org/pdf/2502.13416.pdf)** (Updated on 2025-02-20)
 
 *Ningke Li, Yahui Song, Kailong Wang, Yuekang Li, Ling Shi, Yi Liu, Haoyu Wang*
 
@@ -4839,9 +4479,7 @@ temporal-related hallucinations ranging from 16.7% to 39.2%.
 
 ---
 
-**[181. [2402.02160] Data Poisoning for In-context Learning](https://arxiv.org/pdf/2402.02160.pdf)**
-
-Updated on 2024-03-29
+**[181. [2402.02160] Data Poisoning for In-context Learning](https://arxiv.org/pdf/2402.02160.pdf)** (Updated on 2024-03-29)
 
 *Pengfei He, Han Xu, Yue Xing, Hui Liu, Makoto Yamada, Jiliang Tang*
 
@@ -4866,9 +4504,7 @@ in applications relying on in-context learning.
 ---
 
 **[182. [2409.14038] OAEI-LLM: A Benchmark Dataset for Understanding Large Language Model
-  Hallucinations in Ontology Matching](https://arxiv.org/pdf/2409.14038.pdf)**
-
-Updated on 2025-02-04
+  Hallucinations in Ontology Matching](https://arxiv.org/pdf/2409.14038.pdf)** (Updated on 2025-02-04)
 
 *Zhangcheng Qiang, Kerry Taylor, Weiqing Wang, Jing Jiang*
 
@@ -4884,9 +4520,7 @@ use cases.
 
 ---
 
-**[183. [2410.02879] Position: LLM Unlearning Benchmarks are Weak Measures of Progress](https://arxiv.org/pdf/2410.02879.pdf)**
-
-Updated on 2025-04-09
+**[183. [2410.02879] Position: LLM Unlearning Benchmarks are Weak Measures of Progress](https://arxiv.org/pdf/2410.02879.pdf)** (Updated on 2025-04-09)
 
 *Pratiksha Thaker, Shengyuan Hu, Neil Kale, Yash Maurya, Zhiwei Steven Wu, Virginia Smith*
 
@@ -4912,9 +4546,7 @@ research.
 
 ---
 
-**[184. [2503.01224] CE-U: Cross Entropy Unlearning](https://arxiv.org/pdf/2503.01224.pdf)**
-
-Updated on 2025-03-18
+**[184. [2503.01224] CE-U: Cross Entropy Unlearning](https://arxiv.org/pdf/2503.01224.pdf)** (Updated on 2025-03-18)
 
 *Bo Yang*
 
@@ -4934,9 +4566,7 @@ stability and convergence.
 
 ---
 
-**[185. [2406.13236] Data Contamination Can Cross Language Barriers](https://arxiv.org/pdf/2406.13236.pdf)**
-
-Updated on 2024-10-31
+**[185. [2406.13236] Data Contamination Can Cross Language Barriers](https://arxiv.org/pdf/2406.13236.pdf)** (Updated on 2024-10-31)
 
 *Feng Yao, Yufan Zhuang, Zihao Sun, Sunan Xu, Animesh Kumar, Jingbo Shang*
 
@@ -4964,9 +4594,7 @@ we use can be obtained from \url{https://github.com/ShangDataLab/Deep-Contam}.
 ---
 
 **[186. [2402.09299] Trained Without My Consent: Detecting Code Inclusion In Language Models
-  Trained on Code](https://arxiv.org/pdf/2402.09299.pdf)**
-
-Updated on 2024-11-01
+  Trained on Code](https://arxiv.org/pdf/2402.09299.pdf)** (Updated on 2024-11-01)
 
 *Vahid Majdinasab, Amin Nikanjam, Foutse Khomh*
 
@@ -4997,9 +4625,7 @@ across thousands of code snippets.
 
 ---
 
-**[187. [2312.02052] DUCK: Distance-based Unlearning via Centroid Kinematics](https://arxiv.org/pdf/2312.02052.pdf)**
-
-Updated on 2024-05-07
+**[187. [2312.02052] DUCK: Distance-based Unlearning via Centroid Kinematics](https://arxiv.org/pdf/2312.02052.pdf)** (Updated on 2024-05-07)
 
 *Marco Cotogni, Jacopo Bonato, Luigi Sabetta, Francesco Pelosin, Alessandro Nicolosi*
 
@@ -5024,9 +4650,7 @@ explainable AI techniques for deeper insights.
 ---
 
 **[188. [2401.16603] LeftoverLocals: Listening to LLM Responses Through Leaked GPU Local
-  Memory](https://arxiv.org/pdf/2401.16603.pdf)**
-
-Updated on 2024-01-31
+  Memory](https://arxiv.org/pdf/2401.16603.pdf)** (Updated on 2024-01-31)
 
 *Tyler Sorensen, Heidy Khlaaf*
 
@@ -5042,9 +4666,7 @@ llama.cpp) across process or container boundaries.
 ---
 
 **[189. [2503.13572] VeriContaminated: Assessing LLM-Driven Verilog Coding for Data
-  Contamination](https://arxiv.org/pdf/2503.13572.pdf)**
-
-Updated on 2025-04-15
+  Contamination](https://arxiv.org/pdf/2503.13572.pdf)** (Updated on 2025-04-15)
 
 *Zeng Wang, Minghao Shao, Jitendra Bhandari, Likhitha Mankali, Ramesh Karri, Ozgur Sinanoglu, Muhammad Shafique, Johann Knechtel*
 
@@ -5068,9 +4690,7 @@ benchmarking).
 
 ---
 
-**[190. [2406.13748] Learn and Unlearn in Multilingual LLMs](https://arxiv.org/pdf/2406.13748.pdf)**
-
-Updated on 2024-12-16
+**[190. [2406.13748] Learn and Unlearn in Multilingual LLMs](https://arxiv.org/pdf/2406.13748.pdf)** (Updated on 2024-12-16)
 
 *Taiming Lu, Philipp Koehn*
 
@@ -5093,9 +4713,7 @@ reliability across diverse linguistic landscapes.
 ---
 
 **[191. [2502.11441] Which Retain Set Matters for LLM Unlearning? A Case Study on Entity
-  Unlearning](https://arxiv.org/pdf/2502.11441.pdf)**
-
-Updated on 2025-02-18
+  Unlearning](https://arxiv.org/pdf/2502.11441.pdf)** (Updated on 2025-02-18)
 
 *Hwan Chang, Hwanhee Lee*
 
@@ -5120,9 +4738,7 @@ achieving effective and practical LLM unlearning.
 ---
 
 **[192. [2504.06658] A Neuro-inspired Interpretation of Unlearning in Large Language Models
-  through Sample-level Unlearning Difficulty](https://arxiv.org/pdf/2504.06658.pdf)**
-
-Updated on 2025-04-10
+  through Sample-level Unlearning Difficulty](https://arxiv.org/pdf/2504.06658.pdf)** (Updated on 2025-04-10)
 
 *Xiaohua Feng, Yuyuan Li, Chengye Wang, Junlin Liu, Li Zhang, Chaochao Chen*
 
