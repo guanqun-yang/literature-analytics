@@ -7,3 +7,4 @@
 - [Bert (20250428)](2025/04/20250428_bert.md)
 - [Conformal Hallucination Chunk Rag (20250428)](2025/04/20250428_conformal_hallucination_chunk_rag.md)
 - [Conformal Prediction Hallucination Control Mitigation (20250428)](2025/04/20250428_conformal_prediction_hallucination_control_mitigation.md)
+- [Control Or Mitigate Llm Hallucination With Conformal Prediction (20250428)](2025/04/20250428_control_or_mitigate_llm_hallucination_with_conformal_prediction.md)
