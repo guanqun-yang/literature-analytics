@@ -6,3 +6,4 @@
 - [Conformal Safety Llm (20250430)](2025/04/20250430_conformal_safety_llm.md)
 - [Evaluating Llm-As-Judge (20250501)](2025/05/20250501_evaluating_llm-as-judge.md)
 - [Evaluating Llm-As-Judge (20250529)](2025/05/20250529_evaluating_llm-as-judge.md)
+- [Certify Abstain Llm Security (20250529)](2025/05/20250529_certify_abstain_llm_security.md)
